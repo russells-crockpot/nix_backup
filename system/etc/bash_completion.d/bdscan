@@ -1,0 +1,48 @@
+#
+#   Author: The BitDefender Team <unices@bitdefender.com>
+#   Copyright (c) 2006-2008 BITDEFENDER SRL
+#
+#
+#   This program is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+_bdscan()
+{
+
+    local cmd cur
+
+    COMPREPLY=()
+    cur=${COMP_WORDS[COMP_CWORD]}
+
+    cmd='\
+	--no-archive \
+	--no-mail \
+	--no-pack \
+	--no-recursive \
+	--recursive-level= \
+	--archive-level= \
+	--ext= \
+	--exclude-ext= \
+	--action= \
+	--suspect-copy \
+	--suspect-move \
+	--quarantine= \
+	--conf-file= \
+	--log= \
+	--log-overwrite \
+	--no-list \
+	--no-warnings \
+	--verbose \
+	--update \
+	--virus-list \
+	--info \
+	--version \
+	--help \
+	--?'
+
+    COMPREPLY=($(compgen -W "$cmd" -- $cur))
+    return 0
+}
+complete -F _bdscan -o default bdscan

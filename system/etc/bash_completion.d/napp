@@ -1,0 +1,82 @@
+
+_napp_find_napprpc(){
+    local current_dir=`pwd`
+    while [[ $current_dir != '' ]]; do
+        expr match "`ls $current_dir`" '.*\<napprc\>.*' > /dev/null
+        if [ $? -eq 0 ]; then
+            #echo $current_dir
+            break
+        fi
+        current_dir=${current_dir%/*}
+    done
+    if [[ $current_dir == '' ]]; then
+        if [ -e ./napp ]; then
+            current_dir=$(echo `find ./napp/ -type f -name napprc` | cut -f 1 -d " ")
+        fi
+        if [[ $current_dir == '' ]]; then
+            current_dir=$(echo `find . -name napprc -type f -not -path "./napp/*"` | cut -f 1 -d " ")
+        fi
+
+        if [[ $current_dir != '' ]]; then
+            current_dir=${current_dir%/*}
+        fi
+    fi
+
+    if [[ $current_dir != '' ]]; then
+        echo $current_dir
+        return 0
+    fi
+    return 1
+
+}
+
+_napp()
+{
+    local cur prev napp_opts http_opts
+    COMPREPLY=()
+    no_flags=( `echo ${COMP_WORDS[@]} | sed 's/[[:blank:]]-f//g' | sed 's/[[:blank:]]-[a-zA-Z] [^[:blank:]]\+//g' | sed 's/[[:blank:]]-[a-zA-Z]//g'` )
+    num_cmds=${#no_flags[@]}
+    cur="${COMP_WORDS[COMP_CWORD]}"
+    prev="${COMP_WORDS[COMP_CWORD-1]}"
+    if [[ $prev == -* && $prev != "-f" ]]; then
+        return 0
+    fi
+    prev_cmd="${no_flags[num_cmds-2]}"
+    napp_opts="help login push http version marshal"
+    #TODO im pretty sure not all of these methods are supported
+    http_opts="get head post put delete trace connect"
+
+    if [[ $prev_cmd == 'napp' || $prev_cmd == 'help' ]]; then
+        COMPREPLY=( $(compgen -W "${napp_opts}" -- ${cur}) )
+        return 0
+    elif [[ $prev_cmd == 'http' ]]; then
+        COMPREPLY=( $(compgen -W "${http_opts}" -- ${cur,,}) )
+        return 0
+    fi
+    napp_home=`_napp_find_napprpc`
+    if [[ $napp_home == '' ]]; then
+        napp_home='.'
+    fi
+    if [[ $prev_cmd == 'push' ]]; then
+        COMPREPLY=( $(compgen -o dirnames -- ${cur}) )
+    elif [[ $prev_cmd == 'marshal' ]]; then
+        COMPREPLY=( $(compgen -o dirnames -- ${cur}) )
+    #TODO improve this
+    #elif [[ $prev == '' ]]; then
+        #COMPREPLY=( $(compgen -o dirnames -- ${cur}) )
+    fi
+    #COMPREPLY=( $(compgen -o bashdefault  -- ${cur}) )
+
+    #set | grep '^COMP' >> ~/completion-test/evironment_variables
+    #echo "cur=$cur" >> ~/completion-test/evironment_variables
+    #echo "prev=$prev" >> ~/completion-test/evironment_variables
+    #echo >> ~/completion-test/evironment_variables
+    #echo "==================================================================================================" >> ~/completion-test/evironment_variables
+    #echo >> ~/completion-test/evironment_variables
+
+    return 0
+}
+
+complete -F _napp napp
+
+# vim:set ft=sh:

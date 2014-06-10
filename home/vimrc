@@ -1,0 +1,105 @@
+au BufWrite ?* mkview
+au BufRead ?* silent loadview
+
+if has('mouse')
+  set mouse=a
+endif
+set nocompatible
+set showcmd
+
+" Folding Stuffs
+set foldmethod=marker
+
+" Needed for Syntax Highlighting and stuff
+filetype on
+filetype plugin on
+syntax enable
+set grepprg=grep\ -nH\ $*
+
+" Indentation
+set autoindent
+set expandtab
+set smarttab
+set shiftwidth=4
+set softtabstop=4
+
+" syntax highlighting
+syntax on
+filetype on                 " enables filetype detection
+filetype plugin indent on   " enables filetype specific plugins
+
+if version >= 700
+   set spl=en spell
+   set nospell
+endif
+
+" Cool tab completion stuff
+set wildmenu
+set wildmode=list:longest,full
+
+
+
+let g:lua_inspect_warnings = 0
+set number
+nmap <Space> i_<Esc>r
+" figure out some command for append
+":nmap <Space> a_<Esc>r
+"set clipboard=unnamedplus
+"let g:python = 'python2'
+"let g:pydoc = 'pydoc2'
+"let g:pyflakes_use_quickfix = 0 
+"let g:syntastic_python_checkers=[]
+"let g:syntastic_python_checker_args='--ignore=E501,E225'
+
+" visual
+"highlight Normal ctermbg=black
+"set background=dark
+set nocursorline
+"set t_Co=256
+ 
+" colorpack
+colorscheme dante
+"colorscheme peachpuff 
+
+" gundo
+nnoremap <F5> :GundoToggle<CR>
+
+" lusty
+set hidden
+
+" pep8
+let g:pep8_map='<leader>8'
+let g:pep8_ignore="E501,E701,E226,W0611,C901,W0401,W391,W0612"
+
+let g:syntastic_python_checker_args="--ignore=E501,E701,E226,W0611,C601,W0401,W391,W0612"
+let g:pymode_lint_ignore="E501,E701,E226,W0611,C901,W0401,W391,W0612"
+
+
+" supertab
+au FileType python set omnifunc=pythoncomplete#Complete
+let g:SuperTabDefaultCompletionType = "context"
+set completeopt=menuone,longest,preview"
+
+" Commenting blocks of code.
+"autocmd FileType c,cpp,java,scala let b:comment_leader = '// '
+"autocmd FileType sh,ruby,python   let b:comment_leader = '# '
+"autocmd FileType conf,fstab       let b:comment_leader = '# '
+"autocmd FileType tex              let b:comment_leader = '% '
+"autocmd FileType mail             let b:comment_leader = '> '
+"autocmd FileType vim              let b:comment_leader = '" '
+"autocmd FileType lua              let b:comment_leader = '--'
+"noremap <silent> ,cc :<C-B>silent <C-E>s/^/<C-R>=escape(b:comment_leader,'\/')<CR>/<CR>:nohlsearch<CR>
+"noremap <silent> ,cu :<C-B>silent
+" <C-E>s/^\V<C-R>=escape(b:comment_leader,'\/')<CR>//e<CR>:nohlsearch<CR>
+
+" Lua Support
+let s:Lua_AuthorName     = "Brendan McGloin"
+"let s:Lua_AuthorRef      = ""
+let s:Lua_Email          = "russels.crockpot@gmail.com"
+
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+
+au BufNewFile,BufRead *.lsc,*.lscript, setlocal ft=lscript
+

@@ -1,0 +1,717 @@
+" All system-wide defaults are set in $VIMRUNTIME/archlinux.vim (usually just
+" /usr/share/vim/vimfiles/archlinux.vim) and sourced by the call to :runtime
+" you can find below.  If you wish to change any of those settings, you should
+" do it in this file (/etc/vimrc), since archlinux.vim will be overwritten
+" everytime an upgrade of the vim packages is performed.  It is recommended to
+" make changes after sourcing archlinux.vim since it alters the value of the
+" 'compatible' option.
+
+" This line should not be removed as it ensures that various options are
+" properly set to work with the Vim-related packages.
+runtime! archlinux.vim
+
+
+" If you prefer the old-style vim functionalty, add 'runtime! vimrc_example.vim'
+" Or better yet, read /usr/share/vim/vim74/vimrc_example.vim or the vim manual
+" and configure vim to your own liking!
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" My stuff                                                  {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" General                                                   {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+let g:ctrlp_map = '<c-p>'
+
+" Enable omnicomplete
+set omnifunc=syntaxcomplete#Complete
+
+" Instead of failing a command because of unsaved changes, instead raise a
+" dialogue asking if you wish to save changed files.
+set confirm
+
+" how many lines of history to remember
+set history=2500
+
+" automatically detected values for fileformat in this order
+set fileformats=unix,dos,mac
+
+" none of these should be word dividers, so make them not be
+set iskeyword+=_,$,@,%,#,-
+
+" Folding Stuffs
+"set foldmethod=marker
+"set foldmethod=syntax
+set foldmethod=indent
+
+" Indentation
+set autoindent
+set smartindent
+set smarttab
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+
+" syntax highlighting
+"syntax enable
+syntax on
+filetype on
+filetype plugin on
+filetype indent on
+filetype plugin indent on
+set grepprg=grep\ -nH\ $*
+
+" Set to auto read when a file is changed from the outside
+set autoread
+
+" Use <F8> to toggle between 'paste' and 'nopaste'
+set pastetoggle=<F8>
+
+" Map <C-L> (redraw screen) to also turn off search highlighting until the
+" next search
+noremap <C-L> :nohl<CR><C-L>
+inoremap <C-L> :nohl<CR><C-L>
+
+set background=dark
+"set foreground=dark
+let maplocalleader=","
+
+"""""""""""""""""""""""""""""""""""""""""""""
+set copyindent
+" figure out a way to toggle cursorbind
+
+" }}}
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Key Bindings                                                  {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+map <leader>tl <Plug>TaskList
+noremap <leader>N :NERDTreeToggle<CR>
+"vnoremap <leader>N :NERDTreeToggle<CR>
+noremap <leader>G :GundoToggle<CR>
+"vnoremap <leader>G :GundoToggle<CR>
+noremap <leader>te :ConqueTerm bash<CR>
+"vnoremap <leader>te :ConqueTerm bash<CR>
+vnoremap <leader>= ggVG=
+
+" Allow deleting single characters without updating the default register
+noremap x "_x
+noremap c "_c
+" Paste in visual mode without updating the default register
+vnoremap p "_dP
+
+nmap <C-o> o<Esc>
+nmap <M-o> O<Esc>
+
+" Yanking to clipboard
+nnoremap <leader>ycw "+yw
+nnoremap <leader>ycW "+yW
+nnoremap <leader>ycb "+yb
+nnoremap <leader>ycB "+yB
+nnoremap <leader>yc^ "+y^
+nnoremap <leader>yc$ "+y$
+"nnoremap <leader>ycw "+yw
+"nnoremap <leader>ycw "+yw
+"nnoremap <leader>ycw "+yw
+vnoremap <leader>yc "+y
+
+:nmap <Leader>vw <Plug>VimwikiIndex
+
+"nnoremap <leader>bp :bp<CR>
+"vnoremap <leader>bp :bp<CR>
+
+"nnoremap <leader>bn :bn<CR>
+"vnoremap <leader>bn :bn<CR>
+noremap <C-N> :bn<CR>
+noremap <C-B> :bp<CR>
+
+" Toggle word wrap
+nnoremap <leader>ww :set wrap!<CR>
+vnoremap <leader>ww :set wrap!<CR>
+
+nmap <M-h> :<<CR>
+nmap <M-l> :><CR>
+nmap <M-j> mz:m+<cr>`z
+nmap <M-k> mz:m-2<cr>`z
+vmap <M-j> :m'>+<cr>`<my`>mzgv`yo`z
+vmap <M-k> :m'<-2<cr>`>my`<mzgv`yo`z
+vmap <M-h> :<<CR>gv
+vmap <M-l> :><CR>gv
+"vnoremap > >gv
+"vnoremap < <gv
+" }}}
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Plugins                                                   {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" UtiliSnips{{{
+"Bundle 'SirVer/ultisnips'
+"Bundle 'honza/vim-snippets'
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+
+" }}}
+
+" NERDTree {{{
+let NERDChristmasTree = 1
+" Broken
+"let NERDTreeIgnore+='\.pyc$','\.class$'
+let NERDTreeMouseMode=3
+" Find some way to toggle this
+"let NERDTreeShowHidden=1
+" }}}
+
+" gundo {{{
+"nnoremap <F5> :GundoToggle<CR>
+" }}}
+
+" Lua_Support {{{
+
+" }}}
+
+" BufExplorer {{{
+" Maybe
+" let g:bufExplorerShowNoName=1        " Show "No Name" buffers.
+let g:bufExplorerShowRelativePath=1  " Show relative paths.
+let g:bufExplorerSortBy='number'     " Sort by the buffer's number.
+" }}}
+
+" pymode {{{
+let g:pymode = 1
+let g:pymode_trim_whitespaces = 1
+let g:pymode_quickfix_minheight = 3
+let g:pymode_quickfix_maxheight = 6
+let g:pymode_folding = 1
+" This is causing issues...
+"let g:pymode_indent = []
+let g:pymode_motion = 1
+let g:pymode_doc = 1
+let g:pymode_doc_bind = 'K'
+let g:pymode_run = 1
+let g:pymode_run_bind = '<leader>r'
+let g:pymode_lint = 1
+let g:pymode_lint_unmodified = 0
+let g:pymode_lint_on_fly = 0
+let g:pymode_lint_message = 1
+let g:pymode_lint_checkers = ['pep8', 'pyflakes']
+let g:pymode_lint_ignore="E501,E701,E226,W0611,C901,W0401,W391"
+let g:pymode_lint_cwindow = 1
+let g:pymode_syntax = 1
+let g:pymode_syntax_all = 1
+" }}}
+
+" Conque {{{
+let g:ConqueTerm_PyVersion = 2
+let g:ConqueTerm_FastMode = 1
+let g:ConqueTerm_Color = 2
+" Maybe...
+"let g:ConqueTerm_ReadUnfocused = 1
+let g:ConqueTerm_ExecFileKey = '<F11>'
+let g:ConqueTerm_SendFileKey = '<F10>'
+let g:ConqueTerm_SendVisKey = '<F9>'
+" }}}
+
+" }}}
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" File type specific                                        {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" Lua {{{
+"augroup ft_lua
+"    au!
+"    au FileType lua setlocal foldmethod=syntax
+"augroup END
+au BufRead,BufNewFile *.ld set filetype=lua
+" }}}
+
+" Java {{{
+au BufRead,BufNewFile *.jad set filetype=java
+autocmd Filetype java setlocal omnifunc=javacomplete#Complete
+autocmd Filetype java setlocal completefunc=javacomplete#CompleteParamsInfo
+inoremap <buffer> <C-X><C-U> <C-X><C-U><C-P>
+inoremap <buffer> <C-S-Space> <C-X><C-U><C-P>
+" }}}
+
+" HTML/XML {{{
+"augroup ft_html
+"au BufNewFile,BufRead *.xml,*.htm,*.html so /usr/share/vim/vimfiles/XMLFolding.vim
+au BufNewFile,BufRead *.htm,*.html,*.xml setlocal foldmethod=indent
+au BufNewFile,BufRead *.htm,*.html,*.xml noremap <localleader>f zfat<CR>
+"augroup END
+" }}}
+
+" }}}
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" GVim                                                      {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" May not want 't' (tearoff)
+set guioptions=cemgt
+
+" }}}
+
+" }}}
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Other {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Files/Backups {{{
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" make backup file
+set backup
+
+set backupext=.vim.bak
+
+" directory is the directory for temp file
+set directory=.,~/tmp,/var/tmp,/tmp
+
+" Name of the errorfile for the :make command
+set makeef=make.err'
+
+"}}}
+
+" Show the line and column number of the cursor position
+set ruler
+
+" shortens messages to avoid 'press a key' prompt
+set shortmess=atI
+
+" tell us when any line is changed via : commands
+set report=0
+
+if has('mouse')
+  set mouse=a
+endif
+set nocompatible
+set showcmd
+
+
+" With a map leader it's possible to do extra key combinations
+" like <leader>w saves the current file
+let mapleader = ","
+let g:mapleader = "\\"
+
+if version >= 700
+   set spl=en spell
+   set nospell
+endif
+
+" Cool tab completion stuff
+set wildmenu
+set wildmode=list:longest,full
+
+" Configure backspace so it acts as it should act
+set backspace=2
+" May change this
+set whichwrap+=<,>,h,l
+
+" Highlight search results
+set hlsearch
+set incsearch
+
+" No annoying sound on errors
+set noerrorbells
+set novisualbell
+set t_vb=
+set tm=500
+
+set noswapfile
+
+let g:lua_inspect_warnings = 0
+
+set number
+
+nmap <Space> i_<Esc>r
+"TODO
+nmap <c-space> a_<Esc>r
+
+" Make Y rest of line instead of whole line (like D or C)
+nnoremap Y y$
+
+" Delete trailing white space on save, useful for Python and CoffeeScript ;)
+func! DeleteTrailingWS()
+    exe "normal mz"
+    %s/\s\+$//ge
+    exe "normal `z"
+endfunc
+"autocmd BufWrite *.py :call DeleteTrailingWS()
+autocmd BufWrite *.js :call DeleteTrailingWS()
+autocmd BufWrite *.json :call DeleteTrailingWS()
+autocmd BufWrite *.java :call DeleteTrailingWS()
+autocmd BufWrite *.lua :call DeleteTrailingWS()
+autocmd BufWrite *.lsc :call DeleteTrailingWS()
+autocmd BufWrite *.lscript :call DeleteTrailingWS()
+autocmd BufWrite *.coffee :call DeleteTrailingWS()"
+
+autocmd BufReadPost *
+     \ if line("'\"") > 0 && line("'\"") <= line("$") |
+     \   exe "normal! g`\"" |
+     \ endif
+" Remember info about open buffers on close
+set viminfo^=%
+
+" figure out some command for append
+":nmap <Space> a_<Esc>r
+"set clipboard=unnamedplus
+"let g:python = 'python2'
+"let g:pydoc = 'pydoc2'
+"let g:pyflakes_use_quickfix = 0 
+"let g:syntastic_python_checkers=[]
+"let g:syntastic_python_checker_args='--ignore=E501,E225'
+
+" visual
+ 
+" colorpack
+colorscheme dante
+
+"highlight Normal ctermbg=black
+"set background=dark
+set nocursorline
+"set t_Co=256
+
+" lusty
+set hidden
+
+" pep8
+let g:pep8_map='<leader>p8'
+let g:pep8_ignore="E501,E701,E226,W0611,C901,W0401,W391"
+
+let g:syntastic_python_checker_args="--ignore=E501,E701,E226,W0611,C601,W0401,W391"
+
+
+" supertab
+"au FileType python set omnifunc=pythoncomplete#Complete
+let g:SuperTabDefaultCompletionType = "context"
+set completeopt=menuone,longest,preview"
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Spell checking
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Pressing ,ss will toggle and untoggle spell checking
+map <leader>ss :setlocal spell!<cr>
+
+" Shortcuts using <leader>
+map <leader>sn ]s
+map <leader>sp [s
+map <leader>sa zg
+map <leader>s? z=
+
+" Commenting blocks of code.
+"autocmd FileType c,cpp,java,scala let b:comment_leader = '// '
+"autocmd FileType sh,ruby,python   let b:comment_leader = '# '
+"autocmd FileType conf,fstab       let b:comment_leader = '# '
+"autocmd FileType tex              let b:comment_leader = '% '
+"autocmd FileType mail             let b:comment_leader = '> '
+"autocmd FileType vim              let b:comment_leader = '" '
+"autocmd FileType lua              let b:comment_leader = '--'
+"noremap <silent> ,cc :<C-B>silent <C-E>s/^/<C-R>=escape(b:comment_leader,'\/')<CR>/<CR>:nohlsearch<CR>
+"noremap <silent> ,cu :<C-B>silent
+" <C-E>s/^\V<C-R>=escape(b:comment_leader,'\/')<CR>//e<CR>:nohlsearch<CR>
+
+"}}}
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
+" Source: https://bitbucket.org/sjl/dotfiles/src/cbbbc897e9b3/vim/vimrc {{{
+" Basic stuff
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set ttyfast
+set undofile
+set shell=/bin/bash
+"set splitbelow
+set splitright
+set title
+" TODO
+" set dictionary=/usr/share/dict/words
+" set spellfile=~/.vim/custom-dictionary.utf-8.add
+" set thesaurus=
+set notimeout
+set ttimeout
+set ttimeoutlen=2000
+set completeopt=longest,menuone,preview
+
+
+set wildmode=list:longest
+
+set wildignore+=.hg,.git,.svn                    " Version control
+set wildignore+=*.aux,*.out,*.toc                " LaTeX intermediate files
+set wildignore+=*.jpg,*.bmp,*.gif,*.png,*.jpeg   " binary images
+set wildignore+=*.o,*.obj,*.exe,*.dll,*.manifest " compiled object files
+set wildignore+=*.spl                            " compiled spelling word lists
+set wildignore+=*.sw?                            " Vim swap files
+set wildignore+=*.DS_Store                       " OSX bullshit
+set wildignore+=*.luac                           " Lua byte code
+set wildignore+=migrations                       " Django migrations
+set wildignore+=*.pyc                            " Python byte code"
+" maybe add compressed files?
+set wildignore+=*.class,*.jar
+set wildignore+=*~
+
+
+set undodir=~/.vim/tmp/undo//     " undo files
+set backupdir=~/.vim/tmp/backup// " backups
+"set directory=~/.vim/tmp/swap//   " swap files
+
+" Clean trailing whitespace
+nnoremap <leader>w mz:%s/\s\+$//<cr>:let @/=''<cr>`z
+
+" Select entire buffer
+" nnoremap vaa ggvGg_
+" nnoremap Vaa ggVG
+
+" HTML tag closing
+"inoremap <C-_> <Space><BS><Esc>:call InsertCloseTag()<cr>a
+
+"TODO find a way to autoindent
+" Select (charwise) the contents of the current line, excluding indentation.
+" Great for pasting Python lines into REPLs.
+" nnoremap vv ^vg_
+
+" Toggle [i]nvisible characters
+nnoremap <leader>i :set list!<cr>
+
+" <m-j> and <m-k> to drag lines in any mode
+" noremap ∆ :m+<CR>
+" noremap ˚ :m-2<CR>
+" inoremap ∆ <Esc>:m+<CR>
+" inoremap ˚ <Esc>:m-2<CR>
+" vnoremap ∆ :m'>+<CR>gv
+" vnoremap ˚ :m-2<CR>gv
+
+" Easy filetype switching {{{
+nnoremap _js :set ft=javascript<CR>
+" }}}
+
+" Quick editing -----------------------------------------------------------
+" {{{
+"
+" nnoremap <leader>ev :vsplit $MYVIMRC<cr>
+" nnoremap <leader>eV :vsplit scp://vagrant//<cr>
+" nnoremap <leader>ef :vsplit ~/.config/fish/config.fish<cr>
+" nnoremap <leader>ed :vsplit ~/.vim/custom-dictionary.utf-8.add<cr>
+" nnoremap <leader>eo :vsplit ~/Dropbox/Org<cr>4j
+" nnoremap <leader>eh :vsplit ~/.hgrc<cr>
+" nnoremap <leader>ep :vsplit ~/.pentadactylrc<cr>
+" nnoremap <leader>em :vsplit ~/.mutt/muttrc<cr>
+" nnoremap <leader>ez :vsplit ~/lib/dotfiles/zsh<cr>4j
+" nnoremap <leader>ek :vsplit ~/lib/dotfiles/keymando/keymandorc.rb<cr>
+" nnoremap <leader>et :vsplit ~/.tmux.conf<cr>
+"
+" " }}}
+
+set hlsearch
+
+" TODO
+" Easy buffer navigation
+"noremap <C-h> <C-w>h
+"noremap <C-j> <C-w>j
+"noremap <C-k> <C-w>k
+"noremap <C-l> <C-w>l
+
+" Highlight word 
+nnoremap <silent> <leader>hh :execute 'match InterestingWord1 /\<<c-r><c-w>\>/'<cr>
+nnoremap <silent> <leader>h1 :execute 'match InterestingWord1 /\<<c-r><c-w>\>/'<cr>
+nnoremap <silent> <leader>h2 :execute '2match InterestingWord2 /\<<c-r><c-w>\>/'<cr>
+nnoremap <silent> <leader>h3 :execute '3match InterestingWord3 /\<<c-r><c-w>\>/'<cr>
+
+" Filetype-specific folding 
+" {{{
+
+" C {{{
+
+augroup ft_c
+    au!
+    au FileType c setlocal foldmethod=syntax
+augroup END
+" }}}
+
+
+" CSS {{{
+augroup ft_css
+    au!
+
+    au BufNewFile,BufRead *.less setlocal filetype=less
+
+    au Filetype less,css setlocal foldmethod=marker
+    au Filetype less,css setlocal foldmarker={,}
+    au Filetype less,css setlocal omnifunc=csscomplete#CompleteCSS
+    au Filetype less,css setlocal iskeyword+=-
+    au BufNewFile,BufRead *.less,*.css nnoremap <buffer> <localleader>S ?{<CR>jV/\v^\s*\}?$<CR>k:sort<CR>:noh<CR>
+    au BufNewFile,BufRead *.less,*.css inoremap <buffer> {<cr> {}<left><cr><space><space><space><space>.<cr><esc>kA<bs>
+augroup END
+
+" }}}
+
+" HTML {{{
+"let g:html_indent_tags = ['p', 'li']
+
+"augroup ft_html
+        "au!
+
+        "au BufNewFile,BufRead *.html setlocal filetype=htmldjango
+        "au FileType html,jinja,htmldjango setlocal foldmethod=manual
+
+        "" Use <localleader>f to fold the current tag.
+        "au FileType html,jinja,htmldjango nnoremap <buffer> <localleader>f Vatzf
+
+        "" Use <localleader>t to fold the current templatetag.
+        "au FileType html,jinja,htmldjango nmap <buffer> <localleader>t viikojozf
+
+        "" Smarter pasting
+        "au FileType html,jinja,htmldjango nnoremap <buffer> p :<C-U>YRPaste 'p'<CR>v`]=`]
+        "au FileType html,jinja,htmldjango nnoremap <buffer> P :<C-U>YRPaste 'P'<CR>v`]=`]
+        "au FileType html,jinja,htmldjango nnoremap <buffer> π :<C-U>YRPaste 'p'<CR>
+        "au FileType html,jinja,htmldjango nnoremap <buffer> ∏ :<C-U>YRPaste 'P'<CR>
+
+        "" Indent tag
+        "au FileType html,jinja,htmldjango nnoremap <buffer> <localleader>= Vat=
+"augroup END
+" }}}
+
+" Java {{{
+
+augroup ft_java
+    au!
+
+    au FileType java setlocal foldmethod=marker
+    au FileType java setlocal foldmarker={,}
+augroup END
+
+" }}}
+" Javascript {{{
+
+augroup ft_javascript
+    au!
+
+    au FileType javascript setlocal foldmethod=marker
+    au FileType javascript setlocal foldmarker={,}
+
+    " Make {<cr> insert a pair of brackets in such a way that the cursor is correctly
+    " positioned inside of them AND the following code doesn't get unfolded.
+    au Filetype javascript inoremap <buffer> {<cr> {}<left><cr><space><space><space><space>.<cr><esc>kA<bs>
+augroup END
+
+" }}}
+" Lisp {{{
+
+augroup ft_lisp
+    au!
+    au FileType lisp call TurnOnLispFolding()
+augroup END
+
+" }}}
+
+" Python {{{
+
+"augroup ft_python
+"    au!
+"
+"    " au FileType python setlocal omnifunc=pythoncomplete#Complete
+"    au FileType python setlocal define=^\s*\\(def\\\\|class\\)
+"    au FileType python compiler nose
+"    au FileType man nnoremap <buffer> <cr> :q<cr>
+"
+"    " Jesus tapdancing Christ, built-in Python syntax, you couldn't let me
+"    " override this in a normal way, could you?
+"    au FileType python if exists("python_space_error_highlight") | unlet python_space_error_highlight | endif
+"
+"    " Jesus, Python.  Five characters of punctuation for a damn string?
+"    au FileType python inoremap <buffer> <c-g> _(u'')<left><left>
+"
+"    au FileType python inoremap <buffer> <c-b> """"""<left><left><left>
+"augroup END
+
+" }}}
+
+" Vim {{{
+
+augroup ft_vim
+    au!
+
+    au FileType vim setlocal foldmethod=marker
+    au FileType help setlocal textwidth=78
+    au BufWinEnter *.txt if &ft == 'help' | wincmd L | endif
+augroup END
+
+" }}}
+
+" Python-Mode {{{
+"
+"let g:pymode_doc = 1
+"let g:pymode_doc_key = '<localleader>ds'
+"let g:pydoc = 'pydoc'
+"let g:pymode_syntax = 1
+"let g:pymode_syntax_all = 0
+"let g:pymode_syntax_builtin_objs = 1
+"let g:pymode_syntax_print_as_function = 0
+"let g:pymode_syntax_space_errors = 0
+"let g:pymode_run = 0
+"let g:pymode_lint = 0
+"let g:pymode_breakpoint = 0
+"let g:pymode_utils_whitespaces = 0
+"let g:pymode_virtualenv = 0
+"let g:pymode_folding = 0
+"
+"let g:pymode_options_indent = 0
+"let g:pymode_options_fold = 0
+"let g:pymode_options_other = 0
+"
+"let g:pymode_rope = 1
+"let g:pymode_rope_global_prefix = "<localleader>R"
+"let g:pymode_rope_local_prefix = "<localleader>r"
+"let g:pymode_rope_auto_project = 1
+"let g:pymode_rope_enable_autoimport = 0
+"let g:pymode_rope_autoimport_generate = 1
+"let g:pymode_rope_autoimport_underlineds = 0
+"let g:pymode_rope_codeassist_maxfixes = 10
+"let g:pymode_rope_sorted_completions = 1
+"let g:pymode_rope_extended_complete = 1
+"let g:pymode_rope_autoimport_modules = ["os", "shutil", "datetime"]
+"let g:pymode_rope_confirm_saving = 1
+"let g:pymode_rope_vim_completion = 1
+"let g:pymode_rope_guess_project = 1
+"let g:pymode_rope_goto_def_newwin = 0
+"let g:pymode_rope_always_show_complete_menu = 0
+
+" }}}
+
+" Block Colors {{{
+
+let g:blockcolor_state = 0
+function! BlockColor() " {{{
+    if g:blockcolor_state
+        let g:blockcolor_state = 0
+        call matchdelete(77881)
+        call matchdelete(77882)
+        call matchdelete(77883)
+        call matchdelete(77884)
+        call matchdelete(77885)
+    else
+        let g:blockcolor_state = 1
+        call matchadd("BlockColor1", '^ \{4}.*', 1, 77881)
+        call matchadd("BlockColor2", '^ \{8}.*', 2, 77882)
+        call matchadd("BlockColor3", '^ \{12}.*', 3, 77883)
+        call matchadd("BlockColor4", '^ \{16}.*', 4, 77884)
+        call matchadd("BlockColor5", '^ \{20}.*', 5, 77885)
+    endif
+endfunction " }}}
+" Default highlights {{{
+hi def BlockColor1 guibg=#222222
+hi def BlockColor2 guibg=#2a2a2a
+hi def BlockColor3 guibg=#353535
+hi def BlockColor4 guibg=#3d3d3d
+hi def BlockColor5 guibg=#444444
+" }}}
+nnoremap <leader>B :call BlockColor()<cr>
+
+" }}}
+" }}}
+

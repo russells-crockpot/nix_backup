@@ -1,0 +1,137 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+PS1="\[\033[0;37m\]\342\224\214\342\224\200\$([[ \$? != 0 ]] && echo \"[\[\033[0;31m\]\342\234\227\[\033[0;37m\]]\342\224\200\")[$(if [[ ${EUID} == 0 ]]; then echo '\[\033[0;31m\]\h'; else echo '\[\033[0;35m\]\u\[\033[0;37m\]'; fi)\[\033[0;37m\]]\342\224\200[\[\033[0;32m\]\w\[\033[0;37m\]]\n\[\033[0;37m\]\342\224\224\342\224\200\342\224\200\342\225\274 \[\033[0m\]"
+
+# Add SSH key
+#ssh-add ~/.ssh/id_rsa
+
+alias mnt4all='sudo mount -o noauto,users,rw,umask=000,flush'
+alias mntiso='sudo mount -o loop -t iso9660'
+#alias umount='sudo umount'
+#alias packer-color='sudo packer-color'
+alias find_keycode="xev | grep -A2 --line-buffered '^KeyRelease' | sed -n '/keycode /s/^.*keycode \([0-9]*\).* (.*, \(.*\)).*$/\1 \2/p'"
+alias find_cmd="compgen -ac | grep"
+alias play_text="mplayer -vo aa:extended:floyd_steinberg:boldfont:bold:dim:reverse:osdcolor=5 -monitorpixelaspect 0.60"
+source /usr/share/doc/pkgfile/command-not-found.bash
+alias ptest='ping -c 3 google.com'
+alias plplay='mplayer -playlist'
+alias pacinstall='sudo packer-color --noconfirm -S'
+alias pacupdate='sudo packer-color --noconfirm -Syu'
+alias arfarf='wine ~/.wine/drive_c/users/Public/Application\ Data/webex/WebEx/500/nbrplay.exe'
+alias makeclean='make clean'
+#alias mount='mount | column -t'
+alias gsvn-pull='git svn fetch && git merge origin/trunk'
+
+export UNCRUSTIFY_CONFIG=~/.config/uncrustify/default.cfg
+
+export GOPATH=$HOME/workspace/go
+export PATH=$PATH:$GOPATH/bin
+
+#prefix_wine(){
+#}
+
+alias skprefix='env WINEARCH=win32 WINEPREFIX=~/.local/share/wineprefixes/kotor1'
+alias skwine='env WINEARCH=win32 WINEPREFIX=~/.local/share/wineprefixes/kotor1 wine'
+alias steamed-wine='env WINEPREFIX=~/.local/share/wineprefixes/steam wine'
+alias kotor='env WINEPREFIX=~/.local/share/wineprefixes/steam wine ~/wine-bottles/steam/drive_c/Program\ Files\ \(x86\)/Steam/SteamApps/common/swkotor/swkotor.exe'
+napush-all(){
+    local old_wd=$PWD
+    if [[ $1 != "" ]]; then
+        cd $1
+    fi
+    if [ -e ./system/domain-secret-map ]; then
+        cd ./system/domain-secret-map
+        echo "Pushing up the domain secret map"
+        napp ${*:2} push
+        cd $OLDPWD
+    fi
+    if [ -e ./system/_security ]; then
+        cd ./system/_security
+        echo
+        echo "Pushing up the system security doc"
+        napp ${*:2} push
+        cd $OLDPWD
+    fi
+    if [ -e ./system ]; then
+        echo
+        echo "Pushing up system"
+        napp ${*:2} push system
+    fi
+
+    if [ -e ./lookups/_security ]; then
+        cd ./lookups/_security
+        echo
+        echo "Pushing up the lookups security doc"
+        napp ${*:2} push
+        cd $OLDPWD
+    fi
+    if [ -e ./lookups ]; then
+        echo
+        echo "Pushing up lookups"
+        napp ${*:2} push lookups
+    fi
+
+    for folder in `ls`; do
+        if [ -d $folder ]; then
+            if [[ $folder == "lookups" ]]; then
+                continue
+            fi
+            if [[ $folder != "system" ]]; then
+                if [ -e ./$folder/_security ]; then
+                    cd ./$folder/_security
+                    echo
+                    echo "Pushing up the $folder security doc"
+                    napp ${*:2} push
+                    cd $OLDPWD
+                fi
+                echo
+                echo "Pushing up" $folder
+                napp ${*:2} push $folder 
+            fi
+        fi
+    done
+    cd $old_wd 
+}
+#alias napush-all=napush-all
+
+naget(){
+    napp ${*:2} http get $1 | jsonpp -e 'iso-8859-1'
+}
+#alias naget='napp http get $1 | jsonpp'
+alias naget=naget
+#alias naget-t='naget -h'
+alias mplayer-nofs='/usr/bin/mplayer'
+alias mplayer='mplayer -fs'
+
+#download_site(){
+#wget -rpk  -l 2
+#}
+
+#sudo-cmd(){
+#sudo sh -c 
+#}
+
+french-it(){
+    if [[ $LANG == "en_US.UTF-8" ]];then
+        sudo localectl set-locale LANG="fr_CA.UTF-8" 
+    elif [[ $LANG == "fr_CA.UTF-8" ]];then
+        sudo localectl set-locale LANG="en_US.UTF-8" 
+    fi
+}
+
+alias fr-chromium='env LANG=fr_CA.UTF-8 chromium'
+alias star-wars='telnet towel.blinkenlights.nl'
+shopt -s autocd
+alias star-wars-tr='traceroute -m 254 -q1 obiwan.scrye.net'
+alias alsaequal='alsamixer -D equal'
+alias pachas='pacman -Qq | grep -i '
+alias rev-rm='find -type f -name _rev.json -exec rm -f {} \;'
+alias ps-grep='ps -A | grep'
+alias lnclr='echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"'
+#alias enc-all='find -name *.json -type f -exec sh -c "uni2ascii -a U {} | sponge {}" \; -exec sh -c "echo {} 1>&2" \; 2> enc_error'
+alias enc-json='find -name *.json -type f -exec sh -c "uni2ascii -q -a U {} | sponge {}" \; -exec echo {} \; 1>&2 > enc_errors'

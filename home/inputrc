@@ -1,0 +1,15 @@
+set editing-mode vi
+#set show-mode-in-prompt on
+set echo-control-characters off
+#set completion-ignore-case on
+
+set keymap vi-command
+\e\e[A": history-search-backward
+\e\e[B": history-search-forward
+# Insert the arguments from the last command
+#"p": "i !!*\r"
+
+set keymap vi-insert
+#\e\e[A": history-search-backward
+#\e\e[B": history-search-forward
+"p": self-insert
