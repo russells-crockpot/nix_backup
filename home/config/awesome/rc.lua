@@ -132,7 +132,8 @@ function display_critical_text(text, title)
 end
 
 function shift_to_tag(shift_amount, switch)
-    if not client then
+    if not client or not client.focus then
+        awful.tag.viewidx(shift_amount)
         return
     end
     local current_client = client.focus
@@ -169,6 +170,11 @@ function shift_to_tag(shift_amount, switch)
     if switch then
         awful.tag.viewonly(tag)
     end
+    --local succeeded, idx = pcall(awful.client.idx, c)
+    --if succeeded and idx.col == 0 then
+        ----TODO focus
+        --awful.client.focus.byidx(0, c)
+    --end
     --TODO make sure the client is still focused
 end
 
@@ -261,7 +267,7 @@ for s = 1, screen.count() do
                     if #clients <= 1 then return end
                     for j,c in ipairs(clients) do
                         local succeeded, idx = pcall(awful.client.idx, c)
-                        if succeeded and idx.col ==0 then
+                        if succeeded and idx.col == 0 then
                             --TODO focus
                             awful.client.focus.byidx(0, c)
                         end
@@ -683,7 +689,7 @@ for i = 1, 9 do
                            awful.tag.viewonly(tag)
                         end
                   end),
-        awful.key({ modkey, "Control" }, "#" .. i + 9,
+        awful.key({ modkey, "Mod1" }, "#" .. i + 9,
                   function ()
                       local screen = mouse.screen
                       local tag = awful.tag.gettags(screen)[i]
@@ -697,6 +703,16 @@ for i = 1, 9 do
                           local tag = awful.tag.gettags(client.focus.screen)[i]
                           if tag then
                               awful.client.movetotag(tag)
+                          end
+                     end
+                  end),
+        awful.key({ modkey, "Control" }, "#" .. i + 9,
+                  function ()
+                      if client.focus then
+                          local tag = awful.tag.gettags(client.focus.screen)[i]
+                          if tag then
+                            awful.client.movetotag(tag)
+                            awful.tag.viewonly(tag)
                           end
                      end
                   end),

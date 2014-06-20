@@ -61,6 +61,11 @@ cp -r /etc/vimrc ~/backup/system/etc/
 cp -r /etc/wgetrc ~/backup/system/etc/
 cp -r /etc/mime.types ~/backup/system/etc/
 
+if [ ! -e ~/backup/system/usr/ ]; then
+    mkdir -p ~/backup/system/usr/
+fi
+cp -r /usr/bin/jsonpp ~/backup/system/
+
 #cp -r / ~/backup/system/
 #cp -r / ~/backup/system/
 #cp -r / ~/backup/system/

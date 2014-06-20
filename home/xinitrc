@@ -18,4 +18,5 @@ xset -b
 
 numlockx &
 
-exec awesome
+#exec awesome
+exec /usr/bin/awesome >> ~/.cache/awesome/logs/stdout 2>> ~/.cache/awesome/logs/stderr

@@ -46,12 +46,13 @@ if [ $UID -ne 0 ]; then
 fi
 
 alias ls='ls -h --color=auto'
-alias lr='ls -R'                    # recursive ls
+alias lr='ls -R'                   # recursive ls
 alias ll='ls -l'
 alias la='ll -A'
-alias lx='ll -BX'                   # sort by extension
-alias lz='ll -rS'                   # sort by size
-alias lt='ll -rt'                   # sort by date
+alias lx='ll -BX'                  # sort by extension
+alias lz='ll -rS'                  # sort by size
+alias lss='ll -rS'                 # sort by size
+alias lt='ll -t'                   # sort by date
 alias lm='la | more'
 alias l.='ls -dh .* --color=auto'
 eval $(dircolors -b)

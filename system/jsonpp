@@ -1,0 +1,62 @@
+#!/usr/bin/env python
+
+"""
+Convert JSON data to human-readable form.
+
+Usage:
+  prettyJSON.py inputFile [outputFile]
+"""
+
+import json
+import argparse
+import sys
+
+
+class Command(object):
+    pass
+
+def make_parser():
+    parser = argparse.ArgumentParser(__file__, description='Outputs pretty printed json.')
+    parser.add_argument('-o', nargs='?', help='File to output to if different from', required=False,
+                        type=str, dest='out_file')
+    parser.add_argument('-c', help='Output to the console', required=False, dest='console',
+                        action='store_true')
+    parser.add_argument('-i', '--indent', nargs='?', help='Number of spaces to use when indenting',
+                        required=False, dest='indent', type=int, default=4)
+    parser.add_argument('-e', '--encoding', nargs='?', help='Encoding to use',
+                        required=False, dest='encoding', type=str, default='utf-8')
+    parser.add_argument('-s', '--sort_keys', help='Whether or not keys should be sorted', action='store_true',
+                        required=False, dest='sort_keys', default=True)
+    #TODO
+    #parser.add_argument('in_file', nargs=argparse.REMAINDER, help='File to pretty print.', type=str)
+    parser.add_argument('in_file', nargs='?', help='File to pretty print.', type=str)
+    return parser
+
+
+def main():
+    cmd = Command()
+    parser=make_parser()
+    parser.parse_args(namespace=cmd)
+
+    value = None
+    if sys.stdin.isatty():
+        in_file = open(cmd.in_file)
+        value = json.load(in_file)
+        in_file.close()
+    else:
+        value = json.load(sys.stdin)
+
+    if cmd.console or not sys.stdin.isatty():
+        print json.dumps(value, sort_keys=cmd.sort_keys, indent = cmd.indent, encoding=cmd.encoding)
+    else:
+        out_file = None;
+        if cmd.out_file:
+            out_file = open(cmd.out_file, 'w')
+        else:
+            out_file = open(cmd.in_file, 'w')
+        json.dump(value, out_file, sort_keys=cmd.sort_keys, indent = cmd.indent, encoding=cmd.encoding)
+        out_file.close()
+        print 'Done'
+
+if __name__ == "__main__":
+    main()

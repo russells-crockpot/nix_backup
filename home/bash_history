@@ -59149,3 +59149,6476 @@ vim ./SecureContext.java ./SecureClassShutter.java
 mv ./SecureContext.java ./SecureContextFactory.java 
 #1402349346
 vim ./SecureContextFactory.java 
+#1402326105
+df
+#1402325876
+cd
+#1402325889
+iw
+#1402325893
+if
+#1402325900
+ifconfig
+#1402326049
+ptest 
+#1402326059
+pacsearch broadcom
+#1402326096
+pacinstall roadcom-wl
+#1402326100
+pacinstall broadcom-wl
+#1402326152
+pacinstall broadcom-wl-dkms
+#1402326600
+mkdir /media/Generic/old-scifi
+#1402326611
+./videos/
+#1402326627
+mkdir cheesy-old-scifi
+#1402326662
+../src_codes/ffmpeg/
+#1402326670
+vim ./conf-command
+#1402328465
+cd 
+#1402328466
+clear
+#1402328488
+vim ./.config/awesome/rc.lua 
+#1402328841
+./backup/
+#1402355822
+chmod +x ./backup.sh 
+#1402355866
+rm ./home/ ./system/
+#1402355882
+vim ./backup.sh 
+#1402355894
+./backup.sh 
+#1402355895
+ls
+#1402355899
+ls -a
+#1402326299
+ptest
+#1402326457
+mnt4all /dev/sdb1 /media/Generic/
+#1402326461
+clear
+#1402326464
+./videos/
+#1402326465
+ls
+#1402326606
+rsync ./\[Classic\ Sci-Fi\ \]\ The\ Lost\ World\ \(1960\).avi ./\[Classic\ Sci-Fi\ \]\ The\ Green\ Slime\ \(1968\).avi ./\[Classic\ Sci-Fi\ \]\ It\!\ The\ Terror\ From\ Beyond\ Space\ \(1958\).avi ./\[Classic\ Sci-Fi\ \]\ Battle\ Beyond\ The\ Sun\ \ \(1960\)\ \ \(by\ slowone\).avi /media/Generic/old-scifi/
+#1402327130
+sudo umount /media/Generic 
+#1402326690
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto 
+#1402326746
+pacsearch aacenc
+#1402326813
+pacinstall vo-aacenc
+#1402326927
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto --enable-libfaac 
+#1402327246
+make
+#1402362125
+alsamixer 
+#1402326813
+pacinstall vo-aacenc
+#1402326927
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto --enable-libfaac 
+#1402327246
+make
+#1402362090
+./videos/
+#1402362109
+mplayer ./\[Classic\ Sci-Fi\ \]\ Panic\ In\ The\ Year\ Zero\!\ \(1962\).avi 
+#1402362861
+mplayer ./\[Classic\ Sci-Fi\ \]\ Fire\ Maidens\ of\ Outer\ Space\ \(1956\).avi 
+#1402369553
+./old-scifi/
+#1402369560
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Human\ Vapor\ \(1960\)/
+#1402369563
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Human\ Vapor\ \(1960\)/The\ Human\ Vapor.avi 
+#1402369591
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Monolith\ Monsters\ \(1957\).avi 
+#1402375952
+ls
+#1402376014
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Brain\ From\ Planet\ Arous\ \(1957\).avi 
+#1402341505
+df
+#1402341611
+rm /media/Generic/old-scifi/*
+#1402355638
+apg -a 1 -M NCL
+#1402357690
+apg -a 1 -M N
+#1402357707
+apg -a 1 -M N -m 6 -x 6
+#1402355590
+man apg
+#1402330583
+./eformslib/src-eformslib/com/tempusnova/eformslib/annotations/
+#1402330590
+vim ./Assign
+#1402330594
+vim ./Assign*
+#1402332584
+./videos/
+#1402332621
+ls /media/Generic/old-scifi/
+#1402332659
+rsync ./\[Classic\ Sci-Fi\ \]\ Tobor\ the\ Great\ \(1954\)\ .avi ./\[Classic\ Sci-Fi\ \]\ The\ Brain\ From\ Planet\ Arous\ \(1957\).avi /media/Generic/old-scifi/
+#1402332992
+mv ./cheesy-old-scifi/ ./old-scifi/
+#1402341480
+mnt4all /dev/sdb1 /media/Generic/
+#1402341484
+clear
+#1402341484
+ls
+#1402341613
+rsync ./\[Classic\ Sci-Fi\ \]\ 4D\ Man\ \(1959\).avi ./\[Classic\ Sci-Fi\ \]\ Panic\ In\ The\ Year\ Zero\!\ \(1962\).avi ./\[Classic\ Sci-Fi\ \]\ Voyage\ to\ the\ Bottom\ of\ the\ Sea\ \(1961\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ The\ Amazing\ Colossal\ Man\ \(1957\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ Red\ Planet\ Mars\ \(1952\)\ \(LoneWolf\).avi /media/Generic/old-scifi/
+#1402342009
+sudo umount /media/Generic 
+#1402414649
+ls ..
+#1402341480
+mnt4all /dev/sdb1 /media/Generic/
+#1402341613
+rsync ./\[Classic\ Sci-Fi\ \]\ 4D\ Man\ \(1959\).avi ./\[Classic\ Sci-Fi\ \]\ Panic\ In\ The\ Year\ Zero\!\ \(1962\).avi ./\[Classic\ Sci-Fi\ \]\ Voyage\ to\ the\ Bottom\ of\ the\ Sea\ \(1961\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ The\ Amazing\ Colossal\ Man\ \(1957\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ Red\ Planet\ Mars\ \(1952\)\ \(LoneWolf\).avi /media/Generic/old-scifi/
+#1402342009
+sudo umount /media/Generic 
+#1402414649
+ls ..
+#1402417486
+cd
+#1402417489
+./Downloads/
+#1402417500
+extract ./commons-lang-2.6-bin.tar.gz 
+#1402417566
+extract ./kryo-master.zip 
+#1402417574
+./kryo
+#1402417575
+./kryo-master/
+#1402417595
+mvn javadoc:javadoc 
+#1402417650
+ls
+#1402417661
+ls ./target/
+#1402417665
+ls ./target/javadoc-bundle-options/
+#1402417669
+ls ./target/site/
+#1402417671
+ls ./target/site/apidocs/
+#1402417673
+clear
+#1402417680
+../commons-lang-2.6/
+#1402417691
+extract ./commons-lang-2.6-javadoc.jar 
+#1402417336
+../novus/
+#1402417340
+vim ./pom.xml 
+#1402417336
+../novus/
+#1402417340
+vim ./pom.xml 
+#1402423234
+ls
+#1402423237
+ll
+#1402423283
+mv ./JavascriptFunction.java ./JavaScriptFunction.java 
+#1402423310
+sed -i 's/JavascriptFunction/JavaScriptFunction/g' ./JavaScriptFunction.java 
+#1402423312
+clear
+#1402423761
+vim ./test.js 
+#1402438180
+../novus/
+#1402441349
+./src/main/java/com/tempusnova/novus/
+#1402414649
+ls ..
+#1402421886
+clear
+#1402421887
+./run.sh 
+#1402341613
+rsync ./\[Classic\ Sci-Fi\ \]\ 4D\ Man\ \(1959\).avi ./\[Classic\ Sci-Fi\ \]\ Panic\ In\ The\ Year\ Zero\!\ \(1962\).avi ./\[Classic\ Sci-Fi\ \]\ Voyage\ to\ the\ Bottom\ of\ the\ Sea\ \(1961\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ The\ Amazing\ Colossal\ Man\ \(1957\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ Red\ Planet\ Mars\ \(1952\)\ \(LoneWolf\).avi /media/Generic/old-scifi/
+#1402342009
+sudo umount /media/Generic 
+#1402415120
+./workspace/rhino-playground/
+#1402415126
+./src/main/java/com/tempusnova/rhino/
+#1402415128
+clear
+#1402415129
+ls
+#1402416872
+vim ./SecureClassShutter.java scratch
+#1402428749
+vim ./Secure*
+#1402440548
+vim ./JavaScriptFunction.java 
+#1402440650
+vim ./JavaScriptFunction.java ./App.java 
+#1402413008
+sudo vim /etc/asound.conf 
+#1402413068
+alsamixer 
+#1402414649
+ls ..
+#1402414972
+../../workspace/novus/.git/
+#1402415030
+cd ~/projects/./loauth2/
+#1402415033
+./.git/
+#1402415036
+vim ./config 
+#1402341480
+mnt4all /dev/sdb1 /media/Generic/
+#1402341613
+rsync ./\[Classic\ Sci-Fi\ \]\ 4D\ Man\ \(1959\).avi ./\[Classic\ Sci-Fi\ \]\ Panic\ In\ The\ Year\ Zero\!\ \(1962\).avi ./\[Classic\ Sci-Fi\ \]\ Voyage\ to\ the\ Bottom\ of\ the\ Sea\ \(1961\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ The\ Amazing\ Colossal\ Man\ \(1957\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ Red\ Planet\ Mars\ \(1952\)\ \(LoneWolf\).avi /media/Generic/old-scifi/
+#1402342009
+sudo umount /media/Generic 
+#1402413178
+cd
+#1402413182
+vim ./.config/awesome/rc.lua 
+#1402414886
+git clone git@github.com:russells-crockpot/nix_backup.git
+#1402414908
+mv ./backup/* ./nix_backup/
+#1402414915
+ls ./backup/
+#1402414923
+ls -a ./backup/
+#1402414941
+mv ./nix_backup/* ./backup/
+#1402414944
+./backup/
+#1402414948
+./.git
+#1402414953
+vim ./config 
+#1402415074
+..
+#1402415088
+gita --all .
+#1402415090
+gits
+#1402415102
+gitcm "Initial push"
+#1402415106
+git push
+#1402424112
+clear
+#1402424114
+ls
+#1402432728
+ls
+#1402436177
+ls ..
+#1402436199
+ls ../Monster\ Kaiju\ Pack\ \(\ Godzilla\ Gamera\ Mothra\ +++\)/
+#1402341505
+df
+#1402341611
+rm /media/Generic/old-scifi/*
+#1402355638
+apg -a 1 -M NCL
+#1402357690
+apg -a 1 -M N
+#1402357707
+apg -a 1 -M N -m 6 -x 6
+#1402355590
+man apg
+#1402330583
+./eformslib/src-eformslib/com/tempusnova/eformslib/annotations/
+#1402330590
+vim ./Assign
+#1402330594
+vim ./Assign*
+#1402332584
+./videos/
+#1402332621
+ls /media/Generic/old-scifi/
+#1402332659
+rsync ./\[Classic\ Sci-Fi\ \]\ Tobor\ the\ Great\ \(1954\)\ .avi ./\[Classic\ Sci-Fi\ \]\ The\ Brain\ From\ Planet\ Arous\ \(1957\).avi /media/Generic/old-scifi/
+#1402332992
+mv ./cheesy-old-scifi/ ./old-scifi/
+#1402341480
+mnt4all /dev/sdb1 /media/Generic/
+#1402341613
+rsync ./\[Classic\ Sci-Fi\ \]\ 4D\ Man\ \(1959\).avi ./\[Classic\ Sci-Fi\ \]\ Panic\ In\ The\ Year\ Zero\!\ \(1962\).avi ./\[Classic\ Sci-Fi\ \]\ Voyage\ to\ the\ Bottom\ of\ the\ Sea\ \(1961\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ The\ Amazing\ Colossal\ Man\ \(1957\).avi ./old-scifi/\[Classic\ Sci-Fi\ \]\ Red\ Planet\ Mars\ \(1952\)\ \(LoneWolf\).avi /media/Generic/old-scifi/
+#1402342009
+sudo umount /media/Generic 
+#1402414567
+./videos/old-scifi/
+#1402414604
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Monster\ That\ Challenged\ The\ World\ \(1957\).avi 
+#1402414659
+..
+#1402414672
+mplayer \[Classic\ Sci-Fi\ \]\ The\ Navy\ vs.\ the\ Night\ Monsters\ \(drforbin\)\ \(1966\).avi 
+#1402420880
+./Classic\ Sci\ Fi\ Film\ Vault/
+#1402420885
+ll
+#1402420898
+../
+#1402420908
+./old-scifi/
+#1402420935
+mplayer \[Classic\ Sci-Fi\ \]\ The\ Amazing\ Colossal\ Man\ \(1957\).avi 
+#1402432524
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Day\ the\ Earth\ Caught\ Fire\ \(1961\).avi 
+#1402432566
+clear
+#1402432567
+ls
+#1402432592
+mplayer ./\[Classic\ Sci-Fi\ \]\ Project\ Moonbase\ \(1953\)\ @dap-js\ rip@.avi 
+#1402412891
+./.screenlayout/hdmi.sh 
+#1402471791
+mplayer ./HomemadeAnal\ \[JAM-HOT.com\].avi 
+#1402471519
+./.priv/Inconspicuous_Folder/Vids/
+#1402471520
+clear
+#1402471527
+screengen ./Ally.avi 
+#1402471538
+screengen shorthair3728.wmv 
+#1402471551
+screengen Hot\ french\ red\ head\ gets\ it.avi 
+#1402471576
+screengen wcx_mandy_tiffany.mp4 
+#1402471582
+screengen wcx_wiska.flv 
+#1402471598
+screengen HomemadeAnal\ \[JAM-HOT.com\].avi 
+#1402471606
+screengen nw412.wmv 
+#1402471616
+screengen ./Short\ Hair\ Horny\ Blonde\ Anal\ Fucking\ in\ Bathtub\ with\ POV\ Style\ Asslicking.avi 
+#1402471624
+geeqie 
+#1402462284
+./src_codes/
+#1402462293
+mkdir astropy
+#1402462296
+./astropy/
+#1402462305
+git clone https://github.com/astropy/astropy.git
+#1402462377
+git clone https://github.com/astropy/astroquery.git
+#1402462392
+git clone https://github.com/astropy/astropy-helpers.git
+#1402462399
+git clone https://github.com/astropy/astropy-tutorials.git
+#1402412891
+./.screenlayout/hdmi.sh 
+#1402459557
+pacsearch astronomy
+#1402462367
+pacinstall python2-astropy gimp-plugin-astronomy erfa sofaastroavibrowser-svn python2-astlib nightshade
+#1402462639
+pacinstall python2-astropy gimp-plugin-astronomy erfa sofa astroavibrowser-svn python2-astlib nightshade
+#1402471920
+sudo rm /usr/bin/python
+#1402471950
+sudo ln -s /usr/bin/python2.7 /usr/bin/python
+#1402471953
+term2048 
+#1402471931
+ln --help
+#1402451260
+alsamixer 
+#1402471953
+term2048 
+#1402471931
+ln --help
+#1402451260
+alsamixer 
+#1402504042
+./Downloads/
+#1402504048
+vim ./JSSECrypto*
+#1402504432
+../workspace/rhino-playground/
+#1402504443
+./src/main/java/com/tempusnova/rhino/
+#1402504445
+ls
+#1402504465
+vim ./App.java JavaScriptFunction.java ./Secure*
+#1402504474
+ll -t
+#1402507039
+clear
+#1402507552
+cd
+#1402507554
+./Downloads/
+#1402507556
+clear
+#1402507559
+vim ./JSSECrypto
+#1402507562
+vim ./JSSECrypto*
+#1402507946
+vim ./JSSECrypto*\
+#1402507946
+vim ./JSSECrypto*\
+#1402509286
+~/workspace/novalibrary/
+#1402509364
+../novus/
+#1402509365
+vim ./pom.xml 
+#1402513255
+ls
+#1402507554
+./Downloads/
+#1402507559
+vim ./JSSECrypto
+#1402507562
+vim ./JSSECrypto*
+#1402507946
+vim ./JSSECrypto*\
+#1402507946
+vim ./JSSECrypto*\
+#1402509286
+~/workspace/novalibrary/
+#1402509364
+../novus/
+#1402509365
+vim ./pom.xml 
+#1402511074
+~/Downloads/rhino1_7R4/
+#1402511087
+./src/org/mozilla/javascript/
+#1402511101
+..
+#1402511104
+....
+#1402511108
+l.
+#1402511115
+./toolsrc/org/mozilla/javascript/tools/
+#1402511117
+clear
+#1402511123
+./shell/
+#1402511124
+ls
+#1402511130
+vim ./Global.java 
+#1402504548
+vim ./App.java Secure*
+#1402459557
+pacsearch astronomy
+#1402462367
+pacinstall python2-astropy gimp-plugin-astronomy erfa sofaastroavibrowser-svn python2-astlib nightshade
+#1402462639
+pacinstall python2-astropy gimp-plugin-astronomy erfa sofa astroavibrowser-svn python2-astlib nightshade
+#1402471920
+sudo rm /usr/bin/python
+#1402471950
+sudo ln -s /usr/bin/python2.7 /usr/bin/python
+#1402471953
+term2048 
+#1402471931
+ln --help
+#1402451260
+alsamixer 
+#1402507066
+vim ./pom.xml ../novus/pom.xml 
+#1402509860
+rm ./target/
+#1402509867
+mkdir ./target
+#1402509875
+cp ./rhino-1.7R4.jar ./target/
+#1402509897
+mvn -U package
+#1402509913
+vim ./pom.xml 
+#1402510031
+~/.m2
+#1402510068
+find . | grep -i gson
+#1402510080
+~/workspace/novus/
+#1402510125
+cp ~/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar ./
+#1402510153
+mv ./gson-2.2.4.jar ../rhino-playground/
+#1402510155
+../rhino-playground/
+#1402510156
+clear
+#1402510157
+ls
+#1402510165
+cp ./gson-2.2.4.jar ./target/
+#1402510167
+./run.sh 
+#1402504474
+ll -t
+#1402507046
+../novus/
+#1402508703
+./src/main/java/com/tempusnova/novus/
+#1402508705
+ls
+#1402513759
+vim .clear
+#1402513763
+clear
+#1402513773
+vim ./Context.java 
+#1402514240
+vim ./Context.java ./Document.java Revision.java 
+#1402520763
+cp ./Secure* ./JavaScriptFunction.java JsAccessible.java ~/workspace/novus/src/main/java/com/tempusnova/novus/javascript/
+#1402509913
+vim ./pom.xml 
+#1402510031
+~/.m2
+#1402510068
+find . | grep -i gson
+#1402510080
+~/workspace/novus/
+#1402510125
+cp ~/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar ./
+#1402510153
+mv ./gson-2.2.4.jar ../rhino-playground/
+#1402510155
+../rhino-playground/
+#1402510165
+cp ./gson-2.2.4.jar ./target/
+#1402510167
+./run.sh 
+#1402504474
+ll -t
+#1402507046
+../novus/
+#1402508703
+./src/main/java/com/tempusnova/novus/
+#1402513759
+vim .clear
+#1402513773
+vim ./Context.java 
+#1402514240
+vim ./Context.java ./Document.java Revision.java 
+#1402520763
+cp ./Secure* ./JavaScriptFunction.java JsAccessible.java ~/workspace/novus/src/main/java/com/tempusnova/novus/javascript/
+#1402522847
+ll
+#1402522936
+cp ../../gfs/canadaIssueManagement/napp/system/ .
+#1402522948
+cp ../../gfs/canadaIssueManagement/dv-server ..
+#1402522950
+../dv-server 
+#1402522968
+touch local.sh
+#1402522970
+./dv-server 
+#1402523007
+./dev_appserver 
+#1402523025
+mvn appengine:devserver
+#1402523231
+./napp/
+#1402523305
+mkdir ./js_test
+#1402523312
+ls ./grump/
+#1402523325
+cp ./grump/_design ./js_test/
+#1402523327
+./js_test/
+#1402523334
+./_design/
+#1402523335
+ls
+#1402523339
+rm no/
+#1402523669
+mkdir test/events
+#1402523721
+cp ~/workspace/gfs/canadaIssueManagement/napp/issues/_design/issue/events/postupdate.json ./test/events/
+#1402523970
+vim ./test/events/postupdate.json 
+#1402523978
+napp push
+#1402524009
+./test/events/
+#1402524016
+mv ./postupdate.json ./testevent.json
+#1402524018
+...
+#1402524019
+..
+#1402524022
+rev-rm 
+#1402524094
+napush-all .
+#1402524348
+naget /js_test
+#1402524357
+napp http get /js_test
+#1402524363
+napp http get js_test
+#1402524369
+naget js_test
+#1402524373
+clear
+#1402524425
+naget js_test/_design/test/_trigger/testevent
+#1402525154
+vim ./js_test/_design/test/events/testevent.json 
+#1402525304
+./js_test/_design/test/events/
+#1402525307
+napp push
+#1402504493
+vim ./test
+#1402504497
+vim ./test.js 
+#1402520975
+mvn package 
+#1402520947
+~/workspace/novus/
+#1402520969
+./src/main/java/com/tempusnova/novus/javascript/
+#1402523387
+clear
+#1402523388
+ls
+#1402523391
+vim ./*
+#1402514240
+vim ./Context.java ./Document.java Revision.java 
+#1402520763
+cp ./Secure* ./JavaScriptFunction.java JsAccessible.java ~/workspace/novus/src/main/java/com/tempusnova/novus/javascript/
+#1402524124
+~/workspace/gfs/canadaCreditNote/
+#1402524133
+./credit-note/credit-note-app/
+#1402524143
+./src/main/webapp/WEB-INF/
+#1402524144
+ls
+#1402524149
+vim ./cron.xml 
+#1402524593
+~/workspace/rhino-playground/src/main/java/com/tempusnova/rhino/
+#1402524597
+vim ./App.java 
+#1402525201
+~/workspace/gfs/canadaIssueManagement/napp/issues/_design/issue/events/
+#1402525204
+vim ./postupdate.json 
+#1402520763
+cp ./Secure* ./JavaScriptFunction.java JsAccessible.java ~/workspace/novus/src/main/java/com/tempusnova/novus/javascript/
+#1402523210
+./workspace/novus/
+#1402524000
+rm ./generated/
+#1402524078
+./dv-server 
+#1402505102
+vim ./.config/awesome/rc.lua 
+#1402509286
+~/workspace/novalibrary/
+#1402509364
+../novus/
+#1402509365
+vim ./pom.xml 
+#1402510867
+pacsearch qvideoconverter
+#1402515419
+pacinstall qvideoconverter
+#1402515493
+pacsearch ogmrip
+#1402515528
+pacinstall ogmrip ogmrip-profile
+#1402515534
+pacinstall ogmrip ogmrip-profiles
+#1402517386
+pacinstall ogmrip
+#1402517421
+man ogmrip
+#1402517426
+
+#1402517452
+ogmrip 
+#1402517486
+ogmrip --help-all
+#1402517503
+ogmrip --debug
+#1402517562
+pacsearch handbrake
+#1402517766
+handbrake
+#1402517773
+pacman -Ql handbrake
+#1402517781
+ghb
+#1402519496
+./videos/old-scifi/rips/
+#1402519497
+ls
+#1402519498
+ll
+#1402519501
+..
+#1402519505
+rm ./rips/
+#1402520591
+./public-domain/
+#1402520598
+mplayer ./UnknownWorld.ogv 
+#1402520615
+clear
+#1402520803
+mplayer ./UnknownWorld.avi 
+#1402521229
+mplayer ./MesaOfLostWomen.avi 
+#1402521246
+mplayer ./MesaOfLostWomen.ogv 
+#1402521255
+rm ./*.ogv
+#1402517562
+pacsearch handbrake
+#1402517766
+handbrake
+#1402517773
+pacman -Ql handbrake
+#1402517781
+ghb
+#1402519496
+./videos/old-scifi/rips/
+#1402519498
+ll
+#1402519501
+..
+#1402519505
+rm ./rips/
+#1402520591
+./public-domain/
+#1402520598
+mplayer ./UnknownWorld.ogv 
+#1402520803
+mplayer ./UnknownWorld.avi 
+#1402521229
+mplayer ./MesaOfLostWomen.avi 
+#1402521246
+mplayer ./MesaOfLostWomen.ogv 
+#1402521255
+rm ./*.ogv
+#1402527249
+rm ./0023e73468.wmv 
+#1402527286
+find . | grep 24076
+#1402527302
+rm ./Perry\'s\ DP\'s\ #07\ 540р/24076_02_hd.mp4*
+#1402527332
+mv ./Perry\'s\ DP\'s\ #07\ 540р/24076_01_hd.mp4 .
+#1402527335
+rm ./Perry\'s\ DP\'s\ #07\ 540р/
+#1402527360
+find . | grep -r Priya
+#1402527380
+find . | grep -i Priya
+#1402527393
+rm ./BUSTY_HOUSEWIVES/covers\ \&\ ss/
+#1402527401
+rm ./BUSTY_HOUSEWIVES/2\ Priya\ Rai.mp4*
+#1402527422
+rm ./34.KVtrztlib.mp4 
+#1402527437
+rm ./BUSTY_HOUSEWIVES/3\ Claire\ Dames.mp4*
+#1402527456
+rm ./BUSTY_HOUSEWIVES/
+#1402527478
+rm ./Angela\ White\,\ Siri\ -\ X\ Siri.mp4 
+#1402527489
+rm ./asian\ blow\ job.avi 
+#1402527529
+rm ./Big\ Black\ Dicks\ And\ Tattooed\ Chicks\ \(Burning\ Angel\)\ XXX\ NEW\ 2014\ \(Split\ Scenes\)/Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Cassie\ Ryder.mp4 
+#1402527549
+rm ./Big\ Black\ Dicks\ And\ Tattooed\ Chicks\ \(Burning\ Angel\)\ XXX\ NEW\ 2014\ \(Split\ Scenes\)/Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Miss\ Genocide.mp4 
+#1402527589
+find . | grep -i bonus
+#1402527614
+find . | grep -i bts
+#1402527659
+rm ./DP\ FANTASIES\ 2\ \{SLL\ Films\}\ \{NEW\ 2014\ DVDRip\}\ \(Split\ Scenes\)/dp-fantasies-2-scene1.avi
+#1402527701
+mv ./DP\ FANTASIES\ 2\ \{SLL\ Films\}\ \{NEW\ 2014\ DVDRip\}\ \(Split\ Scenes\)/dp-fantasies-2-scene5.avi .
+#1402527721
+mv ./DP\ FANTASIES\ 2\ \{SLL\ Films\}\ \{NEW\ 2014\ DVDRip\}\ \(Split\ Scenes\)/dp-fantasies-2-scene3.avi .
+#1402527725
+rm ./DP\ FANTASIES\ 2\ \{SLL\ Films\}\ \{NEW\ 2014\ DVDRip\}\ \(Split\ Scenes\)/
+#1402527728
+df
+#1402527824
+find . | grep -i jiggly
+#1402527829
+rm ./Tattooed.Anal.Sluts/
+#1402527879
+rm \[Kink\]\ \[FuckingMachines\]\ 2009-03-25\ -\ Sasha\ Grey\ \[MP4\]\ \[1280x720\].mp4 
+#1402527900
+rm ./mc12805_3000.mp4 
+#1402527954
+rm ./mygf.13.11.12.alina.li.mp4 
+#1402527989
+rm ./MyGF\ -\ Sandy\ Sweet\ \(She\'s\ A\ Screamer\).mp4 ./phdv_110412_1920x1080_12kB.mp4 
+#1402528031
+rm ./PublicSexAdventures\ -\ Real\ Sex\ With\ A\ Tattooed\ Hottie\ -\ Erika-Bellucci.mp4 
+#1402528044
+rm ./Selena\ Silver\ -\ Big\ Cock\ Seductions\ #22.mp4 
+#1402528055
+rm ./Short\ Hair\ Horny\ Blonde\ Anal\ Fucking\ in\ Bathtub\ with\ POV\ Style\ Asslicking.avi*
+#1402528088
+rm ./TeensLikeItBig\ -\ Bailey\ Blue\ \(Scream\ If\ You\ Like\ Cock\)\ NEW\ October\ 01\,\ 2013.mp4 
+#1402528131
+./woodman/
+#1402528152
+rm ./*.jpg
+#1402528175
+find -name *.avi
+#1402528181
+find . -name *.avi
+#1402528183
+find . -name .avi
+#1402528188
+clear
+#1402528188
+ls
+#1402528203
+find -type f 
+#1402528249
+find -type f | grep -v 'jpg^'
+#1402528255
+find -type f | grep -v '\.jpg^'
+#1402528261
+find -type f | grep -v '\.jpg$'
+#1402528286
+find -type f | grep -v '\.jpg$\|avi$'
+#1402528292
+find -type f | grep -v '\.jpg$\|wmv'
+#1402528345
+find -type f | grep -v '\.jpg$\|wmv$\|avi$\|nfo$\|mp4\|mkv\|mpg'
+#1402528364
+find -type f | grep -v '\.\|wmv$\|avi$\|nfo$\|mp4\|mkv\|mpg'
+#1402528370
+find -type f | grep -iv '\.jpg$\|wmv$\|avi$\|nfo$\|mp4\|mkv\|mpg'
+#1402528389
+find -type f | grep -i '\.flv$\|wmv$\|avi$\|mp4\|mkv\|mpg'
+#1402528424
+for f in `find -type f | grep -i '\.flv$\|wmv$\|avi$\|mp4\|mkv\|mpg'`; do echo "$f"; done;
+#1402528519
+find -type f | grep -i '\.flv$\|wmv$\|avi$\|mp4\|mkv\|mpg' | while read f; do echo $f; done
+#1402528552
+find -type f | grep -i '\.flv$\|wmv$\|avi$\|mp4\|mkv\|mpg' | while read f; screengen "$f"; done
+#1402528668
+find -type f | grep -i '\.flv$\|wmv$\|avi$\|mp4\|mkv\|mpg' | while read f; do screengen "$f"; done
+#1402529052
+mkdir screens
+#1402529060
+mv ./*.jpg ./screens/
+#1402529062
+./screens/
+#1402534908
+ PROMPT_COMMAND='pwd>&8;kill -STOP $$'
+#1402534908
+ cd "`printf "%b" '\0057home\0057bmcgloin\0057\0056priv\0057Inconspicuous\0137Folder\0057Vids\0057woodman\0057Casting\0040XXX\0040\004360'`"
+#1402537105
+mpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402537114
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402529062
+./screens/
+#1402530394
+./woodman/
+#1402530394
+ls
+#1402530415
+geeqie ./screens/
+#1402535748
+..
+#1402535923
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy -o test.mp4
+#1402535931
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4i
+#1402536962
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4isdfgdsfqfrggqqsdfsf
+#1402540227
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402540242
+ffmpeg -i ./18.MSbpbgb.mp4 -codec copy test.mp4
+#1402540261
+ffmpeg -i ./18.MSbpbgb.mp4 test.mp4
+#1402540284
+rm ./
+#1402519498
+ll
+#1402519505
+rm ./rips/
+#1402520591
+./public-domain/
+#1402520598
+mplayer ./UnknownWorld.ogv 
+#1402520803
+mplayer ./UnknownWorld.avi 
+#1402521229
+mplayer ./MesaOfLostWomen.avi 
+#1402521246
+mplayer ./MesaOfLostWomen.ogv 
+#1402521255
+rm ./*.ogv
+#1402528594
+find -type f | grep -i ""
+#1402528599
+find -type f | grep -i "jpg$"
+#1402528621
+find -type f | grep -i "jpg$" | while read line; echo $line; done;
+#1402528623
+find -type f | grep -i "jpg$" | while read line; echo $line; done
+#1402528629
+find -type f | grep -i "jpg$" | while read line echo $line; done
+#1402528636
+find -type f | grep -i "jpg$" | while read line; do echo $line; done
+#1402528645
+find -type f | grep -i "jpg$" | while read line; do rm "$line"; done
+#1402528654
+find -type f | grep -i "nfo$" | while read line; do rm "$line"; done
+#1402529142
+find -type f | grep -i '\.flv$\|wmv$\|avi$\|mp4\|mkv\|mpg' | while read f; do screengen "$f"; done
+#1402529534
+mv ./*.jpg ./screens/
+#1402529608
+ls ./WILDYOUNG\ HONEY\ ANNA\ WITH\ SHORT\ HAIR/
+#1402529639
+rm ./WILDYOUNG\ HONEY\ ANNA\ WITH\ SHORT\ HAIR/
+#1402529657
+rm ./Ally.avi 
+#1402529713
+ll ./Bonnie\ Rotten\ \(Rump\ Raiders\ 5\)\ \[.mp4\]/
+#1402529745
+rm ./Bonnie\ Rotten\ Tattooed\ Anal\ Slut\ Dp\'d\ \(720p\).mp4 
+#1402529838
+find . | grep -i news
+#1402529844
+rm ./newsletter_080908.wmv 
+#1402529868
+rm ./nw412.wmv 
+#1402530270
+find . | grep _Sce
+#1402530282
+mv ./Vivids\ Award\ Winners\ Best\ Double\ Penetration\ Sex\ Scene\ \[Split\ Scenes\]\[480P\]/_Scene\ 4_.wmv .
+#1402530302
+mv ./Vivids\ Award\ Winners\ Best\ Double\ Penetration\ Sex\ Scene\ \[Split\ Scenes\]\[480P\]/_Scene\ 8_.wmv .
+#1402530306
+rm ./Vivids\ Award\ Winners\ Best\ Double\ Penetration\ Sex\ Scene\ \[Split\ Scenes\]\[480P\]/
+#1402530347
+find . | grep swe
+#1402530363
+rm ./Eva.Angelina.No.Limits/swe6-eanlb.avi 
+#1402530383
+mv ../woodman/ .
+#1402530386
+./woodman/
+#1402534894
+ls ./Casting\ XXX\ #60/
+#1402534903
+rm ./Casting\ XXX\ #60/7.mp4 
+#1402534907
+mc ./Casting\ XXX\ #60/ .
+#1402534918
+mv ./Casting\ XXX\ #60/ .
+#1402534925
+mv ./Casting\ XXX\ #60/5.mp4 .
+#1402534928
+rm ./Casting\ XXX\ #60/
+#1402534997
+rm ./Dido\ Angel\ -\ Woodman\ Casting/ 
+#1402535014
+find | grep -i Gina.
+#1402535028
+rm ./Woodman\ Casting\ X\ -\ Gina\ Gerson/
+#1402535078
+./\(private\)\ X\ Castings\ -\ COMPLETE\ -\ Fucked\ by\ Pierre\ Woodman/
+#1402535091
+rm ./Private\ Castings\ 01\ -\ Pierre\ Woodman\ -\ Blondie.avi 
+#1402535125
+rm ./Private\ Castings\ 08\ -\ Pierre\ Woodman\ -\ Eva\ Roberts.avi 
+#1402535139
+rm ./Private\ Castings\ 13\ -\ Pierre\ Woodman\ -\ Christina.avi 
+#1402535148
+rm ./Private\ Castings\ 14\ -\ Pierre\ Woodman\ -\ Colette.avi 
+#1402535161
+rm ./Private\ Castings\ 15\ -\ Pierre\ Woodman\ -\ Anita.wmv 
+#1402535182
+rm ./Private\ Castings\ 18\ -\ Pierre\ Woodman\ -\ Natacha.mpg 
+#1402535242
+rm ./Private\ Castings\ 28\ -\ Pierre\ Woodman\ -\ Sunny\ Blue.avi 
+#1402535290
+rm Private\ Castings\ 41\ -\ Pierre\ Woodman\ -\ Suzy\ Spark.avi 
+#1402535317
+rm ./Private\ Castings\ 44\ -\ Pierre\ Woodman\ -\ Aneta\ Keys.mpg 
+#1402535344
+rm Private\ Castings\ 53\ -\ Pierre\ Woodman\ -\ Nika.avi 
+#1402535371
+rm Private\ Castings\ 58\ -\ Pierre\ Woodman\ -\ Sharka.avi 
+#1402535418
+..
+#1402535422
+rm ./wcx.black.katt.wmv 
+#1402535437
+rm ./wcx.caprice.mp4 
+#1402535495
+rm ./Woodman\ Casting\ X\ -\ Aicha/
+#1402535530
+rm ./Woodman.Casting.X.-.Anita/Woodman\ Casting\ X\ -\ Anita.wmv 
+#1402535578
+rm ./Woodman\ Casting\ X\ -\ Liliane\ Tiger/
+#1402535581
+df
+#1402535587
+../ls
+#1402535589
+../
+#1402535591
+clear
+#1402535591
+ls
+#1402535786
+geeqie ./screens/
+#1402529125
+..
+#1402529128
+mv ./woodman/ ..
+#1402529131
+ls
+#1402535609
+man ffmpeg
+#1402535946
+~/src_codes/ffmpeg/
+#1402535948
+ls
+#1402535954
+sudo make install
+#1402536099
+vim ./conf-command
+#1402536239
+vim ./conf-command*
+#1402534908
+ PROMPT_COMMAND='pwd>&8;kill -STOP $$'
+#1402534908
+ cd "`printf "%b" '\0057home\0057bmcgloin\0057\0056priv\0057Inconspicuous\0137Folder\0057Vids\0057woodman\0057Casting\0040XXX\0040\004360'`"
+#1402536111
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto 
+#1402536121
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto 
+#1402536194
+git pull
+#1402536216
+make clean
+#1402536224
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto 
+#1402536318
+make
+#1402536941
+sudo make uninstall
+#1402536946
+sudo make install
+#1402537195
+ps -A
+#1402537228
+pacsearch ffmpeg
+#1402537303
+pacinstall ffmpeg-full
+#1402537891
+sudo packer-color --noedit -S ffmpeg-full
+#1402538605
+pacinstall ffmpeg
+#1402538635
+sudo packer-color --noedit -S ffmpeg
+#1402538711
+pacinstall ffmpeg-full-extra
+#1402539191
+sudo packer-color --noedit -S ffmpeg-full-extra
+#1402540201
+sudo pacman -S ffmpeg
+#1402511074
+~/Downloads/rhino1_7R4/
+#1402511087
+./src/org/mozilla/javascript/
+#1402511104
+....
+#1402511108
+l.
+#1402511115
+./toolsrc/org/mozilla/javascript/tools/
+#1402511123
+./shell/
+#1402511130
+vim ./Global.java 
+#1402515422
+cd
+#1402517956
+./videos/
+#1402517958
+./old-scifi/
+#1402517979
+ffmpeg -i ./\[Classic\ Sci-Fi\ \]\ The\ Green\ Slime\ \(1968\).avi 
+#1402522139
+..
+#1402522153
+rm ./BBC*
+#1402522170
+rm ./person-of-interest/
+#1402522177
+rm ./X-Men\ First\ Class\ 2011\ R5\ LiNE\ READNFO\ XViD\ -\ IMAGiNE/
+#1402522182
+df
+#1402527123
+../.priv/Inconspicuous_Folder/Vids/
+#1402527125
+ls
+#1402529683
+clear
+#1402529686
+ll
+#1402529686
+ll
+#1402540452
+./.priv/Inconspicuous_Folder/Vids/
+#1402540462
+rm ./test.mp4 
+#1402540465
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402540462
+rm ./test.mp4 
+#1402540465
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402542215
+~/.vim
+#1402542220
+./tmp/
+#1402542223
+./undo/
+#1402542224
+ls
+#1402542234
+ls | grep -i conf
+#1402542249
+ls ../backup/ | grep -i conf
+#1402517956
+./videos/
+#1402517958
+./old-scifi/
+#1402517979
+ffmpeg -i ./\[Classic\ Sci-Fi\ \]\ The\ Green\ Slime\ \(1968\).avi 
+#1402522153
+rm ./BBC*
+#1402522170
+rm ./person-of-interest/
+#1402522177
+rm ./X-Men\ First\ Class\ 2011\ R5\ LiNE\ READNFO\ XViD\ -\ IMAGiNE/
+#1402522182
+df
+#1402527123
+../.priv/Inconspicuous_Folder/Vids/
+#1402529686
+ll
+#1402541057
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto 
+#1402541135
+mkdir ../ffmpeg-temp
+#1402541164
+mv ./conf-command* ./enables* t out ../ffmpeg-temp/
+#1402541174
+clear
+#1402541227
+gits
+#1402541236
+mv ./conf_opts ../ffmpeg-temp/
+#1402541239
+git reset --hard HEAD
+#1402541264
+git clean -f
+#1402541275
+git clean -xdf
+#1402541278
+ls
+#1402541296
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto 
+#1402542126
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402542171
+make install
+#1402542177
+sudo make install
+#1402542313
+find | grep -i libavdevice
+#1402542368
+make clean
+#1402542373
+./configure --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-incompatible-libav-abi --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libv4l2 --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-pic --enable-lto --disable-avdevice
+#1402542413
+make
+#1402542904
+vim ./.git/config 
+#1402542922
+..
+#1402542925
+rm ./ffmpeg
+#1402542931
+rm -f ./ffmpeg
+#1402542940
+git clone git://source.ffmpeg.org/ffmpeg.git
+#1402543094
+./ffmpeg
+#1402543101
+./configure --help
+#1402543115
+./configure --help | grep -i "--"
+#1402543120
+./configure --help | grep -i '--'
+#1402543143
+./configure --help | grep -i '\\[[:blank:]]*--'
+#1402543147
+./configure --help | grep -i '\--'
+#1402543155
+./configure --help | grep -i '\\[:blank:]*--'
+#1402543167
+./configure --help | grep -i '\\[[:blank:]]--'
+#1402543172
+./configure --help | grep -i '[[:blank:]]--'
+#1402543178
+./configure --help | grep -i '^[[:blank:]]--'
+#1402543186
+./configure --help | grep -i '^[[:blank:]]*--'
+#1402543196
+./configure --help | grep -i '^[[:blank:]]*--' | grep enable
+#1402543208
+./configure --help | grep -i '^[[:blank:]]*--enable'
+#1402543216
+./configure --help | grep -i '^[[:blank:]]*--enable' > enables
+#1402543230
+./configure --help > all-conf-opts
+#1402540997
+rm /usr/bin/ffmpeg /usr/bin/ffplay /usr/bin/ffprobe /usr/bin/ffserver /usr/bin/qt-faststart /usr/include/libavcodec/ /usr/include/libavdevice/ /usr/include/libavfilter/ /usr/include/libavformat/ /usr/include/libavresample/ /usr/include/libavutil/ /usr/include/libpostproc/ /usr/include/libswresample/ /usr/include/libswscale/ /usr/lib/libavcodec.so /usr/lib/libavcodec.so.55 /usr/lib/libavcodec.so.55.52.102 /usr/lib/libavdevice.so /usr/lib/libavdevice.so.55 /usr/lib/libavdevice.so.55.10.100 /usr/lib/libavfilter.so /usr/lib/libavfilter.so.4 /usr/lib/libavfilter.so.4.2.100 /usr/lib/libavformat.so /usr/lib/libavformat.so.55 /usr/lib/libavformat.so.55.33.100 /usr/lib/libavresample.so /usr/lib/libavresample.so.1 /usr/lib/libavresample.so.1.2.0 /usr/lib/libavutil.so /usr/lib/libavutil.so.52 /usr/lib/libavutil.so.52.66.100 /usr/lib/libpostproc.so /usr/lib/libpostproc.so.52 /usr/lib/libpostproc.so.52.3.100 /usr/lib/libswresample.so /usr/lib/libswresample.so.0 /usr/lib/libswresample.so.0.18.100 /usr/lib/libswscale.so /usr/lib/libswscale.so.2 /usr/lib/libswscale.so.2.5.102 /usr/share/man/man1/ffmpeg-all.1.gz /usr/share/man/man1/ffmpeg-bitstream-filters.1.gz /usr/share/man/man1/ffmpeg-codecs.1.gz /usr/share/man/man1/ffmpeg-devices.1.gz /usr/share/man/man1/ffmpeg-filters.1.gz /usr/share/man/man1/ffmpeg-formats.1.gz /usr/share/man/man1/ffmpeg-protocols.1.gz /usr/share/man/man1/ffmpeg-resampler.1.gz /usr/share/man/man1/ffmpeg-scaler.1.gz /usr/share/man/man1/ffmpeg-utils.1.gz /usr/share/man/man1/ffmpeg.1.gz /usr/share/man/man1/ffplay-all.1.gz /usr/share/man/man1/ffplay.1.gz /usr/share/man/man1/ffprobe-all.1.gz /usr/share/man/man1/ffprobe.1.gz /usr/share/man/man1/ffserver-all.1.gz /usr/share/man/man1/ffserver.1.gz /usr/share/man/man3/libavcodec.3.gz /usr/share/man/man3/libavdevice.3.gz /usr/share/man/man3/libavfilter.3.gz /usr/share/man/man3/libavformat.3.gz /usr/share/man/man3/libavutil.3.gz /usr/share/man/man3/libswresample.3.gz /usr/share/man/man3/libswscale.3.gz 
+#1402541013
+sudo rm /usr/bin/ffmpeg /usr/bin/ffplay /usr/bin/ffprobe /usr/bin/ffserver /usr/bin/qt-faststart /usr/include/libavcodec/ /usr/include/libavdevice/ /usr/include/libavfilter/ /usr/include/libavformat/ /usr/include/libavresample/ /usr/include/libavutil/ /usr/include/libpostproc/ /usr/include/libswresample/ /usr/include/libswscale/ /usr/lib/libavcodec.so /usr/lib/libavcodec.so.55 /usr/lib/libavcodec.so.55.52.102 /usr/lib/libavdevice.so /usr/lib/libavdevice.so.55 /usr/lib/libavdevice.so.55.10.100 /usr/lib/libavfilter.so /usr/lib/libavfilter.so.4 /usr/lib/libavfilter.so.4.2.100 /usr/lib/libavformat.so /usr/lib/libavformat.so.55 /usr/lib/libavformat.so.55.33.100 /usr/lib/libavresample.so /usr/lib/libavresample.so.1 /usr/lib/libavresample.so.1.2.0 /usr/lib/libavutil.so /usr/lib/libavutil.so.52 /usr/lib/libavutil.so.52.66.100 /usr/lib/libpostproc.so /usr/lib/libpostproc.so.52 /usr/lib/libpostproc.so.52.3.100 /usr/lib/libswresample.so /usr/lib/libswresample.so.0 /usr/lib/libswresample.so.0.18.100 /usr/lib/libswscale.so /usr/lib/libswscale.so.2 /usr/lib/libswscale.so.2.5.102 /usr/share/man/man1/ffmpeg-all.1.gz /usr/share/man/man1/ffmpeg-bitstream-filters.1.gz /usr/share/man/man1/ffmpeg-codecs.1.gz /usr/share/man/man1/ffmpeg-devices.1.gz /usr/share/man/man1/ffmpeg-filters.1.gz /usr/share/man/man1/ffmpeg-formats.1.gz /usr/share/man/man1/ffmpeg-protocols.1.gz /usr/share/man/man1/ffmpeg-resampler.1.gz /usr/share/man/man1/ffmpeg-scaler.1.gz /usr/share/man/man1/ffmpeg-utils.1.gz /usr/share/man/man1/ffmpeg.1.gz /usr/share/man/man1/ffplay-all.1.gz /usr/share/man/man1/ffplay.1.gz /usr/share/man/man1/ffprobe-all.1.gz /usr/share/man/man1/ffprobe.1.gz /usr/share/man/man1/ffserver-all.1.gz /usr/share/man/man1/ffserver.1.gz /usr/share/man/man3/libavcodec.3.gz /usr/share/man/man3/libavdevice.3.gz /usr/share/man/man3/libavfilter.3.gz /usr/share/man/man3/libavformat.3.gz /usr/share/man/man3/libavutil.3.gz /usr/share/man/man3/libswresample.3.gz /usr/share/man/man3/libswscale.3.gz 
+#1402541036
+make clean
+#1402541041
+ls
+#1402541049
+vim ./conf-command
+#1402542327
+../ffmpeg-temp/
+#1402542339
+grep -i libavdevice ./*
+#1402529686
+ll
+#1402540533
+~/src_codes/ffmpeg/
+#1402540538
+make uninstall
+#1402540542
+sudo make uninstall
+#1402540560
+make uninstall*
+#1402540574
+sudo make uninstall-libs
+#1402540580
+sudo make uninstall-progs
+#1402540585
+sudo make uninstall-data
+#1402540589
+ffmpeg 
+#1402540630
+sudo rm /usr/share/ffmpeg/
+#1402540632
+pacman -Ql ffmpeg
+#1402540663
+pacman -Ql ffmpeg > out
+#1402540666
+vim ./out 
+#1402540462
+rm ./test.mp4 
+#1402542148
+~/.priv/Inconspicuous_Folder/Vids/
+#1402542158
+ls
+#1402542189
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402542762
+pacsearch avdevice
+#1402542762
+pacsearch avdevice
+#1402546945
+~/src_codes/
+#1402546966
+./ffmpeg
+#1402546968
+find . | grep libavformat.so
+#1402547205
+sudo cp ./libavformat/libavformat.so.55 /usr/lib/
+#1402547236
+sudo cp ./libavcodec/libavcodec.so.55 /usr/lib/
+#1402547310
+find | grep '\.so\.'
+#1402547474
+sudo cp ./libpostproc/libpostproc.so.52 ./libavdevice/libavdevice.so.55 ./libswscale/libswscale.so.2 ./libavutil/libavutil.so.52 ./libavformat/libavformat.so.55 ./libavresample/libavresample.so.1 libswresample/libswresample.so.0 ./libavcodec/libavcodec.so.55 ./libavfilter/libavfilter.so.4 /usr/lib
+#1402547053
+ls /usr/lib
+#1402547060
+ls /usr/lib | grep avform
+#1402547119
+sudo make install*
+#1402547122
+sudo make install
+#1402542762
+pacsearch avdevice
+#1402544090
+./configure --enablerpath --enablegpl --enableversion3 --enablenonfree --enableshared --enableavresample --enableavisynth --enablefontconfig --enablefrei0r --enablegnutls --enableladspa --enablelibaacplus --enablelibass --enablelibbluray --enablelibbs2b --enablelibcaca --enablelibcelt --enablelibcdio --enablelibdc1394 --enablelibfaac --enablelibfdk-aac --enablelibflite --enablelibfreetype --enablelibgme --enablelibgsm --enablelibiec61883 --enablelibilbc --enablelibmodplug --enablelibmp3lame --enablelibnut --enablelibopencore-amrnb --enablelibopencore-amrwb --enablelibopencv --enablelibopenjpeg --enablelibopus --enablelibpulse --enablelibquvi --enablelibrtmp --enablelibschroedinger --enablelibshine --enablelibsoxr --enablelibspeex --enablelibssh --enablelibstagefright-h264 --enablelibtheora --enablelibtwolame --enablelibutvideo --enablelibv4l2 --enablelibvidstab --enablelibvo-aacenc --enablelibvo-amrwbenc --enablelibvorbis --enablelibvpx --enablelibwavpack --enablelibwebp --enablelibx264 --enablelibx265 --enablelibxavs --enablelibxvid --enablelibzmq --enablelibzvbi --enabledecklink --enableopenal --enableopencl --enableopengl --enableopenssl --enablex11grab
+#1402544116
+./configure --help | grep rpath
+#1402544146
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libflite --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libnut --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-libquvi --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-decklink --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab --enable-cross-compile 
+#1402544164
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libflite --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libnut --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-libquvi --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-decklink --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402544217
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libflite --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libnut --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-libquvi --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402544513
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libnut --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-libquvi --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402544610
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libnut --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-libquvi --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402544635
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-libquvi --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402544685
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsoxr --enable-libspeex --enable-libssh --enable-libstagefright-h264 --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402544788
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402545360
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opencl --enable-opengl --enable-openssl --enable-x11grab 
+#1402545463
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab 
+#1402545511
+./configure --help
+#1402545515
+./configure --help | grep share
+#1402545542
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-shared
+#1402545627
+make
+#1402546235
+sudo make instal
+#1402546242
+sudo make install
+#1402543438
+sudo rm /usr/bin/ffmpeg /usr/bin/ffplay /usr/bin/ffprobe /usr/bin/ffserver /usr/bin/qt-faststart /usr/include/libavcodec/ /usr/include/libavdevice/ /usr/include/libavfilter/ /usr/include/libavformat/ /usr/include/libavresample/ /usr/include/libavutil/ /usr/include/libpostproc/ /usr/include/libswresample/ /usr/include/libswscale/ /usr/lib/libavcodec.so /usr/lib/libavcodec.so.55 /usr/lib/libavcodec.so.55.52.102 /usr/lib/libavdevice.so /usr/lib/libavdevice.so.55 /usr/lib/libavdevice.so.55.10.100 /usr/lib/libavfilter.so /usr/lib/libavfilter.so.4 /usr/lib/libavfilter.so.4.2.100 /usr/lib/libavformat.so /usr/lib/libavformat.so.55 /usr/lib/libavformat.so.55.33.100 /usr/lib/libavresample.so /usr/lib/libavresample.so.1 /usr/lib/libavresample.so.1.2.0 /usr/lib/libavutil.so /usr/lib/libavutil.so.52 /usr/lib/libavutil.so.52.66.100 /usr/lib/libpostproc.so /usr/lib/libpostproc.so.52 /usr/lib/libpostproc.so.52.3.100 /usr/lib/libswresample.so /usr/lib/libswresample.so.0 /usr/lib/libswresample.so.0.18.100 /usr/lib/libswscale.so /usr/lib/libswscale.so.2 /usr/lib/libswscale.so.2.5.102 /usr/share/ffmpeg/ /usr/share/man/man1/ffmpeg-all.1.gz /usr/share/man/man1/ffmpeg-bitstream-filters.1.gz /usr/share/man/man1/ffmpeg-codecs.1.gz /usr/share/man/man1/ffmpeg-devices.1.gz /usr/share/man/man1/ffmpeg-filters.1.gz /usr/share/man/man1/ffmpeg-formats.1.gz /usr/share/man/man1/ffmpeg-protocols.1.gz /usr/share/man/man1/ffmpeg-resampler.1.gz /usr/share/man/man1/ffmpeg-scaler.1.gz /usr/share/man/man1/ffmpeg-utils.1.gz /usr/share/man/man1/ffmpeg.1.gz /usr/share/man/man1/ffplay-all.1.gz /usr/share/man/man1/ffplay.1.gz /usr/share/man/man1/ffprobe-all.1.gz /usr/share/man/man1/ffprobe.1.gz /usr/share/man/man1/ffserver-all.1.gz /usr/share/man/man1/ffserver.1.gz /usr/share/man/man3/libavcodec.3.gz /usr/share/man/man3/libavdevice.3.gz /usr/share/man/man3/libavfilter.3.gz /usr/share/man/man3/libavformat.3.gz /usr/share/man/man3/libavutil.3.gz /usr/share/man/man3/libswresample.3.gz /usr/share/man/man3/libswscale.3.gz 
+#1402543464
+which ffmpeg
+#1402543491
+/usr/local/bin/
+#1402543537
+sudo rm ffmpeg ffplay ffprobe ffserver
+#1402543549
+ffmsindex 
+#1402543568
+which ffmsindex 
+#1402543587
+sudo rm /usr/bin/ffmsindex 
+#1402543592
+fftwf-wisdom 
+#1402543631
+~/src_codes/ffmpeg
+#1402543632
+clear
+#1402543633
+ls
+#1402543652
+vim ./enables 
+#1402542762
+pacsearch avdevice
+#1402543291
+./src_codes/ffmpeg-temp/
+#1402543293
+ls
+#1402543299
+vim ./out 
+#1402544193
+pacsearch deck link
+#1402544238
+pacsearch bs2
+#1402544248
+pacinstall libbs2b
+#1402544369
+pacsearch flite
+#1402544388
+pacinstall flite
+#1402544537
+pacsearch ilbc
+#1402544549
+pacinstall ilbc
+#1402544659
+pacsearch quvi
+#1402544708
+pacsearch shine
+#1402544723
+pacinstall shine
+#1402544770
+pacsearch stage
+#1402544815
+pacsearch utvideo
+#1402544827
+pacinstall utvideo
+#1402544880
+pacremove utvideo
+#1402544897
+pacinstall utvideo-git
+#1402544994
+pacsearch vidstab
+#1402545026
+pacinstall libvidstab-git
+#1402545097
+pacsearch xavs
+#1402545146
+pacinstall xavs-svn
+#1402545396
+clear
+#1402545402
+pacinstall opencl
+#1402545420
+pacsearch opencl
+#1402542148
+~/.priv/Inconspicuous_Folder/Vids/
+#1402542189
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402542762
+pacsearch avdevice
+#1402545219
+..
+#1402545221
+svn co https://svn.code.sf.net/p/xavs/code/trunk xavs
+#1402545229
+./xavs/
+#1402545229
+ls
+#1402545240
+./configure --help
+#1402545278
+./configure --enable-shared --enable-pic --enable-visualize
+#1402545309
+./configure --enable-shared
+#1402545322
+make clean
+#1402545326
+make
+#1402542762
+pacsearch avdevice
+#1402546292
+./.priv/Inconspicuous_Folder/Vids/
+#1402546372
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402546383
+alsamixer 
+#1402546462
+mplayer ./test.mp4 
+#1402546474
+rm ./test.mp4 
+#1402546493
+geeqie ./screens/
+#1402551127
+df
+#1402552511
+mplayer ./s-mc12617_1500.mp4 
+#1402542148
+~/.priv/Inconspicuous_Folder/Vids/
+#1402542189
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402542762
+pacsearch avdevice
+#1402542762
+pacsearch avdevice
+#1402546945
+~/src_codes/
+#1402546966
+./ffmpeg
+#1402546968
+find . | grep libavformat.so
+#1402547205
+sudo cp ./libavformat/libavformat.so.55 /usr/lib/
+#1402547236
+sudo cp ./libavcodec/libavcodec.so.55 /usr/lib/
+#1402547310
+find | grep '\.so\.'
+#1402547474
+sudo cp ./libpostproc/libpostproc.so.52 ./libavdevice/libavdevice.so.55 ./libswscale/libswscale.so.2 ./libavutil/libavutil.so.52 ./libavformat/libavformat.so.55 ./libavresample/libavresample.so.1 libswresample/libswresample.so.0 ./libavcodec/libavcodec.so.55 ./libavfilter/libavfilter.so.4 /usr/lib
+#1402547630
+trim() { ffmpeg -i "$1" -ss 00:$2 -codec copy "s-$1" }
+#1402547634
+trim() { ffmpeg -i "$1" -ss 00:$2 -codec copy "s-$1" ;}
+#1402547655
+trvid() { ffmpeg -i "$1" -ss 00:$2 -codec copy "s-$1" ;}
+#1402547676
+trvid ./18.MSbpbgb.mp4 11:03
+#1402547689
+trvid 18.MSbpbgb.mp4 11:03
+#1402547742
+trvid 23162_01_540.mp4 14:49
+#1402547792
+trvid 23504_01_big.mp4 10:22
+#1402547821
+trvid 24076_01_hd.mp4 08:16
+#1402547852
+trvid 25051_Eva\ Angelina.wmv 08:17
+#1402547885
+trvid 2cstbonniekleiodanny_2k.wmv 08:13
+#1402547926
+trvid 4d79ee0201.wmv 12:40
+#1402547963
+trvid 7ee1c65bfb.mp4 08:15
+#1402548032
+trvid 9799_Madison.wmv 11:15
+#1402548191
+rm ./18.MSbpbgb-s.mp4*
+#1402548193
+ll ./[0-9]*
+#1402548195
+ll ./s-*
+#1402548219
+rm ./[0-9]*
+#1402548266
+find | grep AU
+#1402548275
+mv ./Private\ -\ C.J\ -\ Shaved\ Head\ Cocksucker/AUD010_s01.mp4 .
+#1402548298
+trvid AUD010_s01.mp4 07:19
+#1402548329
+mv ./Big\ Black\ Dicks\ And\ Tattooed\ Chicks\ \(Burning\ Angel\)\ XXX\ NEW\ 2014\ \(Split\ Scenes\)/Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ * .
+#1402548342
+rm ./Big\ Black\ Dicks\ And\ Tattooed\ Chicks\ \(Burning\ Angel\)\ XXX\ NEW\ 2014\ \(Split\ Scenes\)/
+#1402548348
+mv ./Bonnie\ Rotten\ \(Rump\ Raiders\ 5\)\ \[.mp4\]/Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 .
+#1402548359
+rm ./Bonnie\ Rotten\ \(Rump\ Raiders\ 5\)\ \[.mp4\]/
+#1402548366
+mv ./Eva.Angelina.No.Limits/swe6-eanla.avi .
+#1402548371
+rm ./Eva.Angelina.No.Limits/
+#1402548386
+mv ./FreshOuttaHighSchool\ -\ Madison\ Scott/Madison.Scott.wmv .
+#1402548394
+rm ./FreshOuttaHighSchool\ -\ Madison\ Scott/
+#1402548407
+mv ./IHaveAWife\ -\ Kleio\ Valentien\ mp4/ihwkleiojohnny_qt.mp4 .
+#1402548410
+rm ./IHaveAWife\ -\ Kleio\ Valentien\ mp4/
+#1402548415
+mv ./Joanna\ Angel\,\ Kleio\ Valentien\ And\ Jessie\ Lee\ -\ Kung\ Fu\ Orgy/bapp.kleio.joanna.jessie.mp4 .
+#1402548420
+rm ./Joanna\ Angel\,\ Kleio\ Valentien\ And\ Jessie\ Lee\ -\ Kung\ Fu\ Orgy/
+#1402548427
+ls ./Private\ -\ C.J\ -\ Shaved\ Head\ Cocksucker/
+#1402548430
+rm ./Private\ -\ C.J\ -\ Shaved\ Head\ Cocksucker/
+#1402548437
+mv ./Sinead\ -\ Fluffy\ Asshole\ Bunny/Sinead\ -\ Fluffy\ Asshole\ Bunny.wmv .
+#1402548447
+rm ./Sinead\ -\ Fluffy\ Asshole\ Bunny/
+#1402548449
+ls
+#1402548499
+rm ./Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Eidyia.mp4 
+#1402548556
+rm ./Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Geisha\ Monroe.mp4 
+#1402548582
+trvid ./Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Kleio\ Valentien.mp4 06:09
+#1402548596
+trvid Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Kleio\ Valentien.mp4 06:09
+#1402548732
+trvid Big\ Tits\ At\ School\ -\ Papertrail\ Bitch\ -\ Madison\ Scott.wmv 11:27
+#1402548955
+trvid \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 18:00
+#1402549074
+trvid Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 12:45
+#1402549186
+trvid btiu_madison_scott_480p_1000.mp4 15:28
+#1402549269
+trvid bwb_madison_scott-sd169.wmv 20:50
+#1402549587
+trvid Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv 24:53
+#1402549627
+trvid DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv 12:07
+#1402549758
+trvid DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 12:00
+#1402549887
+trvid dp-fantasies-2-scene3.avi 7:00
+#1402549917
+trvid dp-fantasies-2-scene5.avi 5:00
+#1402549943
+trvid dp_masters_scene_3_sd.mp4 12:00
+#1402549973
+trvid E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 9:20
+#1402550016
+trvid FH18.-.Madison\ Scott.wmv 20:43
+#1402550051
+rm ./Hot\ french\ red\ head\ gets\ it.avi 
+#1402550077
+trvid ihwkleiojohnny_qt.mp4 10:05
+#1402550100
+trvid jj_adriana_chechik.mp4 09:50
+#1402550132
+trvid ./kleioanalpov-480.mp4 10:00
+#1402550139
+trvid kleioanalpov-480.mp4 10:00
+#1402550175
+trvid Madison\ Scott\ My\ Dads\ Hot\ GF.wmv 14:47
+#1402550204
+trvid ./Madison.Scott.wmv 05:00
+#1402550212
+trvid Madison.Scott.wmv 05:00
+#1402550352
+trvid mc12617_1500.mp4 07:33
+#1402550382
+trvid mc4316_1500.mp4 16:25
+#1402550428
+trvid MonstersOfCock_Madison\ Scott_ImgZilla.mp4 08:00
+#1402550452
+trvid MonstersOfCock\ -\ Roxy\ Rox\ First\ Big\ Black\ Cock.mp4 8:00
+#1402550489
+trvid Monsters.of.Cock.Sindy.Lange.interracial.big.dick.XXX.cPORn.mp4 10:18
+#1402550537
+trvid mshfsashagreyrem_qt.mp4 03:15
+#1402550568
+trvid ms-Kleio\ Valentien.mp4 09:00
+#1402550589
+trvid Pornstars\ Punishment\ -\ How\ To\ Nail\ A\ Cheater\ -\ Madison\ Scott.wmv 03:21
+#1402550624
+trvid prnfle1751x.avi 14:38
+#1402550649
+trvid rws_kleio_monique_480p_1000.mp4 11:24
+#1402550685
+trvid _Scene\ 4_.wmv 3:35
+#1402550734
+trvid _Scene\ 8_.wmv 03:55
+#1402550774
+trvid shorthair3728.wmv 07:55
+#1402550798
+trvid Sinead\ -\ Fluffy\ Asshole\ Bunny.wmv 12:35
+#1402550829
+trvid Stoya\ -\ My\ First\ Porn\ #10.avi 15:27
+#1402550857
+trvid swe6-eanla.avi 14:41
+#1402550892
+trvid Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi 15:29
+#1402550913
+clear
+#1402550918
+ll
+#1402552494
+alsamixer 
+#1402553468
+alias | grep trvis
+#1402553470
+alias | grep trvid
+#1402540630
+sudo rm /usr/share/ffmpeg/
+#1402540632
+pacman -Ql ffmpeg
+#1402540663
+pacman -Ql ffmpeg > out
+#1402540666
+vim ./out 
+#1402540462
+rm ./test.mp4 
+#1402542148
+~/.priv/Inconspicuous_Folder/Vids/
+#1402542189
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402542762
+pacsearch avdevice
+#1402546559
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:11:03 -codec copy ./18.MSbpbgb-s.mp4 
+#1402546611
+pacsearch screengen
+#1402546634
+pacinstall screengen
+#1402546667
+screengen ./18.MSbpbgb-s.mp4 
+#1402547489
+geeqie 
+#1402549770
+rm ./files 
+#1402550221
+ll
+#1402551047
+rm ./mc* Monsters* mshfsashagreyrem_qt.mp4 ms-Kleio\ Valentien.mp4 Pornstars\ Punishment\ -\ How\ To\ Nail\ A\ Cheater\ -\ Madison\ Scott.wmv prnfle1751x.avi rws_kleio_monique_480p_1000.mp4 _Scene\ * shorthair3728.wmv Sinead\ -\ Fluffy\ Asshole\ Bunny.wmv Stoya\ -\ My\ First\ Porn\ #10.avi rm ./swe6-eanla.avi rm ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi 
+#1402551064
+ls
+#1402551065
+df
+#1402551083
+ll ./movies 
+#1402551100
+rm ./screens/
+#1402551102
+clear
+#1402551118
+for f in ./*; do screengen "$f"; done
+#1402551354
+mkdir ./screens
+#1402551369
+mv ./*.jpg ./screens/
+#1402551379
+geeqie ./screens/
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402550303
+clear
+#1402550304
+df
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546817
+ls
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402532315
+clear
+#1402532316
+ls
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402589075
+./src/main/java/com/tempusnova/novus/
+#1402589085
+grep -rni '_trigger' .
+#1402589114
+..
+#1402589124
+grep -rni '_trigger' .
+#1402589134
+vim ./ResourceId.java 
+#1402591027
+ps -A | grep vim
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402589075
+./src/main/java/com/tempusnova/novus/
+#1402589085
+grep -rni '_trigger' .
+#1402589124
+grep -rni '_trigger' .
+#1402591027
+ps -A | grep vim
+#1402591281
+grep -rn EVENT .
+#1402591410
+grep -rni _trigger .
+#1402591556
+grep -rn 'ResourceId' .
+#1402591616
+ls ./datastore/
+#1402603391
+grep -rni 'method not allowed' .
+#1402603574
+ls ./servlet/
+#1402603586
+ll ./servlet/ | grep Endpoint
+#1402603637
+./servlet/
+#1402603641
+cat ./DesignEndpoint.java 
+#1402603643
+clear
+#1402603650
+ll | grep Endpoint
+#1402603684
+ls
+#1402604938
+..
+#1402605332
+vim ./servlet/AttEndpoint.java 
+#1402605352
+vim ./servlet/AttEndpoint.java ./servlet/Scope.java 
+#1402605835
+vim ./ResourceId.java 
+#1402605873
+vim ./servlet/AttEndpoint.java ./servlet/DatabaseEndpoint.java 
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587312
+sudo vim /etc/asound.conf 
+#1402591823
+
+#1402591830
+r
+#1402591832
+clear
+#1402602918
+sudo vim /etc/vimrc
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587453
+cd
+#1402588730
+alsamixer 
+#1402546929
+sudo make install
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587574
+./videos/old-scifi/public-domain/
+#1402587583
+rm ./The-Wasp-Woman.mp4 
+#1402587607
+rm ./MesaOfLostWomen.avi 
+#1402587696
+mplayer -softvol-max 1000 ./The_Giant_Gila_Monster.mp4 
+#1402588744
+mplayer ./The_Giant_Gila_Monster.mp4 
+#1402597545
+clear
+#1402597581
+mplayer ./MenacefromOuterSpace.avi 
+#1402597595
+mplayer MoviePowderPresentsTheEyeCreatures.avi 
+#1402605107
+ls
+#1402605209
+mplayer AssignmentOuterSpacePresentedByMoviePowder.avi 
+#1402589380
+mvn package 
+#1402591027
+ps -A | grep vim
+#1402591133
+..
+#1402591138
+ls
+#1402591187
+find . | grep -i level
+#1402591309
+vim ./servlet/Router.java 
+#1402591328
+vim ./ResourceId.java ./servlet/Router.java 
+#1402604024
+vim ./servlet/*Endpoit*
+#1402604028
+vim ./servlet/*Endpoint*
+#1402604905
+clear
+#1402604910
+ls ./servlet/
+#1402604920
+grep -rn 'AttEndpoint' .
+#1402607959
+vim ./ResourceId.java 
+#1402546810
+./screengen/
+#1402546817
+ls
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402532316
+ls
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402589075
+./src/main/java/com/tempusnova/novus/
+#1402589085
+grep -rni '_trigger' .
+#1402589114
+..
+#1402589124
+grep -rni '_trigger' .
+#1402589134
+vim ./ResourceId.java 
+#1402591027
+ps -A | grep vim
+#1402600239
+find . -type f | grep att
+#1402600319
+mkdir js_test/_design/test/_attachments
+#1402600344
+touch ./js_test/_design/test/_attachments/test.js
+#1402601044
+vim ./js_test/_design/test/events/testevent.json 
+#1402604746
+clear
+#1402605561
+echo "test" > ./js_test/test/_attachments/new.js
+#1402605645
+./js_test/test/
+#1402605651
+napp push
+#1402606670
+...
+#1402608932
+rev-rm 
+#1402608934
+napush-all 
+#1402550221
+ll
+#1402551047
+rm ./mc* Monsters* mshfsashagreyrem_qt.mp4 ms-Kleio\ Valentien.mp4 Pornstars\ Punishment\ -\ How\ To\ Nail\ A\ Cheater\ -\ Madison\ Scott.wmv prnfle1751x.avi rws_kleio_monique_480p_1000.mp4 _Scene\ * shorthair3728.wmv Sinead\ -\ Fluffy\ Asshole\ Bunny.wmv Stoya\ -\ My\ First\ Porn\ #10.avi rm ./swe6-eanla.avi rm ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi 
+#1402551065
+df
+#1402551083
+ll ./movies 
+#1402551100
+rm ./screens/
+#1402551118
+for f in ./*; do screengen "$f"; done
+#1402551354
+mkdir ./screens
+#1402551369
+mv ./*.jpg ./screens/
+#1402551379
+geeqie ./screens/
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402550304
+df
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402589075
+./src/main/java/com/tempusnova/novus/
+#1402589085
+grep -rni '_trigger' .
+#1402590850
+./napp/
+#1402590852
+naget approvers/_design/google/_trigger/syncgroups
+#1402599019
+vim ./js_test/_design/test/events/testevent.json 
+#1402599084
+rev-rm 
+#1402599165
+napush-all 
+#1402599641
+./js_test/_design/test/events/
+#1402600798
+mv ./test/_attachments/ .
+#1402603142
+..
+#1402603150
+mkdir test
+#1402603169
+cp ./_design/_attachments/ ./test/
+#1402603175
+napp push
+#1402603197
+naget js_test/_design/test/
+#1402603207
+naget js_test/test
+#1402603296
+../_design/
+#1402603298
+clear
+#1402603299
+ls
+#1402603301
+ls ./test/
+#1402603308
+mv ./_attachments/ ./test/
+#1402603436
+./test/
+#1402605043
+./_attachments/
+#1402605074
+napp help
+#1402605081
+napp help push 
+#1402605086
+napp help http 
+#1402605090
+napp help http --help
+#1402605095
+napp http --help
+#1402606231
+napp push 
+#1402608143
+naget js_test/_design/test/_trigger/testevent
+#1402608820
+naget js_test/_design/test
+#1402608843
+naget js_test/_design/test/events
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587296
+./.screenlayout/hdmi.sh 
+#1402588872
+./workspace/novus/
+#1402588942
+./src/main/java/com/tempusnova/novus/javascript/
+#1402588943
+clear
+#1402588944
+ls
+#1402589061
+vim ./JavaScriptFunction.java Secure* ~/workspace/gfs/canadaCreditNote/credit-note/credit-note-app/src/main/webapp/WEB-INF/cron.xml 
+#1402591043
+./javascript/
+#1402591045
+vim ./JavaScriptFunction.java Secure* 
+#1402600132
+..
+#1402600151
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java 
+#1402600173
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java ./Document.java Revision.java 
+#1402590861
+ls
+#1402608314
+rev-rm 
+#1402608317
+napush-all 
+#1402551379
+geeqie ./screens/
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402550304
+df
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546817
+ls
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402532316
+ls
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587800
+./workspace/novus/
+#1402603333
+rm generated/
+#1402603421
+clear
+#1402608857
+rm ./generated/
+#1402608874
+./dv-server 
+#1402632407
+ffmpeg -codecs
+#1402632413
+ffmpeg -codecs | grep xv
+#1402632432
+ffmpeg -encoders
+#1402632437
+ffmpeg -encoders | grep xv
+#1402632486
+ffmpeg -encoders | grep 26
+#1402632905
+ffmpeg -codecs | grep 2
+#1402633354
+ffmpeg -encoders | grep 264
+#1402633378
+ffmpeg -h encoder=libx264
+#1402608874
+./dv-server 
+#1402628863
+vim ./The\ Destruction\ Of\ Bonnie\ Rotten.mp4.json 
+#1402629046
+rm ./The\ Destruction\ Of\ Bonnie\ Rotten.mp43.json 
+#1402629047
+vim ./The\ Destruction\ Of\ Bonnie\ Rotten.mp4*
+#1402629474
+pacsearch x265
+#1402629604
+vim ./23504_01_big.mp4.json 
+#1402589061
+vim ./JavaScriptFunction.java Secure* ~/workspace/gfs/canadaCreditNote/credit-note/credit-note-app/src/main/webapp/WEB-INF/cron.xml 
+#1402591043
+./javascript/
+#1402591045
+vim ./JavaScriptFunction.java Secure* 
+#1402600151
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java 
+#1402600173
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java ./Document.java Revision.java 
+#1402608314
+rev-rm 
+#1402608317
+napush-all 
+#1402551379
+geeqie ./screens/
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587800
+./workspace/novus/
+#1402603333
+rm generated/
+#1402608857
+rm ./generated/
+#1402608874
+./dv-server 
+#1402619119
+ trvid() { ffmpeg -i "$1" -ss 00:$2 -codec copy "s-$1"; }
+#1402619247
+trvid Beata.Undine.Casting.WoodmanCastingX.2013_iyutero.com.mp4 25:38
+#1402620841
+trvid Private\ Castings\ 03\ -\ Pierre\ Woodman\ -\ Nikki\ Andreson.avi 1:28
+#1402621315
+alsamixer 
+#1402622369
+mplayer s-Private\ Castings\ 47\ -\ Pierre\ Woodman\ -\ Tereza.avi 
+#1402622451
+rm s-Private\ Castings\ 47\ -\ Pierre\ Woodman\ -\ Tereza.avi
+#1402623152
+clvids(){ for f in s-*; do echo "$f"; done; }
+#1402623177
+clvids(){  for f in ./s-*; do echo `echo $f | sed 's/'`; 
+#1402623228
+clvids(){ for f in s-*; do echo `echo $f | sed 's/s-//g'`; done; }
+#1402623282
+clvids(){ for f in s-*; do
+#1402623296
+clvids(){ for f in s-*; do mv "$f" `echo $f | sed 's/s-//g'`; done; }
+#1402623386
+clvids(){ for f in s-*; do echo "`echo $f | sed 's/s-//g'`"; done; }
+#1402623411
+clvids(){ for f in s-*; do echo $f; done; }
+#1402623418
+ls s-*
+#1402623424
+clvids(){ for f in ./s-*; do echo $f; done; }
+#1402623435
+clvids(){ for f in s-*; do mv "$f" "`echo $f | sed 's/s-//g'`"; done; }
+#1402623461
+./woodman/
+#1402623524
+rm wcx.linetslag.wmv 
+#1402623588
+trvid Wdman\ Casting\ X\ -\ Bil\ Star\ -\ Hard\ Sofa.mp4 08:16
+#1402623674
+trvid Wdmn\ Castng\ X\ -\ Lex\ Dona\ -\ Hrd\ -\ Raining\ Day.mp4 02:28
+#1402623702
+trvid \[WoodmanCasting\]\ Sindy\ Vega\ -\ Hard\ Bed\ \[29m11s\]\[wmv\]\[640x360\]\[date\ 16.10.2011\].wmv 08:17
+#1402623745
+trvid WoodmanCastingX-20130428-Victoria\ Puppy\ \&\ Misha\ Cross-WebRip\ x264\ 720p-Transcoded.mkv 12:49
+#1402623810
+trvid Woodman\ Casting\ X\ -\ Anita\ Hard\ Bed\ 3.wmv 04:33
+#1402623955
+trvid Woodman\ Casting\ X\ -\ Violette\ Pure.mp4 38:40
+#1402624035
+df
+#1402624042
+rm ./screens/
+#1402624078
+for f in *; do screengen "$f"; done
+#1402624326
+clear
+#1402624334
+mkdir screens
+#1402624341
+mv ./*.jpg ./screens/
+#1402625012
+..
+#1402625632
+trvid wcx_wiska.flv 01:38
+#1402625694
+clvids 
+#1402635038
+ffmpeg -i ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi -codec copy ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.mkv
+#1402635045
+ffmpeg -i ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi -codec copy ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.mp4
+#1402635063
+ffmpeg -i ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.mp4 -codec copy ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.mkv
+#1402635077
+ls ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.*
+#1402635085
+ll ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.*
+#1402635121
+mplayer ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.mkv 
+#1402635131
+ls
+#1402603333
+rm generated/
+#1402608857
+rm ./generated/
+#1402608874
+./dv-server 
+#1402625382
+man ffmpeg | grep analyzeduration
+#1402625393
+man ffmpeg | grep probesize
+#1402625396
+man ffmpeg | grep probe
+#1402626811
+clear
+#1402626815
+./reports/
+#1402626816
+ls
+#1402626825
+vim 18.MSbpbgb.mp4.report 
+#1402626857
+..
+#1402626859
+ll --sort size
+#1402627566
+man ffprobe
+#1402627575
+man ffprobe-all 
+#1402627587
+man ffprobe-all | grep '\-show'
+#1402628062
+man ffprobe-all | grep rni '\-show_entries'
+#1402628067
+man ffprobe-all | grep -rni '\-show_entries'
+#1402628071
+man ffprobe-all | grep -ni '\-show_entries'
+#1402628175
+man ffprobe-all | grep -ni section_entries
+#1402628085
+man ffprobe-all 
+#1402631932
+man ffmpeg
+#1402637995
+python
+#1402631932
+man ffmpeg
+#1402637364
+man ffmpeg | grep '\-map'
+#1402640190
+./woodman/
+#1402640191
+vim
+#1402551379
+geeqie ./screens/
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587800
+./workspace/novus/
+#1402603333
+rm generated/
+#1402608857
+rm ./generated/
+#1402608874
+./dv-server 
+#1402621599
+ls | grep Yvette
+#1402621604
+echo $?
+#1402621629
+ls | grep Yvette | grep -v '^s-'
+#1402622297
+mplayer Private\ Castings\ 46\ -\ Pierre\ Woodman\ -\ Maggie.mpg 
+#1402622306
+mplayer s-Private\ Castings\ 46\ -\ Pierre\ Woodman\ -\ Maggie.mpg 
+#1402627421
+./reports/
+#1402627684
+rm ./*
+#1402628228
+vim ./The\ Destruction\ Of\ Bonnie\ Rotten.mp4.json 
+#1402628587
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty -unit ../The\ Destruction\ Of\ Bonnie\ Rotten.mp4 > ./The\ Destruction\ Of\ Bonnie\ Rotten.mp4.json 
+#1402628950
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty -unit -prefix ../The\ Destruction\ Of\ Bonnie\ Rotten.mp4 > ./The\ Destruction\ Of\ Bonnie\ Rotten.mp42.json 
+#1402629027
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty -unit -prefix -sections ../The\ Destruction\ Of\ Bonnie\ Rotten.mp4 > ./The\ Destruction\ Of\ Bonnie\ Rotten.mp43.json 
+#1402629690
+ffmpeg -i ./23504_01_big.mp4  -c:a copy -x265-params crf=25 OUT.mp4
+#1402629728
+rm ./OUT.mp4 
+#1402629758
+ffmpeg -i 23504_01_big.mp4 -c:v libx265 -c:a vorbis ./out.mp4
+#1402629768
+ffmpeg -i 23504_01_big.mp4 -c:v libx265 -c:a ogg ./out.mp4
+#1402629780
+ffmpeg -i 23504_01_big.mp4 -c:v libx265 -c:a libvorbis ./out.mp4
+#1402629824
+ffmpeg -i 23504_01_big.mp4 -c:v libx265 -c:a copy ./out.mp4
+#1402631978
+ffmpeg -i 23504_01_big.mp4 -c:a copy -c:v libx265 ./out.mp4
+#1402632131
+ffmpeg -i 23504_01_big.mp4 -t 60-c:a copy -c:v libx265 ./out.mp4
+#1402632367
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -c:v xvid ./out.mp4
+#1402632450
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -c:v libxvid ./out.mp4
+#1402632532
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -c:v libxvid ./out.avi
+#1402632586
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -c:v libx265 ./out.avi
+#1402632736
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -c:v libx265 ./out.m4v
+#1402632756
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -c:v libx265 ./out.mp4
+#1402632945
+ffmpeg -i 23504_01_big.mp4 -t 60 -c:a copy -vcodec hevc ./out.mp4
+#1402633575
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 ./out2.mp4
+#1402633658
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 -preset veryslow ./out.mp4
+#1402633872
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 -preset veryslow -passlogfile log ./out3.mp4
+#1402633955
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 -preset veryslow -passlogfile log ./out4.mp4
+#1402633973
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 -preset veryslow -passlogfile ./plog ./out4.mp4
+#1402634044
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 -preset veryslow -pass 2 ./out4.mp4
+#1402634059
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a copy -c:v libx264 -pass 2 ./out4.mp4
+#1402634081
+ffmpeg -i The\ Destruction\ Of\ Bonnie\ Rotten.mp4 -t 60 -c:a libvorbis -c:v libx264 -preset veryslow ./out4.mp4
+#1402634220
+ffmpeg -i bwb_madison_scott-sd169.wmv -c:a libvorbis -c:v copy ./t1.mp4
+#1402634250
+ffmpeg -i mshfsashagreyrem_qt.mp4 -c:a libvorbis -c:v copy ./t1.mp4
+#1402634349
+ffmpeg -i bwb_madison_scott-sd169.wmv -c:a libvorbis -c:v copy ./t2.wmv
+#1402634598
+ffmpeg -i bwb_madison_scott-sd169.wmv -c:a libvorbis -c:v copy ./t2.mkv
+#1402634691
+ffmpeg -i Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi -c:a libvorbis -c:v copy ./t-avi.mkv
+#1402634720
+ffmpeg -i Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi -c:a libvorbis -c:v copy ./t-avi.avi
+#1402634870
+ffmpeg -i wcx_wiska.flv -c:a libvorbis -c:v copy ./t-flv.mkv
+#1402634954
+ls ./*.avi
+#1402634977
+ffmpeg -i prnfle1751x.avi -c:a libvorbis -c:v copy ./t-avi.mkv
+#1402634985
+ffmpeg -i prnfle1751x.avi -c:a libvorbis -c:v copy ./t-avi.avi
+#1402635160
+ffmpeg -i Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.mkv -c:a libvorbis -c:v copy ./t-avi2.mkv
+#1402636963
+tm ./t*
+#1402636968
+rm ./t*
+#1402636978
+rm ./out*
+#1402636981
+clear
+#1402637333
+./woodman/
+#1402637432
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=duartion=0[av];[0:a]atrim=duartion=0[aa];\
+[0:v]trim=start=379:end=631
+
+
+#1402638128
+ffmpeg -i 5.mp4 -filter_complex \"[0:v]trim=start=379:end=631
+#1402638142
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=379:end=631[av];[0:a]atrim=start=379:end=631[aa]" -c copy ./tout.mp4
+#1402638393
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=duration=0[av];[0:a]atrim=duration=0[aa];[0:v]trim=start=379:end=631[bv];[0:a]atrim=start=379:end=631[ba]" -c copy ./tout.mp4
+#1402638416
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=379:end=631[av];[0:a]atrim=start=379:end=631[aa]" -map [va] -map [aa] -c copy ./tout.mp4
+#1402638427
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=379:end=631[av];[0:a]atrim=start=379:end=631[aa]" -map [av] -map [aa] -c copy ./tout.mp4
+#1402638439
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=379:end=631[av];[0:a]atrim=start=379:end=631[aa]" -map [av] -map [aa] ./tout.mp4
+#1402638593
+mplayer ./tout.mp4 
+#1402639003
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=20:end=397[av];[0:a]atrim=start=20:end=397[aa];[0:v]trim=start=645[bv];[0:a]atrim=start=645[ba];[av][bv]concat[cv];[aa][ba]concat[ca]" -map [cv] -map [ca] ./tout.mp4
+#1402639086
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=20:end=397[av];[0:a]atrim=start=20:end=397[aa];[0:v]trim=start=645[bv];[0:a]atrim=start=645[ba];[av][bv]concat[cv];[aa][ba]concat=v=0:a=1[ca]" -map [cv] -map [ca] ./tout.mp4
+#1402639359
+ffmpeg -i 5.mp4 -filter_complex "[0:v]trim=start=20:end=397[av];[0:a]atrim=start=20:end=397[aa];[0:v]trim=start=645,setpts=PTS-STARTPTS[bv];[0:a]atrim=start=645,asetpts=PTS-STARTPTS[ba];[av][bv]concat[cv];[aa][ba]concat=v=0:a=1[ca]" -map [cv] -map [ca] ./tout.mp4
+#1402639837
+ls
+#1402639851
+mplayer tout.mp4 
+#1402639878
+mv ./tout.mp4 ./5.mp4 
+#1402640031
+ffmpeg -i ./Angelica.Kitten.Busty.Teen.ANAL.Casting.08.17.2011.avi -avoid_negative_ts 1 -c copy -ss 00:08:40 -to 00:14:26 ./Angelica.Kitten.Busty.Teen.ANAL.Casting.08.17.2011.avi 
+#1402640546
+ffmpeg -i ./Angelica.Kitten.Busty.Teen.ANAL.Casting.08.17.2011.avi -avoid_negative_ts 1 -c copy -ss 00:08:40 -to 00:16:12 ./s-Angelica.Kitten.Busty.Teen.ANAL.Casting.08.17.2011.avi 
+#1402640721
+ffmpeg -i Aspen\ Casting\ Scene.avi -avoid_negative_ts 1 -c copy -ss 00:00:47 -to 00:27:27 ./-sAspen\ Casting\ Scene.avi 
+#1402641262
+..
+#1402641331
+mplayer ./Big\ Black\ Dicks\ \&\ Tattooed\ Chicks\ -\ Kleio\ Valentien.mp4 
+#1402641388
+mplayer ./HarmonyVision.com\ -\ Kelly\ Wells\ -\ Double\ Anal\ Penetration\ \[720p\,\ 2014\].mp4 
+#1402641429
+mplayer ./kleioanalpov-480.mp4 
+#1402641818
+df
+#1402591045
+vim ./JavaScriptFunction.java Secure* 
+#1402600151
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java 
+#1402600173
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java ./Document.java Revision.java 
+#1402608314
+rev-rm 
+#1402608317
+napush-all 
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587800
+./workspace/novus/
+#1402603333
+rm generated/
+#1402608857
+rm ./generated/
+#1402608874
+./dv-server 
+#1402619056
+trvid() { ffmpeg -i "$1" -ss 00:$2 -codec copy "s-$2"; }
+#1402619115
+trvid() { ffmpeg -i "$1" -ss 00:$2 -codec copy "s-$1"; }
+#1402619121
+trvid 5.mp4 10:00
+#1402619148
+trvid Agota.avi 9:00
+#1402619184
+trvid Angelica.Kitten.Busty.Teen.ANAL.Casting.08.17.2011.avi 13:15
+#1402619216
+trvid Aspen\ Casting\ Scene.avi 25:50
+#1402619279
+trvid bulma_rey_hard_sofa_1.mp4 7:30
+#1402619334
+trvid ./Nikita\ Bulgaria.avi 9:00
+#1402619339
+trvid Nikita\ Bulgaria.avi 9:00
+#1402619378
+trvid PierreWoodman-20130417-Lucianna\ Karel-WebRip\ x264\ 720p-Transcoded.mkv 07:28
+#1402620810
+trvid PierreWoodman-20130513-Gina\ Devine-First\ DP-720p\ x264-Transcoded.mkv 07:30
+#1402620956
+trvid Private\ Castings\ 05\ -\ Pierre\ Woodman\ -\ Lydia.avi 17:48
+#1402620983
+trvid Private\ Castings\ 06\ -\ Pierre\ Woodman\ -\ Inga\ \&\ Ines.avi 15:30
+#1402621013
+trvid Private\ Castings\ 12\ -\ Pierre\ Woodman\ -\ Mercedes.mpg 19:57
+#1402621037
+trvid Private\ Castings\ 16\ -\ Pierre\ Woodman\ -\ Yelena\ Schieffer.avi 11:33
+#1402621067
+rm ./s-Private\ Castings\ 16\ -\ Pierre\ Woodman\ -\ Yelena\ Schieffer.avi 
+#1402621097
+trvid Private\ Castings\ 17\ -\ Pierre\ Woodman\ -\ Katalyn.avi 20:45
+#1402621141
+rm ./s-Private\ Castings\ 19\ -\ Pierre\ Woodman\ -\ Magdalena.avi 
+#1402621187
+rm ./s-Private\ Castings\ 21\ -\ Pierre\ Woodman\ -\ Victoria.avi 
+#1402621216
+trvid Private\ Castings\ 22\ -\ Pierre\ Woodman\ -\ Monica.avi 15:35
+#1402621257
+trvid Private\ Castings\ 23\ -\ Pierre\ Woodman\ -\ Yvette.avi 18:43
+#1402621279
+trvid Private\ Castings\ 24\ -\ Pierre\ Woodman\ -\ Alexia.avi 20:05
+#1402621333
+mplayer ./s-Private\ Castings\ 24\ -\ Pierre\ Woodman\ -\ Alexia.avi 
+#1402621393
+trvid ./Private\ Castings\ 16\ -\ Pierre\ Woodman\ -\ Yelena\ Schieffer.avi 02:45
+#1402621406
+trvid Private\ Castings\ 16\ -\ Pierre\ Woodman\ -\ Yelena\ Schieffer.avi 02:45
+#1402621423
+trvid Private\ Castings\ 16\ -\ Pierre\ Woodman\ -\ Yelena\ Schieffer.avi 02:450
+#1402621444
+mplayer ./s-Private\ Castings\ 16\ -\ Pierre\ Woodman\ -\ Yelena\ Schieffer.avi 
+#1402621505
+trvid Private\ Castings\ 19\ -\ Pierre\ Woodman\ -\ Magdalena.avi 14:08
+#1402621542
+trvid Private\ Castings\ 21\ -\ Pierre\ Woodman\ -\ Victoria.avi 15:34
+#1402621680
+trvid Private\ Castings\ 25\ -\ Pierre\ Woodman\ -\ Suzanna\ Wienold.avi 07:20
+#1402621714
+trvid Private\ Castings\ 26\ -\ Pierre\ Woodman\ -\ Marushka.mpg 10:06
+#1402621744
+trvid Private\ Castings\ 27\ -\ Pierre\ Woodman\ -\ Mia\ Stone.avi 25:37
+#1402621771
+trvid Private\ Castings\ 29\ -\ Pierre\ Woodman\ -\ Adrienne.avi 16:19
+#1402621834
+trvid Private\ Castings\ 30\ -\ Pierre\ Woodman\ -\ Lilou.avi 05:12
+#1402621916
+trvid Private\ Castings\ 32\ -\ Pierre\ Woodman\ -\ Judith\ Fox.avi 24:40
+#1402621954
+trvid Private\ Castings\ 33\ -\ Pierre\ Woodman\ -\ Anneth.avi 16:44
+#1402621973
+trvid Private\ Castings\ 34\ -\ Pierre\ Woodman\ -\ Lyudmilla.avi 25:22
+#1402621996
+trvid Private\ Castings\ 36\ -\ Pierre\ Woodman\ -\ Angel.avi 10:04
+#1402622027
+mv ./Private\ Castings\ 38\ -\ Pierre\ Woodman\ -\ Jeanette.mpg ./s-Private\ Castings\ 38\ -\ Pierre\ Woodman\ -\ Jeanette.mpg 
+#1402622061
+trvid Private\ Castings\ 39\ -\ Pierre\ Woodman\ -\ Alisson.avi 18:00
+#1402622103
+trvid Private\ Castings\ 40\ -\ Pierre\ Woodman\ -\ Alicia.avi 33:00
+#1402622129
+trvid Private\ Castings\ 42\ -\ Pierre\ Woodman\ -\ Rachel.avi 18:19
+#1402622168
+trvid Private\ Castings\ 43\ -\ Pierre\ Woodman\ -\ Alexandra.avi 21:22
+#1402622203
+trvid Private\ Castings\ 45\ -\ Pierre\ Woodman\ -\ Lenka.avi 18:10
+#1402622252
+trvid Private\ Castings\ 46\ -\ Pierre\ Woodman\ -\ Maggie.mpg 22:41
+#1402622436
+trvid Private\ Castings\ 47\ -\ Pierre\ Woodman\ -\ Tereza.avi 18:41
+#1402622470
+trvid Private\ Castings\ 47\ -\ Pierre\ Woodman\ -\ Tereza.avi 18:40
+#1402622498
+trvid Private\ Castings\ 48\ -\ Pierre\ Woodman\ -\ Esmeralda.mpg 29:38
+#1402622522
+trvid Private\ Castings\ 49\ -\ Pierre\ Woodman\ -\ Pavlina.mpg 11:21
+#1402622557
+trvid Private\ Castings\ 51\ -\ Pierre\ Woodman\ -\ Yasmine\ Fitzgerald.avi 32:27
+#1402622609
+trvid Private\ Castings\ 52\ -\ Pierre\ Woodman\ -\ Molly.avi 19:13
+#1402622630
+trvid Private\ Castings\ 54\ -\ Pierre\ Woodman\ -\ Liliane\ Tiger.avi 26:51
+#1402622814
+trvid Private\ Castings\ 55\ -\ Pierre\ Woodman\ -\ Elisabeth.avi 29:19
+#1402622838
+trvid Private\ Castings\ 56\ -\ Pierre\ Woodman\ -\ Yvetta.avi 24:49
+#1402622858
+trvid Private\ Castings\ 57\ -\ Pierre\ Woodman\ -\ Alina.avi 03:38
+#1402622927
+trvid Private\ Castings\ 59\ -\ Pierre\ Woodman\ -\ Monica.avi 22:57
+#1402622967
+trvid Private\ Castings\ 60\ -\ Pierre\ Woodman\ -\ Agota.mpg 26:12
+#1402623023
+trvid Private\ Castings\ 61\ -\ Pierre\ Woodman\ -\ Katalyn.avi 25:44
+#1402623046
+trvid Private\ Castings\ 62\ -\ Pierre\ Woodman\ -\ Anna.avi 31:30
+#1402623086
+trvid Private\ Castings\ 63\ -\ Pierre\ Woodman\ -\ Elsa.avi 22:44
+#1402623503
+trvid WCX-FreshBlonde.wmv 52:32
+#1402623648
+trvid Wdman\ Castng\ X\ -\ Tin\ Hot\ -\ Fuking\ n\ Double\ Pentration.mp4 14:09
+#1402623779
+trvid Woodman\ Casting\ X\ -\ Alice\ Miller\ \[aka\ Ava\].avi 04:44
+#1402623837
+trvid WoodmanCastingX.com-Nataly\ Cherie.mp4 21:14
+#1402623867
+trvid Woodman\ Casting\ X\ -\ Dorothy\ Black.avi 07:36
+#1402623889
+trvid WoodmanCastingX\ Hard\ DAP\ In\ Bed\ -\ Bernadette\ \[720p\].wmv 02:52
+#1402623929
+trvid Woodman\ Casting\ X\ -\ Logan\ \[720p\].mp4 36:31
+#1402623976
+trvid xenia_lova.wmv 31:35
+#1402624383
+trvid 5.mp4 02:13
+#1402624417
+trvid bulma_rey_hard_sofa_1.mp4 07:20
+#1402624487
+trvid WCX-FreshBlonde.wmv 1:00
+#1402624594
+rm ./WoodmanCastingX-20130428-Victoria\ Puppy\ \&\ Misha\ Cross-WebRip\ x264\ 720p-Transcoded.mkv 
+#1402624595
+df
+#1402624620
+rm ./s-bulma_rey_hard_sofa_1.mp4 
+#1402624634
+screengen ./s-5.mp4 
+#1402624643
+screengen ./s-WCX-FreshBlonde.wmv 
+#1402624717
+for f in *; do screengen "$f"; done
+#1402625326
+trvid 18.MSbpbgb.mp4 01:24
+#1402625426
+ll
+#1402625448
+trvid 9799_Madison.wmv 01:52
+#1402625473
+trvid bapp.kleio.joanna.jessie.mp4 1:50
+#1402625516
+trvid HarmonyVision.com\ -\ Kelly\ Wells\ -\ Double\ Anal\ Penetration\ \[720p\,\ 2014\].mp4 01:51
+#1402625608
+trvid wcx_mandy_tiffany.mp4 05:12
+#1402625735
+trvid bapp.kleio.joanna.jessie.mp4 03:22
+#1402625757
+trvid wcx_mandy_tiffany.mp4 1:00
+#1402625774
+rm ./*.jpg
+#1402625783
+for f in ./s-*; do screengen "$f"; done
+#1402625806
+rm ./screens/
+#1402625816
+for f in ./*; do screengen "$f"; done
+#1402626128
+mkdir screens
+#1402626135
+mv ./*.jpg ./screens/
+#1402626390
+ffprobe -no_banner
+#1402626393
+ffprobe -no_banner 18.MSbpbgb.mp4 
+#1402626409
+ffprobe -hide_banner 18.MSbpbgb.mp4 
+#1402626433
+ffprobe -hide_banner -unit 18.MSbpbgb.mp4
+#1402626458
+ffprobe -hide_banner -pretty 18.MSbpbgb.mp4
+#1402626475
+ffprobe -hide_banner -pretty -unit -prefix -byte_binary_prefix -sexagesimal 18.MSbpbgb.mp4
+#1402626498
+ffprobe -hide_banner -show_format 18.MSbpbgb.mp4
+#1402626510
+ffprobe -hide_banner -pretty -unit -prefix -byte_binary_prefix -sexagesimal show_format 18.MSbpbgb.mp4
+#1402626515
+ffprobe -hide_banner -pretty -unit -prefix -byte_binary_prefix -sexagesimal -show_format 18.MSbpbgb.mp4
+#1402626559
+ffprobe -hide_banner -show_programs 18.MSbpbgb.mp4
+#1402626590
+ffprobe -hide_banner -show_format -show_streams 18.MSbpbgb.mp4
+#1402627191
+ffprobe -hide_banner -show_format -show_streams -print_format json 18.MSbpbgb.mp4
+#1402627314
+rm ./reports/*
+#1402627372
+clear
+#1402627376
+./reports/
+#1402627377
+ls
+#1402627395
+ll --sort size
+#1402637263
+./woodman/
+#1402641275
+..
+#1402641276
+geeqie ./screens/
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402589075
+./src/main/java/com/tempusnova/novus/
+#1402589085
+grep -rni '_trigger' .
+#1402590850
+./napp/
+#1402590852
+naget approvers/_design/google/_trigger/syncgroups
+#1402599019
+vim ./js_test/_design/test/events/testevent.json 
+#1402599084
+rev-rm 
+#1402599165
+napush-all 
+#1402599641
+./js_test/_design/test/events/
+#1402600798
+mv ./test/_attachments/ .
+#1402603150
+mkdir test
+#1402603169
+cp ./_design/_attachments/ ./test/
+#1402603175
+napp push
+#1402603197
+naget js_test/_design/test/
+#1402603207
+naget js_test/test
+#1402603296
+../_design/
+#1402603301
+ls ./test/
+#1402603308
+mv ./_attachments/ ./test/
+#1402603436
+./test/
+#1402605043
+./_attachments/
+#1402605074
+napp help
+#1402605081
+napp help push 
+#1402605086
+napp help http 
+#1402605090
+napp help http --help
+#1402605095
+napp http --help
+#1402606231
+napp push 
+#1402608143
+naget js_test/_design/test/_trigger/testevent
+#1402608820
+naget js_test/_design/test
+#1402608843
+naget js_test/_design/test/events
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587296
+./.screenlayout/hdmi.sh 
+#1402588872
+./workspace/novus/
+#1402588942
+./src/main/java/com/tempusnova/novus/javascript/
+#1402589061
+vim ./JavaScriptFunction.java Secure* ~/workspace/gfs/canadaCreditNote/credit-note/credit-note-app/src/main/webapp/WEB-INF/cron.xml 
+#1402591043
+./javascript/
+#1402591045
+vim ./JavaScriptFunction.java Secure* 
+#1402600151
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java 
+#1402600173
+vim ./javascript/JavaScriptFunction.java ./Function.java Attachment.java DesignDoc.java ./Document.java Revision.java 
+#1402608314
+rev-rm 
+#1402608317
+napush-all 
+#1402549664
+rm Big\ *
+#1402549675
+rm \[BigWetButts\]\ 2014-01-05\ -\ Ashli\ Orion\ -\ Ashli\'s\ Oily\ DP\ -\ \[MP4\]\[480x272\].mp4 
+#1402549685
+rm ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402549721
+rm ./btiu_madison_scott_480p_1000.mp4 ./bwb_madison_scott-sd169.wmv 
+#1402550295
+rm ./Culioneros\ -\ Emylia\ Argan\ -\ Backyard\ Penetration.wmv ./DoctorAdventures.com\ \ -\ Madison\ Scott\ \(ERection\).wmv DPFanatics-20140413-Tina\ Hot\ -\ DP\ History-1080p.mp4 dp* ./E\ Angelina\ –\ Fuck\ My\ Invisible\ Ck.mp4 FH18.-.Madison\ Scott.wmv ihwkleiojohnny_qt.mp4 jj_adriana_chechik.mp4 kleioanalpov-480.mp4 Madison*
+#1402546998
+pacman -Ql ffmpeg
+#1402542762
+pacsearch avdevice
+#1402546801
+~/src_codes/
+#1402546807
+extract ./screengen-1.7-20130901.tar.bz2 
+#1402546810
+./screengen/
+#1402546838
+qmake-qt4
+#1402546842
+make
+#1402546929
+sudo make install
+#1402532314
+./videos/old-scifi/public-domain/
+#1402533960
+ls | grep -i hands
+#1402533977
+ls | grep -i carn
+#1402553481
+ffmpeg -i ./18.MSbpbgb.mp4 -ss 00:26:28 -codec copy test.mp4
+#1402587800
+./workspace/novus/
+#1402603333
+rm generated/
+#1402608857
+rm ./generated/
+#1402608874
+./dv-server 
+#1402618070
+./.priv/Inconspicuous_Folder/Vids/woodman/clear
+#1402618078
+./.priv/Inconspicuous_Folder/Vids/woodman/
+#1402618091
+mv ./Pierre.Woodman.Casting.-.Aspen.-.11.07.2006
+#1402618103
+rm ./Pierre.Woodman.Casting.-.Aspen.-.11.07.2006/
+#1402618112
+mv ./Pierre\ Woodman\ -\ Gina\ Devine\ HD\ 720p/PierreWoodman-20130513-Gina\ Devine-First\ DP-720p\ x264-Transcoded.mkv .
+#1402618127
+rm ./Pierre\ Woodman\ -\ Gina\ Devine\ HD\ 720p/
+#1402618204
+mv ./Pierre\ Woodman\ -\ Lucianna\ Karel\ HD\ 720p/PierreWoodman-20130417-Lucianna\ Karel-WebRip\ x264\ 720p-Transcoded.mkv .
+#1402618210
+rm ./Pierre\ Woodman\ -\ Lucianna\ Karel\ HD\ 720p/
+#1402618224
+mv ./Pierre\ Woodman\ -\ Nikita\ Bulgaria\ HD\ 720p/Nikita\ Bulgaria.AVI .
+#1402618233
+mv ./Nikita\ Bulgaria.AVI ./Nikita\ Bulgaria.avi
+#1402618237
+rm ./Pierre\ Woodman\ -\ Nikita\ Bulgaria\ HD\ 720p/
+#1402618257
+mv ./The\ Destruction\ Of\ Bonnie\ Rotten/The\ Destruction\ Of\ Bonnie\ Rotten.mp4 ..
+#1402618260
+rm ./The\ Destruction\ Of\ Bonnie\ Rotten/
+#1402618275
+mv ./\(private\)\ X\ Castings\ -\ COMPLETE\ -\ Fucked\ by\ Pierre\ Woodman/Private\ Castings\ * .
+#1402618285
+rm ./\(private\)\ X\ Castings\ -\ COMPLETE\ -\ Fucked\ by\ Pierre\ Woodman/
+#1402618302
+mv ./Woodman\ Casting\ -\ Sindy\ Vega/\[WoodmanCasting\]\ Sindy\ Vega\ -\ Hard\ Bed\ \[29m11s\]\[wmv\]\[640x360\]\[date\ 16.10.2011\].wmv .
+#1402618315
+rm ./Woodman\ Casting\ -\ Sindy\ Vega/
+#1402618321
+mv ./Woodman.Casting.X.-.Anita/Woodman\ -\ Anita\ Hard\ Bed\ 3.wmv .
+#1402618326
+rm ./Woodman.Casting.X.-.Anita/
+#1402618378
+mv ./Woodman\ -\ Anita\ Hard\ Bed\ 3.wmv ./Woodman\ Casting\ X\ -\ Anita\ Hard\ Bed\ 3.wmv
+#1402618422
+mv ./Woodman\ Casting\ X\ Dorothy\ Black.avi ./Woodman\ Casting\ X\ \-\ Dorothy\ Black.avi 
+#1402618439
+mv ./Woodman\ Casting\ X\ -\ Bernardette/WoodmanCastingX\ Hard\ DAP\ In\ Bed\ -\ Bernadette\ \[720p\].wmv .
+#1402618455
+mv ./Woodman\ Casting\ X\ -\ Bulma\ Rey\ HD\ 1080p/bulma_rey_hard_sofa_1.mp4 .
+#1402618464
+rm ./Woodman\ Casting\ X\ -\ B*
+#1402618482
+mv ./Woodman\ Casting\ X\ -\ Fresh\ Blonde\ HD\ 720p/WCX-FreshBlonde.wmv .
+#1402618498
+rm ./Woodman\ Casting\ X\ -\ Fresh\ Blonde\ HD\ 720p/
+#1402618510
+mv ./Woodman\ Casting\ X\ -\ Linet\ Slag/wcx.linetslag.wmv .
+#1402618519
+rm ./Woodman\ Casting\ X\ -\ Linet\ Slag/
+#1402618540
+mv ./Woodman\ Casting\ X\ -\ Logan\ \[720p\]/Woodman\ Casting\ X\ -\ Logan\ \[720p\].mp4 .
+#1402618550
+rm ./Woodman\ Casting\ X\ -\ Logan\ \[720p\]/
+#1402618560
+mv ./Woodman\ Casting\ X\ -\ Natalie\ Cherie/WoodmanCastingX.com-Nataly\ Cherie.mp4 .
+#1402618572
+mv ./Woodman\ Casting\ X\ -\ Victoria\ Puppy\ And\ Misha\ Cross\ HD\ 720p/WoodmanCastingX-20130428-Victoria\ Puppy\ \&\ Misha\ Cross-WebRip\ x264\ 720p-Transcoded.mkv .
+#1402618581
+rm ./Woodman\ Casting\ X\ -\ Natalie\ Cherie/
+#1402618589
+mv ./Woodman\ Casting\ X\ -\ Violette\ Pure/Woodman\ Casting\ X\ -\ Violette\ Pure.mp4 .
+#1402618641
+rm ./Woodman\ Casting\ X\ -\ Violette\ Pure/
+#1402618670
+rm ./Woodman\ Casting\ X\ -\ Victoria\ Puppy\ And\ Misha\ Cross\ HD\ 720p/
+#1402618703
+for f in ./*; do screengen "$f"; done
+#1402625052
+df
+#1402625058
+rm ./screens/
+#1402625080
+for f in *; do screengen "$f"; done
+#1402625280
+mkdir screens
+#1402625291
+mv ./*.jpg ./screens/
+#1402625298
+geeqie ./screens/
+#1402625699
+geeqie 
+#1402626172
+ffprobe ./18.MSbpbgb.mp4 
+#1402626180
+ffprobe ./18.MSbpbgb.mp4 -h
+#1402626228
+ffprobe --no-banner ./18.MSbpbgb.mp4 
+#1402626236
+ffprobe -no-banner ./18.MSbpbgb.mp4 
+#1402626251
+ffprobe -hide_banner ./18.MSbpbgb.mp4 
+#1402626355
+for f in ./*.*; do echo $f; done
+#1402626359
+for f in *.*; do echo $f; done
+#1402626622
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams "$f" > "$f.report"; done
+#1402626648
+vim ./Madison.Scott.wmv.report 
+#1402626684
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams "$f" 2>&1 > "$f.report"; done
+#1402626693
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams "$f" 2>&1 1> "$f.report"; done
+#1402626773
+rm ./*.report
+#1402626779
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams "$f" > "$f.report" 2>&1; done
+#1402626790
+mkdir reports
+#1402626801
+mv ./*.report ./reports/
+#1402626918
+vim ./reports/The\ Destruction\ Of\ Bonnie\ Rotten.mp4.report 
+#1402627245
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json "$f" > "./report/$f.report" 2>&1; done
+#1402627293
+./Vids/
+#1402627298
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json "$f" > "./reports/$f.report" 2>&1; done
+#1402627338
+mkdir woodman/reports
+#1402627342
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format -v quiet -show_error json 
+#1402627511
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet 
+#1402627513
+..
+#1402627516
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet The\ Destruction\ Of\ Bonnie\ Rotten.mp4 
+#1402627553
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_packets The\ Destruction\ Of\ Bonnie\ Rotten.mp4 
+#1402627611
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error The\ Destruction\ Of\ Bonnie\ Rotten.mp4 
+#1402627663
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error "$f" > "./reports/$f.report" 2>&1; done
+#1402627878
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -show_frames The\ Destruction\ Of\ Bonnie\ Rotten.mp4 
+#1402628000
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -show_entries stream=height,width The\ Destruction\ Of\ Bonnie\ Rotten.mp4 
+#1402628215
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -show_entries stream=height,width "$f" > "./reports/$f.json" ; done
+#1402628219
+clear
+#1402628256
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error "$f" > "./reports/$f.json" ; done
+#1402628493
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty "$f" > "./reports/$f.json" ; done
+#1402629153
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty -unit -prefix -sections "$f" > "./reports/$f.json" ; done
+#1402629643
+for f in *.*; do ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty -unit -prefix "$f" > "./reports/$f.json" ; done
+#1402630148
+man ffmpeg-all | grep -i list
+#1402630155
+man ffmpeg-all
+#1402630191
+ffmpeg -h encoder'libx265
+#1402630197
+ffmpeg -h encoder=libx265
+#1402631838
+ mplayer ./out.mp4 
+#1402631851
+rm ./out.mp4 
+#1402632031
+vim ~/.bashrc 
+#1402632066
+ffprobe -hide_banner -show_format -show_streams -print_format json -v quiet -show_error -pretty -unit -prefix ./out.mp4 
+#1402632602
+ll ./out.mp4 
+#1402632605
+ll ./out.avi
+#1402632721
+mplayer ./out.avi 
+#1402633159
+rm ./out.*
+#1402633625
+mplayer ./out2.mp4 
+#1402633663
+ll ./out2.mp4 
+#1402633792
+mplayer ./out.mp4 
+#1402634093
+ll ./out*
+#1402634166
+mplayer ./out4.mp4 
+#1402634194
+ll
+#1402634326
+llll ./t1.mp4 
+#1402634331
+ll ./t1.mp4 
+#1402634501
+ll t2.wmv 
+#1402634547
+mplayer ./t1.mp4 
+#1402634557
+mplayer ./bwb_madison_scott-sd169.wmv 
+#1402634560
+mplayer t2.wmv 
+#1402634653
+rm ./t2.wmv 
+#1402634733
+ls t*
+#1402634738
+ll t*
+#1402634818
+mplayer ./t-avi.avi 
+#1402634837
+mplayer ./Teen\ Monster\ Cock\ Worship\ -\ Proxy\ Paige.avi 
+#1402634923
+mplayer ./t-flv.mkv 
+#1402634943
+mplayer ./t2.mkv \\
+#1402638647
+./woodman/
+#1402638658
+mplayer ./5.mp4 
+#1402639278
+ls
+#1402639969
+mplayer ./Agota.avi 
+#1402640051
+mplayer ./s-Agota.avi 
+#1402640357
+mplayer ./Angelica.Kitten.Busty.Teen.ANAL.Casting.08.17.2011.avi 
+#1402640598
+mplayer Aspen\ Casting\ Scene.avi 
+#1402640810
+mplayer Private\ Castings\ 62\ -\ Pierre\ Woodman\ -\ Anna.avi 
+#1402640858
+mplayer ./Private\ Castings\ 55\ -\ Pierre\ Woodman\ -\ Elisabeth.avi 
+#1402640942
+mplayer -i Private\ Castings\ 55\ -\ Pierre\ Woodman\ -\ Elisabeth.avi -avoid_negative_ts 1 -c copy -to 00:05:09 ./s-Private\ Castings\ 55\ -\ Pierre\ Woodman\ -\ Elisabeth.avi 
+#1402640957
+ffmpeg -i Private\ Castings\ 55\ -\ Pierre\ Woodman\ -\ Elisabeth.avi -avoid_negative_ts 1 -c copy -to 00:05:09 ./s-Private\ Castings\ 55\ -\ Pierre\ Woodman\ -\ Elisabeth.avi 
+#1402640986
+mplayer Private\ Castings\ 52\ -\ Pierre\ Woodman\ -\ Molly.avi 
+#1402641027
+mplayer ./Private\ Castings\ 42\ -\ Pierre\ Woodman\ -\ Rachel.avi 
+#1402641085
+mplayer ./Private\ Castings\ 30\ -\ Pierre\ Woodman\ -\ Lilou.avi 
+#1402641114
+mplayer ./Private\ Castings\ 29\ -\ Pierre\ Woodman\ -\ Adrienne.avi 
+#1402641224
+mplayer ./Woodman\ Casting\ X\ -\ Violette\ Pure.mp4 
+#1402638020
+python
+#1402618053
+alsamixer 
+#1402632208
+term2048 
+#1402711677
+alsamixer 
+#1402728903
+ps -A | grep vlc
+#1402729005
+mplayer -dvd-device /dev/sr0 dvdnav://1
+#1402729072
+mplayer -dvd-device /dev/sr0 dvdnav://2
+#1402729054
+ps -A | grep vlc
+#1402729063
+sudo kill 20598
+#1402729069
+sudo kill -9 20598
+#1402729679
+./videos/old-scifi/
+#1402729679
+ls
+#1402729698
+mplayer ./\[Classic\ Sci-Fi\ \]\ The\ Monster\ That\ Challenged\ The\ World\ \(1957\).avi 
+#1402729069
+sudo kill -9 20598
+#1402733392
+ffmpeg -i ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4 -ss 00:18:17 -c copy ./s-Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4
+#1402733435
+mv ./s-Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4 ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4
+#1402733597
+ffmpeg -i mc12264_1500/mc12264_1500.mp4 -ss 00:17:50 -c copy ./mc12264_1500.mp4
+#1402733640
+rm ./mc12264_1500/
+#1402733688
+ffmpeg Monsters.of.Cock.Cherry.Hilson.Rico.Strong.Goes.Balls.Deep.In.The.Pussy.XXX.cPORN.mp4 -ss 00:15:22 ./mc-Cherry-Hilson.mp4
+#1402733700
+ffmpeg -i Monsters.of.Cock.Cherry.Hilson.Rico.Strong.Goes.Balls.Deep.In.The.Pussy.XXX.cPORN.mp4 -ss 00:15:22 ./mc-Cherry-Hilson.mp4
+#1402733889
+ffmpeg -i Monsters.of.Cock.Cherry.Hilson.Rico.Strong.Goes.Balls.Deep.In.The.Pussy.XXX.cPORN.mp4 -c copy -ss 00:15:22 ./mc-Cherry-Hilson.mp4
+#1402734845
+alsamixer 
+#1402734853
+mplayer ./mc12264_1500.mp4 
+#1402734911
+mplayer ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/nympho-moc18b.avi 
+#1402734968
+mplayer ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4 
+#1402734987
+rm ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4
+#1402734990
+clear
+#1402735045
+mplayer ./23162_01_540.mp4 
+#1402735102
+mplayer ./Bonnie\ Rotten\ -\ Rump\ Raiders\ 5.mp4 
+#1402729063
+sudo kill 20598
+#1402729069
+sudo kill -9 20598
+#1402733170
+./.priv/Inconspicuous_Folder/Vids/
+#1402733193
+screengen ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4 
+#1402733294
+geeqie ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4
+#1402733300
+geeqie ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4.jpg 
+#1402733427
+screengen mc12264_1500/mc12264_1500.mp4 
+#1402733450
+screengen ./Marica.Hase.Japanese.Girl.American.Monster.MonstersofCock.2012.HD_iyutero.com.mp4
+#1402733479
+screengen Monsters.of.Cock.Cherry.Hilson.Rico.Strong.Goes.Balls.Deep.In.The.Pussy.XXX.cPORN.mp4 
+#1402733998
+clear
+#1402734002
+ls ./*.jgp
+#1402734003
+ls
+#1402734029
+rm Monsters.of.Cock.Cherry.Hilson.Rico.Strong.Goes.Balls.Deep.In.The.Pussy.XXX.cPORN.mp4*
+#1402734037
+ls ./*.jpg
+#1402734056
+screengen ./mc12264_1500.mp4 ./mc-Cherry-Hilson.mp4 
+#1402734067
+screengen ./mc-Cherry-Hilson.mp4 
+#1402734754
+screengen ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/nympho-moc18a.avi 
+#1402734761
+screengen ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/nympho-moc18b
+#1402734763
+screengen ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/nympho-moc18b.avi 
+#1402734787
+geeqie 
+#1402735019
+geeqie ./screens/
+#1402735019
+geeqie ./screens/
+#1402777103
+./videos/old-scifi/public-domain/
+#1402777112
+..
+#1402777112
+clear
+#1402777114
+ls
+#1402777197
+mplayer ./\[Classic\ Sci-Fi\ \]\ 
+#1402777197
+mplayer ./\[Classic\ Sci-Fi\ \]\ 
+#1402777255
+alsamixer 
+#1402783497
+./videos/old-scifi/
+#1402783498
+clear
+#1402783523
+mplayer \[Classic\ Sci-Fi\ \]\ The\ Monster\ That\ Challenged\ The\ World\ \(1957\).avi 
+#1402803984
+ls
+#1402881437
+df
+#1402901897
+term2048 
+#1402783523
+mplayer \[Classic\ Sci-Fi\ \]\ The\ Monster\ That\ Challenged\ The\ World\ \(1957\).avi 
+#1402803984
+ls
+#1402879602
+ffmpeg Monsters\ Of\ Cock\ -\ Persian\ Girl\ Takes\ A\ Black\ Monster\ Cock\ -\ Zarreena\ \[HD\ 720p\]/mc11985_3000.mp4 -ss 20:22 -c copy mc11985_3000.mp4
+#1402879617
+ffmpeg -i Monsters\ Of\ Cock\ -\ Persian\ Girl\ Takes\ A\ Black\ Monster\ Cock\ -\ Zarreena\ \[HD\ 720p\]/mc11985_3000.mp4 -ss 20:22 -c copy mc11985_3000.mp4
+#1402879716
+ffmpeg -i Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4 -ss 00:11:21 ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4
+#1402879726
+ffmpeg -i Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4 -ss 00:11:21 ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock-s.mp4
+#1402880044
+ffmpeg -i Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4 -ss 00:11:21 -c copy ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock-s.mp4
+#1402880109
+mv ./mv ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock-s.mp4 ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4
+#1402880123
+mv ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock-s.mp4 ./Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4
+#1402880179
+ffmpeg -i ./Monstrs\ Of\ Cock\ -\ Rox\ Rox\ -\ Roxy\ Frst\ Big\ Black\ Cock.mp4 -c copy -ss 00:08:00 ./Monstrs\ Of\ Cock\ -\ Rox\ Rox\ -\ Roxy\ Frst\ Big\ Black\ Cock-s.mp4
+#1402880592
+mv ./Monstrs\ Of\ Cock\ -\ Rox\ Rox\ -\ Roxy\ Frst\ Big\ Black\ Cock-s.mp4 ./Monstrs\ Of\ Cock\ -\ Rox\ Rox\ -\ Roxy\ Frst\ Big\ Black\ Cock.mp4
+#1402880670
+rm ./mc11985_3000.mp4*
+#1402890709
+mksir ./screens/2
+#1402890715
+mkdir ./screens/2
+#1402890728
+mv ./*.jpg ./screens/2
+#1402890730
+clear
+#1402891581
+df
+#1402897837
+alias sg='screengen'
+#1402897845
+sg Mnstrs\ Of\ Cock\ -\ Jen\ White\ -\ Interracial\ Anal\ Sex\ Wid\ A\ Petite.mp4 
+#1402897896
+sg df-tila2.mp4 
+#1402897928
+sg Bonnie\ Rotten\,\ is\ Orgasmed\ to\ near\ unconscious.\ Made\ to\ squirt\,\ drool\,\ gag\,\ \&\ cum.\ Orgasm\ overload\!\ \ Bonnie\ Rotten/SB\ -\ Jul\ 15\,\ 2013\ -\ Bonnie\ Rotten.mp4 
+#1402897982
+sg Tia\ Cyrus\ -\ Rico\ Strong\ Makes\ The\ Pussy\ Squirt\ HD\ 720p/
+#1402897984
+sg Tia\ Cyrus\ -\ Rico\ Strong\ Makes\ The\ Pussy\ Squirt\ HD\ 720p/mc11818_3000.mp4 
+#1402898041
+for f in Squirt\ Teens\ From\ Russia\ 2/squirt-teens-from-russia-2-scene*; do screengen "$f"; done
+#1402898064
+sg pp12.mp4 
+#1402898093
+sg Very\ Young-X-X-Amateur\ HomeMade\ Sex.avi 
+#1402898118
+sg ./\[Blacked\]\ Scarlet\ Red\ -\ Preppy\ Blonde\ Girl\ Loves\ Big\ Black\ Dick\ \[.mp4\]/blacked.14.03.24.scarlet.red-480.mp4 
+#1402898192
+screengen I\ Love\ To\ Squirt\ 4/I\ Love\ To\ Squirt\ 41.mp4 
+#1402898218
+for f in ./4k.*; do screengen "$f"; done
+#1402898863
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy `echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z]\{3\}\)$/\1-s.\2/g'` }; 
+#1402898891
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy `echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z]\{3\}\)$/\1-s.\2/g'` }
+#1402898896
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy `echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z]\{3\}\)$/\1-s.\2/g'`; }
+#1402898931
+trvid ./36.FRgs18.avi 05:19
+#1402898989
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy `echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z0-9]\{3\}\)$/\1-s.\2/g'`; }
+#1402898992
+trvid ./4k.chloe.amour.oil.massage.29.05.14_480.mp4 12:19
+#1402899014
+trvid ./4k.chloe.foster.tiny.blonde.workout.05.05.14_480.mp4 13:39
+#1402899076
+trvid 4k.dakota.skye.poolside.stretch.19.05.14_480.mp4 14:31
+#1402899137
+trvid 4k.emma.stoned.office.play.14.05.14_480.mp4 07:37
+#1402899159
+trvid 4k.kacey.jordan.petite.fuck.toy.02.05.14_480.mp4 11:37
+#1402899320
+sg Skinny\ Teens.avi 
+#1402899353
+trvid Sensi.Pearl.The.Car.Wash.wmv 10:28
+#1402899380
+mv ./Sensi.Pearl.The.Car.Wash-s.wmv ./Sensi.Pearl.The.Car.Wash.wmv
+#1402899383
+sg Sensi.Pearl.The.Car.Wash.wmv 
+#1402899455
+mv ./36.FRgs18-s.avi ./36.FRgs18.avi
+#1402899459
+sg ./36.FRgs18.avi
+#1402899502
+mv ./4k.chloe.amour.oil.massage.29.05.14_480-s.mp4 ./4k.chloe.amour.oil.massage.29.05.14_480.mp4
+#1402899507
+sg ./4k.chloe.amour.oil.massage.29.05.14_480.mp4
+#1402899589
+mv ./4k.chloe.foster.tiny.blonde.workout.05.05.14_480-s.mp4 ./4k.chloe.foster.tiny.blonde.workout.05.05.14_480.mp4
+#1402899592
+sg ./4k.chloe.foster.tiny.blonde.workout.05.05.14_480.mp4
+#1402899618
+mv ./4k.dakota.skye.poolside.stretch.19.05.14_480-s.mp4 ./4k.dakota.skye.poolside.stretch.19.05.14_480.mp4
+#1402899621
+sg ./4k.dakota.skye.poolside.stretch.19.05.14_480.mp4
+#1402899656
+mv ./4k.emma.stoned.office.play.14.05.14_480-s.mp4 ./4k.emma.stoned.office.play.14.05.14_480.mp4
+#1402899669
+sg ./4k.emma.stoned.office.play.14.05.14_480.mp4
+#1402899698
+mv ./4k.kacey.jordan.petite.fuck.toy.02.05.14_480-s.mp4 ./4k.kacey.jordan.petite.fuck.toy.02.05.14_480.mp4
+#1402899704
+sg ./4k.kacey.jordan.petite.fuck.toy.02.05.14_480.mp4
+#1402901809
+mplayer ./Sensi.Pearl.The.Car.Wash.wmv 
+#1402898644
+echo test.avi
+#1402898682
+echo test.avi | sed 's/\([a-zA-Z]\{3\}\)$/\1/g'
+#1402898691
+echo test.avi | sed 's/\([a-zA-Z]\)$/\1/g'
+#1402898707
+echo `echo test.avi | sed 's/\([a-zA-Z]\)$/\1/g'`
+#1402898716
+echo `echo test.avi | sed 's/*\([a-zA-Z]\)$/\1/g'`
+#1402898721
+echo `echo test.avi | sed 's/^*\([a-zA-Z]\)$/\1/g'`
+#1402898731
+echo `echo test.avi | sed 's/^*\([a-z]\)$/\1/g'`
+#1402898735
+echo `echo test.avi | sed 's/^*\([a]\)$/\1/g'`
+#1402898745
+echo `echo test.avi | sed 's/avi$//g'`
+#1402898760
+echo `echo test.avi | sed 's/^.*\([a-zA-Z]\)$/\1/g'`
+#1402898805
+echo test.avi | sed 's/^\(.\+\)\([a-zA-Z]\{3\}\)$/\1/g'
+#1402898817
+echo test.avi | sed 's/^\(.\+\)\([a-zA-Z]\{3\}\)$/\2/g'
+#1402898831
+echo test.avi | sed 's/^\(.\+\)\.\([a-zA-Z]\{3\}\)$/\1\2/g'
+#1402898839
+echo test.avi | sed 's/^\(.\+\)\.\([a-zA-Z]\{3\}\)$/\1-s.\2/g'
+#1402901798
+alsamixer 
+#1402777197
+mplayer ./\[Classic\ Sci-Fi\ \]\ 
+#1402783497
+./videos/old-scifi/
+#1402783498
+clear
+#1402783523
+mplayer \[Classic\ Sci-Fi\ \]\ The\ Monster\ That\ Challenged\ The\ World\ \(1957\).avi 
+#1402803984
+ls
+#1402877443
+alsamixer 
+#1402877455
+./.priv/
+#1402877458
+./Inconspicuous_Folder/Vids/
+#1402877494
+screengen ./Monsters\ Of\ Cock\ -\ Persian\ Girl\ Takes\ A\ Black\ Monster\ Cock\ -\ Zarreena\ \[HD\ 720p\]/mc11985_3000.mp4 
+#1402880595
+screengen ./Monstrs\ Of\ Cock\ -\ Rox\ Rox\ -\ Roxy\ Frst\ Big\ Black\ Cock.mp4 
+#1402880600
+screengen Monstrs\ Of\ Cock\ -\ All\ Haze\ -\ Dicked\ Down\ By\ Sme\ Big\ Cock.mp4 
+#1402880626
+screengen mc11985_3000.mp4
+#1402880642
+rm ./Monsters\ Of\ Cock\ -\ Persian\ Girl\ Takes\ A\ Black\ Monster\ Cock\ -\ Zarreena\ \[HD\ 720p\]/
+#1402897861
+alias sg='screengen'
+#1402897891
+sg ./ecg_chloe.wmv 
+#1402897908
+sg sg_bonnie.mp4 
+#1402897948
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene1.avi 
+#1402897954
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene2.avi 
+#1402897960
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene3.avi 
+#1402897965
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene4.avi 
+#1402897970
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene5.avi 
+#1402897977
+sg ./starlets-squirtgasms.mp4 
+#1402897992
+sg 36.FRgs18.avi 
+#1402898002
+sg Shes\ Gona\ Squrt\ -\ Cec\ Stone\ -\ Extra\ Squirticular\ Activits.mp4 
+#1402898050
+sg So\ You\ Think\ You\ Can\ Squirt.mp4 
+#1402898057
+sg ./sgsgbg.avi 
+#1402898074
+sg Squirt\ Gasms\!\ -\ Sheena\ Shaw.mp4 
+#1402898088
+sg ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 
+#1402898102
+sg ./4k.emma.stoned.office.play.14.05.14_480.mp4 
+#1402898126
+sg ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402933852
+./.screenlayout/hdmi.sh 
+#1402934664
+./workspace/novus/
+#1402937306
+clear
+#1402937307
+./dv-server 
+#1402898074
+sg Squirt\ Gasms\!\ -\ Sheena\ Shaw.mp4 
+#1402898088
+sg ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 
+#1402898102
+sg ./4k.emma.stoned.office.play.14.05.14_480.mp4 
+#1402898126
+sg ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402935470
+ls ./generated/
+#1402935766
+mvn package 
+#1402941740
+gita --all ./src/main/java/com/tempusnova/novus/javascript/
+#1402941754
+gita --all ./napp/js_test/
+#1402941790
+gita ./pom.xml 
+#1402942141
+gitd ./.gitignore 
+#1402942146
+ls
+#1402942151
+ls /bin
+#1402942189
+rm ./bin/
+#1402942223
+git checkout ./.gitignore
+#1402942225
+clear
+#1402942226
+gits
+#1402942256
+gitcm "Beginnings of JavaScript support."
+#1402942273
+cp ./src/main/java/com/tempusnova/novus/ResourceId.java .
+#1402942278
+git checkout
+#1402942287
+git pull
+#1402942322
+git push
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402935117
+./napp/
+#1402935126
+./js_test/
+#1402935128
+ll
+#1402935135
+ls ./test/
+#1402935139
+ls ./test/_attachments/
+#1402935453
+..
+#1402935538
+naget /js_test
+#1402935543
+naget js_test
+#1402935552
+naget js_test/_design
+#1402935558
+naget js_test/_design/
+#1402935565
+naget js_test/_design/test
+#1402937576
+clear
+#1402937578
+naget js_test/_design/test/_trigger/testevent
+#1402898126
+sg ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402935452
+..
+#1402935598
+./js_test/_design/test/
+#1402935601
+napp push 
+#1402937374
+vim ./_attachments/test.js 
+#1402937391
+vim ./events/testevent.json 
+#1402937408
+napp push
+#1402897948
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene1.avi 
+#1402897954
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene2.avi 
+#1402897960
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene3.avi 
+#1402897965
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene4.avi 
+#1402897970
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene5.avi 
+#1402897977
+sg ./starlets-squirtgasms.mp4 
+#1402897992
+sg 36.FRgs18.avi 
+#1402898002
+sg Shes\ Gona\ Squrt\ -\ Cec\ Stone\ -\ Extra\ Squirticular\ Activits.mp4 
+#1402898050
+sg So\ You\ Think\ You\ Can\ Squirt.mp4 
+#1402898057
+sg ./sgsgbg.avi 
+#1402898074
+sg Squirt\ Gasms\!\ -\ Sheena\ Shaw.mp4 
+#1402898088
+sg ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 
+#1402898102
+sg ./4k.emma.stoned.office.play.14.05.14_480.mp4 
+#1402898126
+sg ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402935970
+grep -rn 'new Context('
+#1402935999
+grep -rn 'Level.EVENT'
+#1402937441
+grep -rn "JavaScript files are not supported yet."
+#1402937602
+grep -rn "JavaScript files are not yet supported."
+#1402937936
+ls
+#1402941481
+grep -rn 'log\.' ./
+#1402941495
+grep -rn 'log\.' .
+#1402941505
+grep -n 'log\.' .i/*
+#1402941514
+grep -n 'log\.' ./*
+#1402941523
+grep -n 'log\.' ./servlet/*
+#1402941817
+gitd ./Context.java 
+#1402941824
+gita ./Context.java
+#1402941834
+gitd ./Function.java 
+#1402941846
+gita ./Function.java
+#1402941861
+gitd ResourceId.java 
+#1402941883
+./servlet/
+#1402941899
+git checkout ./AttEndpoint.java
+#1402941907
+gita DatabaseEndpoint.java 
+#1402941914
+gitd DatabaseEndpoint.java
+#1402941960
+git reset HEAD DatabaseEndpoint.java
+#1402941985
+gitd ./DatabaseEndpoint.java 
+#1402942000
+git checkout ./DatabaseEndpoint.java
+#1402942031
+gitd ./AttEndpoint.java 
+#1402942053
+gitd ./DesignEndpoint.java 
+#1402942059
+git checkout ./DesignEndpoint.java
+#1402942073
+gitd ./Endpoint.java 
+#1402942081
+git checkout ./Endpoint.java
+#1402942098
+gitd UpdateEndpoint.java 
+#1402942105
+gita UpdateEndpoint.java
+#1402942107
+clear
+#1402942108
+gits
+#1402898470
+geeqie 
+#1402934656
+./workspace/novus/
+#1402935148
+./src/main/java/com/tempusnova/novus/javascript/
+#1402935148
+ll
+#1402935183
+..
+#1402935184
+lt
+#1402935202
+vim ./javascript/JavaScriptFunction.java ./ResourceId.java 
+#1402953819
+python
+#1402935148
+ll
+#1402935184
+lt
+#1402935202
+vim ./javascript/JavaScriptFunction.java ./ResourceId.java 
+#1402945204
+./workspace/
+#1402945209
+mkdir ucar
+#1402945237
+mkdir ucar/scrape-scripts
+#1402945243
+./ucar/scrape-scripts/
+#1402945256
+mkdir ./mail
+#1402945471
+rm ./mail/
+#1402945474
+mkdir src
+#1402945480
+clear
+#1402945482
+./src/
+#1402945494
+ls ./mail/
+#1402945498
+ls ./mail/imap.py 
+#1402945513
+vim ./mail/imap.py
+#1402945748
+mv ./mail/ ./nmmail
+#1402945775
+vim ./nmmail/imap.py mail/imap.py ./session.py 
+#1402947441
+ls
+#1402947443
+..
+#1402947457
+mv ./src/ ./scraper
+#1402947460
+./scraper/
+#1402947480
+vim ./nmmail/imap.py mail/imap.py ./session.py ~/workspace/novamigrate/nmworker.py 
+#1402949146
+vim ./mail/imap.py ./oauth.py ./nm/oauth.py 
+#1402952968
+vim ./mail/imap.py ./oauth.py ../test.py 
+#1402953205
+mv ./mail/imap.py ./mail/__init__.py
+#1402953211
+vim ./mail/__init__.py ./oauth.py ../test.py 
+#1402942105
+gita UpdateEndpoint.java
+#1402942108
+gits
+#1402898470
+geeqie 
+#1402934656
+./workspace/novus/
+#1402935148
+./src/main/java/com/tempusnova/novus/javascript/
+#1402935148
+ll
+#1402935184
+lt
+#1402935202
+vim ./javascript/JavaScriptFunction.java ./ResourceId.java 
+#1402950106
+..
+#1402951715
+chmod +x ./test.py 
+#1402951735
+touch ./scraper/__init__.py
+#1402955003
+clear
+#1402955230
+mkdir test-files
+#1402955242
+mv ./*.eml ./test-files/
+#1402956512
+rm ./test-files/*
+#1402956521
+mv ./test-files/ eml-files
+#1402958694
+ls
+#1402958701
+ls ./eml-files/
+#1402958782
+./test.py 
+#1402953819
+python
+#1402958740
+....
+#1402958743
+./test
+#1402958755
+./mail/dpftest001/
+#1402958756
+ls
+#1402958758
+..
+#1402958764
+find . -type d
+#1402942000
+git checkout ./DatabaseEndpoint.java
+#1402942031
+gitd ./AttEndpoint.java 
+#1402942053
+gitd ./DesignEndpoint.java 
+#1402942059
+git checkout ./DesignEndpoint.java
+#1402942073
+gitd ./Endpoint.java 
+#1402942081
+git checkout ./Endpoint.java
+#1402942098
+gitd UpdateEndpoint.java 
+#1402942105
+gita UpdateEndpoint.java
+#1402942108
+gits
+#1402898470
+geeqie 
+#1402934656
+./workspace/novus/
+#1402935148
+./src/main/java/com/tempusnova/novus/javascript/
+#1402935184
+lt
+#1402935202
+vim ./javascript/JavaScriptFunction.java ./ResourceId.java 
+#1402945300
+~/workspace/novamigrate/
+#1402945312
+ll
+#1402945328
+find | grep imap
+#1402945390
+find . -name *.pyc
+#1402945427
+./clean_pyc.sh 
+#1402945433
+./novamigrate
+#1402945477
+cp ./common/ oauth.py mail ~/workspace/ucar/scrape-scripts/src/
+#1402946214
+grep -rn 'Session'
+#1402946216
+..
+#1402946225
+grep -n 'Session' ./*.py
+#1402946233
+grep -rn 'new Session'
+#1402946241
+grep -rn 'new Session' .
+#1402946261
+grep -rn 'Session(' .
+#1402947153
+vim ./nmworker.py 
+#1402949975
+vim ./novamigrate.py 
+#1402950095
+cp *.p12 cacert.pem config.json ~/workspace/ucar/scrape-scripts/
+#1402958466
+clear
+#1402958476
+./test2/mail/
+#1402958503
+./bmcmdrv4/
+#1402958504
+ls
+#1402958513
+vim ./data.json 
+#1402935148
+ll
+#1402935184
+lt
+#1402935202
+vim ./javascript/JavaScriptFunction.java ./ResourceId.java 
+#1402945593
+cp ~/workspace/novamigrate/novamigrate/session.py .
+#1402945995
+mkdir mail
+#1402946188
+grep -rn 'new Session'
+#1402946192
+grep -rn 'Session'
+#1402947053
+grep -rn '\.imap(' .
+#1402949054
+..
+#1402949058
+./scraper/
+#1402949060
+l
+#1402949077
+mkdir nm
+#1402949090
+mv ./nmmail/ ./nm/mail
+#1402949106
+mv ./common/ ./oauth.py ./session.py ./nm
+#1402949109
+clear
+#1402950101
+ls
+#1402953175
+ls ./mail/
+#1402935360
+cd
+#1402935370
+. /etc/bash.bashrc
+#1402935372
+lt
+#1402935382
+lz
+#1402934982
+vim ./.xinitrc 
+#1402898102
+sg ./4k.emma.stoned.office.play.14.05.14_480.mp4 
+#1402898126
+sg ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402935043
+mkdir ./.config/awesome/logs
+#1402935054
+ls ./.cache/
+#1402935057
+ls ./.cache/awesome/
+#1402935073
+mkdir ./.cache/awesome/logs
+#1402935079
+rm ./.config/awesome/logs/
+#1402935231
+ls
+#1402935238
+ll
+#1402935241
+ll -s
+#1402935252
+ll --size
+#1402935266
+ll --sort size
+#1402953567
+pacsearch pymode
+#1402953592
+pacsearch vim py
+#1402953611
+clear
+#1402953612
+pacsearch vim python
+#1402898470
+geeqie 
+#1402935327
+sudo vim /etc/bash.bashrc
+#1402950880
+./videos/old-scifi/public-domain/
+#1402950882
+ls
+#1402953691
+pacinstall vim-jedi vim-python vim-python-mode
+#1402955815
+clear
+#1402955849
+paclsearch thunderbird
+#1402955876
+pacinstall thunderbird
+#1402956211
+sudo pacman -Syy
+#1402961803
+ls /media/Generic/videos/old-scifi/
+#1402934656
+./workspace/novus/
+#1402935148
+./src/main/java/com/tempusnova/novus/javascript/
+#1402935148
+ll
+#1402935183
+..
+#1402935184
+lt
+#1402935202
+vim ./javascript/JavaScriptFunction.java ./ResourceId.java 
+#1402955976
+mnt4all /dev/sdb1 /media/Generic/
+#1402955981
+ls /media/Generic/
+#1402955993
+rm /media/Generic/videos/*
+#1402956014
+mkdir /media/Generic/videos/old-scifi
+#1402956023
+lz
+#1402956156
+rsync THE_FLYING_SERPENT__1945_mpeg2video_x264.mp4 the-vampire-bat-1933.avi TheBeachGirlsAndTheMonster.avi /media/Generic/videos/old-scifi/
+#1402957956
+rsync ./Creature-From-The_Haunted-Sea.mp4 NightOfTheBloodBeast1958.divx /media/Generic/videos/old-scifi/
+#1402961038
+ phantrsync ./Creature-From-The_Haunted-Sea.mp4 NightOfTheBloodBeast1958.divx /media/Generic/videos/old-scifi/
+#1402961061
+ls | grep -i phant
+#1402961757
+ls /media/Generic/videos/old-scifi/
+#1402961769
+clear
+#1402961777
+ls | grep -v torrent
+#1402962167
+rsync ./indestructible_man_512kb.mp4 DeadMenWalk.mp4 /media/Generic/videos/old-scifi/
+#1402963122
+ls
+#1402963135
+ls ..
+#1402963497
+rsync TeenagersFromOuterSpace1959DavidLove.mp4 /media/Generic/videos/old-scifi/
+#1402963621
+df
+#1402963976
+rsync Maniac1934_512kb.mp4 the_monster_maker.mp4 /media/Generic/videos/old-scifi/
+#1402964867
+rsync amazing_mr_x_512kb.mp4 SoundOfHorror.divx thirteenth_guest_512kb.mp4 /media/Generic/videos/old-scifi/
+#1402964966
+rsync amazing_mr_x_512kb.mp4 thirteenth_guest_512kb.mp4 /media/Generic/videos/old-scifi/
+#1402965046
+rsync thirteenth_guest_512kb.mp4 /media/Generic/videos/
+#1402965087
+sudo umount /media/Generic 
+#1402897960
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene3.avi 
+#1402897965
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene4.avi 
+#1402897970
+sg ./Squirt\ Teens\ From\ Russia\ 360p/squirt-teens-from-russia-scene5.avi 
+#1402897977
+sg ./starlets-squirtgasms.mp4 
+#1402897992
+sg 36.FRgs18.avi 
+#1402898002
+sg Shes\ Gona\ Squrt\ -\ Cec\ Stone\ -\ Extra\ Squirticular\ Activits.mp4 
+#1402898050
+sg So\ You\ Think\ You\ Can\ Squirt.mp4 
+#1402898057
+sg ./sgsgbg.avi 
+#1402898074
+sg Squirt\ Gasms\!\ -\ Sheena\ Shaw.mp4 
+#1402898088
+sg ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 
+#1402898102
+sg ./4k.emma.stoned.office.play.14.05.14_480.mp4 
+#1402898126
+sg ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 
+#1402898181
+sg ./Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 
+#1402898470
+geeqie 
+#1402934134
+./videos/old-scifi/
+#1402934149
+mkdir other
+#1402934160
+mv ./Ilsa* ./Satan\'s\ School\ for\ Girls/ ./other/
+#1402934196
+rm ./Day\ Of\ The\ Triffids\ \(BBC\ 1981\)/
+#1402934200
+clearclear
+#1402934208
+df
+#1402934524
+mplayer ./Them\!\[1954\]DvDrip\[Eng\]-FXG/Them\!\[1954\]DvDrip\[Eng\]-FXG.avi 
+#1402941616
+./public-domain/
+#1402941640
+mplayer ./BeastFromHauntedCave1959.avi 
+#1402950485
+mplayer ./CreatureOfDestruction_x264.mp4 
+#1402950510
+mplayer MenacefromOuterSpace.avi 
+#1402950529
+mplayer SPIDER_BABY_1964_mpeg2video_mpeg2video.mpg 
+#1402950598
+clear
+#1402950620
+mplayer KillersFromSpacePresentedByMoviePowder.avi 
+#1402950759
+mplayer ./Beast_of_Yucca_Flats.mpeg 
+#1402950766
+ls
+#1402950788
+mplayer ./The_Killer_Shrews.mp4 
+#1402960631
+mplayer ./SoundOfHorror.divx 
+#1402971310
+pacsearch broadcom wl
+#1402898470
+geeqie 
+#1402934684
+vim ./.config/awesome/rc.lua 
+#1402965338
+sudo packer-color --noedit -Su
+#1402965349
+sudo packer-color --noedit -Syu
+#1402965388
+sudo packer-color --noconfirm -Syu
+#1402971321
+pacinstall broadcom-wl-dkms 
+#1402976194
+less /etc/inputrc 
+#1402976393
+./configure --enable-rpath --enable-gpl --enable-version3 --enable-nonfree --enable-shared --enable-avresample --enable-avisynth --enable-fontconfig --enable-frei0r --enable-gnutls --enable-ladspa --enable-libaacplus --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcelt --enable-libcdio --enable-libdc1394 --enable-libfaac --enable-libfdk-aac --enable-libfreetype --enable-libgme --enable-libgsm --enable-libiec61883 --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopencv --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libutvideo --enable-libv4l2 --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-openal --enable-opengl --enable-openssl --enable-x11grab --enable-shared
+#1402976554
+make
+#1402977310
+sudo make install
+#1402976697
+pacsearch x265
+#1402976750
+pacinstall x265
+#1402976194
+less /etc/inputrc 
+#1402976326
+cd
+#1402976337
+./src_codes/ffmpeg
+#1402976347
+make clean
+#1402976355
+git pull
+#1402976371
+ls
+#1402976383
+vim ./conf-command 
+#1402976194
+less /etc/inputrc 
+#1402976326
+cd
+#1402976337
+./src_codes/ffmpeg
+#1402976347
+make clean
+#1402976355
+git pull
+#1402976383
+vim ./conf-command 
+#1402980118
+~/videos/
+#1402980122
+ls ./castle/
+#1402980126
+rm ./castle/
+#1402980155
+rm ./\[Classic\ Sci-Fi\ \]\ The\ Giant\ Claw\ \(1957\).avi 
+#1402980176
+rm ./\[Classic\ Sci-Fi\ \]\ Th*
+#1402980214
+rm ./The_Giant_Claw.6103324.TPB.torrent 
+#1402980225
+ls ./\[Classic\ Sci-Fi\ \]\ 50\ Years\ of\ Godzilla\!\!/
+#1402980233
+rm ./\[Classic\ Sci-Fi\ \]\ 50\ Years\ of\ Godzilla\!\!/
+#1402980239
+./old-scifi/
+#1402980252
+rm ./\[Classic\ Sci-Fi\ \]\ Project\ Moonbase\ \(1953\)\ @dap-js\ rip@.avi 
+#1402980276
+./public-domain/
+#1402980277
+clear
+#1402980278
+ls
+#1402980324
+ll ./Killers*
+#1402980334
+rm ./KillersFromSpacePresentedByMoviePowder.avi 
+#1402980357
+ll ./Creature*
+#1402980367
+rm ./Creature_Of_Destruction.divx 
+#1402980391
+rm ./SoundOfHorror.divx 
+#1402980416
+df
+#1402971321
+pacinstall broadcom-wl-dkms 
+#1402976069
+./videos/old-scifi/public-domain/
+#1402976084
+mplayer ./SoundOfHorror.divx 
+#1402978514
+mplayer ./Hercules_Against_the_Moonmen.avi 
+#1402983938
+clear
+#1402983938
+ls
+#1402983947
+mplayer ./indestructible_man_512kb.mp4 
+#1402976109
+alsamixer 
+#1402965349
+sudo packer-color --noedit -Syu
+#1402965388
+sudo packer-color --noconfirm -Syu
+#1402971321
+pacinstall broadcom-wl-dkms 
+#1402976194
+less /etc/inputrc 
+#1402976226
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy `echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z0-9]\{3\}\)$/\1-s.\2/g'`; }
+#1402976250
+find . | grep blacked
+#1402976303
+trvid ./\[Blacked\]\ Scarlet\ Red\ -\ Preppy\ Blonde\ Girl\ Loves\ Big\ Black\ Dick\ \[.mp4\]/blacked.14.03.24.scarlet.red-480.mp4 11:09
+#1402977340
+mv ./\[Blacked\]\ Scarlet\ Red\ -\ Preppy\ Blonde\ Girl\ Loves\ Big\ Black\ Dick\ \[.mp4\]/blacked.14.03.24.scarlet.red-480.mp4 .
+#1402977347
+rm ./\[Blacked\]\ Scarlet\ Red\ -\ Preppy\ Blonde\ Girl\ Loves\ Big\ Black\ Dick\ \[.mp4\]/
+#1402977382
+tivid ./blacked.14.03.24.scarlet.red-480.mp4 11:09
+#1402977389
+tr\vid ./blacked.14.03.24.scarlet.red-480.mp4 11:09
+#1402977441
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy "`echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z0-9]\{3\}\)$/\1-s.\2/g'`"; }
+#1402977443
+trvid Blacked\ -\ Skinny\ Blonde\ Teen\ Stretched\ By\ Big\ Black\ Dick\ -\ Tysen\ Rich\ \[720p\].mp4 11:20
+#1402977532
+trvid ecg_chloe.wmv 38:08
+#1402977623
+find | grep mc13
+#1402977631
+mv ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/mc13164_1500.mp4 .
+#1402977640
+rm ./\[MonstersOfCock\]\ -\ Lola\ Foxx\ -\ Sexy\ Petite\ Brunette\ Takes\ A\ Monster\ Cock\ Pounding\ \[BangBros\]\ -\ NEW\ 03\ JUNE\ 2014\ NEW/
+#1402977676
+trvid mc13164_1500.mp4 06:16
+#1402977707
+trvid Mnstrs\ Of\ Cock\ -\ Jen\ White\ -\ Interracial\ Anal\ Sex\ Wid\ A\ Petite.mp4 06:27
+#1402977753
+trvid sg_bonnie.mp4 07:12
+#1402977781
+trvid Shes\ Gona\ Squrt\ -\ Cec\ Stone\ -\ Extra\ Squirticular\ Activits.mp4 10:12
+#1402977820
+trvid Squirt\ Gasms\!\ -\ Sheena\ Shaw.mp4 05:29
+#1402977841
+mv ./Squirt\ Teens\ From\ Russia\ 2/* .
+#1402977849
+rm ./Squirt\ Teens\ From\ Russia\ 2/
+#1402977875
+trvid squirt-teens-from-russia-2-scene1.mp4 07:13
+#1402977900
+trvid ./squirt-teens-from-russia-2-scene2.mp4 13:36
+#1402977928
+trvid squirt-teens-from-russia-2-scene3.mp4 06:26
+#1402977957
+trvid squirt-teens-from-russia-2-scene4.mp4 05:42
+#1402977984
+trvid squirt-teens-from-russia-2-scene5.mp4 04:22
+#1402978011
+mv ./Squirt\ Teens\ From\ Russia\ 360p/* .
+#1402978015
+rm ./Squirt\ Teens\ From\ Russia\ 360p/
+#1402978036
+trvid squirt-teens-from-russia-scene1.avi 06:00
+#1402978055
+trvid squirt-teens-from-russia-scene2.avi 06:08
+#1402978084
+trvid squirt-teens-from-russia-scene3.avi 12:14
+#1402978114
+trvid squirt-teens-from-russia-scene4.avi 14:50
+#1402978149
+rm ./Very\ Young-X-X-Amateur\ HomeMade\ Sex.avi
+#1402978166
+mv ./4k.*.jpg ./screens/
+#1402978176
+ls
+#1402978211
+ls | grep -v jpg | grep -v '\-s'
+#1402978224
+ls |  grep -v '\-s'
+#1402978233
+ls |  grep '\-s'
+#1402978239
+ls |  grep '\-s\.'
+#1402984064
+screengen SB\ -\ Jul\ 15\,\ 2013\ -\ Bonnie\ Rotten.mp4 
+#1402984118
+trvid ma12943_1500.mp4 27:45
+#1402984156
+mv ./ma12943_1500-s.mp4 ./ma12943_1500.mp4
+#1402984158
+screengen ma12943_1500.mp4 
+#1402984177
+rm ./ma12943_1500.mp4*
+#1402971310
+pacsearch broadcom wl
+#1402898470
+geeqie 
+#1402934684
+vim ./.config/awesome/rc.lua 
+#1402965338
+sudo packer-color --noedit -Su
+#1402965349
+sudo packer-color --noedit -Syu
+#1402965388
+sudo packer-color --noconfirm -Syu
+#1402971321
+pacinstall broadcom-wl-dkms 
+#1402976194
+less /etc/inputrc 
+#1402976209
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy `echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z0-9]\{3\}\)$/\1-s.\2/g'`; }
+#1402977459
+trvid(){ ffmpeg -i "$1" -ss 00:$2 -c copy "`echo $1 | sed 's/^\(.\+\)\.\([a-zA-Z0-9]\{3\}\)$/\1-s.\2/g'`"; }
+#1402977480
+trvid df-tila2.mp4 06:58
+#1402977565
+find | grep mc11
+#1402977575
+mv ./Tia\ Cyrus\ -\ Rico\ Strong\ Makes\ The\ Pussy\ Squirt\ HD\ 720p/mc11818_3000.mp4 .
+#1402977578
+rm ./Tia\ Cyrus\ -\ Rico\ Strong\ Makes\ The\ Pussy\ Squirt\ HD\ 720p/
+#1402977599
+trvid mc11818_3000.mp4 14:02
+#1402978255
+ls ./*.jpg
+#1402978265
+mv ./36.FRgs18.avi.jpg ./screens/
+#1402978288
+mv ./I\ Love\ To\ Squirt\ 4/I\ Love\ To\ Squirt\ 41.mp4 .
+#1402978297
+rm ./I\ Love\ To\ Squirt\ 4
+#1402978305
+mv ./I\ Love\ To\ Squirt\ 41.mp4.jpg ./screens/
+#1402978323
+mv ./pp12.mp4.jpg ./screens/
+#1402978354
+rm ./sgsg
+#1402978356
+rm ./sgsgbg.avi 
+#1402978406
+mv ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4.jpg ./screens/
+#1402978422
+mv ./Skinny\ Teens.avi.jpg ./screens/
+#1402978434
+mv ./So\ You\ Think\ You\ Can\ Squirt.mp4.jpg ./screens/
+#1402978448
+mv ./starlets-squirtgasms.mp4.jpg ./screens/
+#1402978451
+rm ./Very\ Young-X-X-Amateur\ HomeMade\ Sex.avi.jpg 
+#1402978462
+rm ./*.jpg
+#1402979426
+for f in ./*-s.*; do echo `echo $f| sed 's/-s\.//g'`; done
+#1402979450
+for f in ./*-s.*; do mv "f" "`echo $f| sed 's/-s\.//g'`"; done
+#1402979460
+for f in ./*-s.*; do mv "$f" "`echo $f| sed 's/-s\.//g'`"; done
+#1402979510
+mv ./df-tila2mp4 ./df-tila2.mp4 
+#1402979543
+ls ./*[^.]mp4
+#1402979600
+for f in ./*[^.]mp4; do mv "$f" "`echo $f | sed 's/mp4$/.mp4/g'`"; done
+#1402979616
+for f in ./*[^.]mp4*; do mv "$f" "`echo $f | sed 's/mp4$/.mp4/g'`"; done
+#1402979636
+for f in ./*[^.]mp4.jpg; do mv "$f" "`echo $f | sed 's/mp4$/.mp4/g'`"; done
+#1402979642
+for f in ./*[^.]mp4.jpg; do mv "$f" "`echo $f | sed 's/mp4/.mp4/g'`"; done
+#1402979676
+for f in ./*[^.]avi; do mv "$f" "`echo $f | sed 's/avi$/.avi/g'`"; done
+#1402979695
+for f in ./*[^.]avi.jpg; do mv "$f" "`echo $f | sed 's/avi\.jpg$/.avi.jpg/g'`"; done
+#1402979724
+ls ./*[^.]wmv
+#1402979743
+mv ./ecg_chloewmv ./ecg_chloe.wmv 
+#1402979763
+trvid df-tila2.mp4 06:27
+#1402979801
+rm ./squirt-teens-from-russia-2-scene2.mp4*
+#1402979850
+trvid squirt-teens-from-russia-scene2.avi 05:01
+#1402979873
+rm ./squirt-teens-from-russia-scene4.avi*
+#1402979875
+clear
+#1402979887
+ls ./*-s.*
+#1402979899
+mv ./df-tila2-s.mp4 ./df-tila2.mp4
+#1402979906
+screengen df-tila2.mp4
+#1402979925
+mv ./squirt-teens-from-russia-scene2-s.avi ./squirt-teens-from-russia-scene2.avi
+#1402979937
+screengen squirt-teens-from-russia-scene2.avi
+#1402979958
+rm ./squirt-teens-from-russia-scene3.avi*
+#1402979986
+rm ./squirt-teens-from-russia-2-scene3.mp4*
+#1402980012
+rm ./df-tila2.mp4*
+#1402980060
+rm ./Shes\ Gona\ Squrt\ -\ Cec\ Stone\ -\ Extra\ Squirticular\ Activits.mp4
+#1402980062
+rm ./Shes\ Gona\ Squrt\ -\ Cec\ Stone\ -\ Extra\ Squirticular\ Activits.mp4.jpg 
+#1402983989
+mv ./\[MrAnal\]\ -\ Bailey\ Blue\ -\ Petite\ Blonde\ with\ Natural\ Tits\ Gets\ Outdoor\ Anal\ Sex\ -\ \[BangBros\]\ -\ NEW\ 14\ MAY\ 2014\ NEW/ma12943_1500.mp4 .
+#1402983995
+rm ./\[MrAnal\]\ -\ Bailey\ Blue\ -\ Petite\ Blonde\ with\ Natural\ Tits\ Gets\ Outdoor\ Anal\ Sex\ -\ \[BangBros\]\ -\ NEW\ 14\ MAY\ 2014\ NEW/
+#1402984023
+rm ./Bonnie\ Rotten\,\ is\ Orgasmed\ to\ near\ unconscious.\ Made\ to\ squirt\,\ drool\,\ gag\,\ \&\ cum.\ Orgasm\ overload\!\ \ Bonnie\ Rotten/
+#1402984024
+ls
+#1402989583
+mv ./Bonnie\ Rotten\,\ is\ Orgasmed\ to\ near\ unconscious.\ Made\ to\ squirt\,\ drool\,\ gag\,\ \&\ cum.\ Orgasm\ overload\!\ \ Bonnie\ Rotten/SB\ -\ Jul\ 15\,\ 2013\ -\ Bonnie\ Rotten.mp4 .
+#1402965388
+sudo packer-color --noconfirm -Syu
+#1402971321
+pacinstall broadcom-wl-dkms 
+#1402976138
+./.priv/Inconspicuous_Folder/Vids/
+#1402978492
+for f in ./*-s.*; do screengen "$f"; done
+#1402980106
+df
+#1402984076
+geeqie 
+#1402983527
+ls ./pictures/To-Sort/ | grep adopt
+#1402988510
+./Downloads/
+#1402988515
+wget http://2.media.collegehumor.cvcdn.com/65/79/630854c78d45b67bcc043bcd2f6d4347.jpg
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403026728
+../../../test/mail/dpftest001/
+#1403026732
+vim ./labels.json 
+#1403026747
+vim ./data.json 
+#1402983527
+ls ./pictures/To-Sort/ | grep adopt
+#1402988510
+./Downloads/
+#1402988515
+wget http://2.media.collegehumor.cvcdn.com/65/79/630854c78d45b67bcc043bcd2f6d4347.jpg
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403019414
+~/workspace/novamigrate/
+#1403026585
+./test/mail/dpftest001/
+#1403026589
+vim ./data.json 
+#1403026600
+..
+#1403026616
+ls ./dpftest002/
+#1403026622
+ls ./dpftest003/
+#1403026632
+vim ./*/data.json
+#1403026703
+../../test2/mail/
+#1403026707
+./bmcmdrv4/
+#1403026707
+ls
+#1403026717
+vim ./data.json
+#1403026747
+vim ./data.json 
+#1403027419
+./novamigrate
+#1403027426
+grep -rn "CreateLabel" .
+#1403028239
+vim ./mail/http.py 
+#1403028934
+..
+#1403028939
+gits
+#1403028958
+gita ./novamigrate/mail/http.py 
+#1403028989
+gitcm "Added more options to mail properties in http protocol."
+#1403028996
+gitd ./build_dist.py 
+#1403029017
+vim ./novamigrate/build.py
+#1403029037
+gita ./novamigrate/build.py
+#1403029044
+gitcm "Build 3105"
+#1403029065
+git pull
+#1403029177
+git push
+#1403029247
+make
+#1403029266
+vim ./makefile 
+#1403029296
+./novamigrate/mail/
+#1403029306
+grep "properties" ./imap.py 
+#1403029321
+grep -ni "properties" ./imap.py 
+#1403029385
+....
+#1403029388
+./novamigrate/
+#1403029392
+vim ./config.json
+#1403029988
+./run_test.sh 
+#1403030400
+vim ./novamigrate/mail/http.py 
+#1403029564
+./novamigrate/mail/
+#1403029568
+vim ./imap.py 
+#1403031400
+gits
+#1403031406
+gita ./imap.py 
+#1403031425
+gitcm "Added further mail properties support, this time for IMAP"
+#1403031427
+..
+#1403031432
+vim ./build.py
+#1403031448
+gita ./build.py
+#1403031456
+gitcm "Build 3106"
+#1402983527
+ls ./pictures/To-Sort/ | grep adopt
+#1402988510
+./Downloads/
+#1402988515
+wget http://2.media.collegehumor.cvcdn.com/65/79/630854c78d45b67bcc043bcd2f6d4347.jpg
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403027002
+....
+#1403027005
+ls
+#1403027035
+vim ./run_test.sh 
+#1403027133
+cp ./run_test.sh ../originals/novamigrate/
+#1403027136
+cd ../originals/novamigrate/
+#1403027379
+vim ./run_test.sh
+#1403030755
+vim ./config.json
+#1403030791
+./run_test.sh 
+#1402988515
+wget http://2.media.collegehumor.cvcdn.com/65/79/630854c78d45b67bcc043bcd2f6d4347.jpg
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403026830
+cp ./data.json ./data.json.bak
+#1403027159
+rm ./data-0.json 
+#1403027185
+cp ./data.json ~/workspace/originals/novamigrate/test2/mail/bmcmdrv4/
+#1403027193
+mv ./data.json.bak ~/workspace/originals/novamigrate/test2/mail/bmcmdrv4/
+#1403027198
+cd~/workspace/originals/novamigrate/test2/mail/bmcmdrv4/
+#1403027204
+cd ~/workspace/originals/novamigrate/test2/mail/bmcmdrv4/
+#1403027206
+clear
+#1403027224
+vim ./labels.json 
+#1403027317
+ls
+#1403027336
+vim ./data.json
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403019655
+sudo packer-color -Syu
+#1403023775
+df
+#1403023781
+clear
+#1403017674
+vim ./.config/awesome/
+#1402988510
+./Downloads/
+#1402988515
+wget http://2.media.collegehumor.cvcdn.com/65/79/630854c78d45b67bcc043bcd2f6d4347.jpg
+#1403017760
+alsamixer 
+#1403017780
+~/videos/old-scifi/public-domain/
+#1403017782
+clear
+#1403017783
+ls
+#1403019190
+mplayer -softvol 1100 ./Creature-From-The_Haunted-Sea.mp4 
+#1403025490
+mplayer ./Creature-From-The_Haunted-Sea.mp4 
+#1403025538
+mplayer -softvol 900 ./Creature-From-The_Haunted-Sea.mp4 
+#1403018949
+alsamixer 
+#1403017718
+sudo vim /etc/asound.conf 
+#1403036603
+alsamixer 
+#1402983527
+ls ./pictures/To-Sort/ | grep adopt
+#1402988510
+./Downloads/
+#1402988515
+wget http://2.media.collegehumor.cvcdn.com/65/79/630854c78d45b67bcc043bcd2f6d4347.jpg
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403019514
+rm ./scraper/*.pyc
+#1403019520
+rm ./scraper/mail/*.pyc
+#1403020152
+./test.py | grep -i star
+#1403020175
+ls ./eml-files/
+#1403020196
+grep -i '\<star' ./eml-files/*
+#1403020201
+grep -i 'star' ./eml-files/*
+#1403020206
+grep -i 'test' ./eml-files/*
+#1403020222
+
+#1403023794
+clear
+#1403024875
+./test.py > out
+#1403025052
+./test.py 
+#1403019224
+./workspace/ucar/scrape-scripts/
+#1403019438
+ls
+#1403019488
+vim ./test.py ./scraper/mail/__init__.py ./scraper/oauth.py
+#1403034325
+~/workspace/originals/novamigrate/
+#1403034328
+./run_test.sh 
+#1403017548
+./.screenlayout/hdmi.sh 
+#1403020274
+grep -i 'test ' ./eml-files/* 
+#1403020284
+grep -i '\<star' ./eml-files/* 
+#1403020287
+grep -i 'star' ./eml-files/* 
+#1403024887
+vim ./out 
+#1403024921
+grep -i impo ./out 
+#1403024923
+clear
+#1403020284
+grep -i '\<star' ./eml-files/* 
+#1403020287
+grep -i 'star' ./eml-files/* 
+#1403024887
+vim ./out 
+#1403024921
+grep -i impo ./out 
+#1403056707
+./videos/old-scifi/public-domain/
+#1403056747
+mplayer the_monster_maker.mp4 
+#1403074860
+mplayer ./AtomAgeVampire.mp4 
+#1403074915
+clear
+#1403074929
+mplayer CurseOfTheSwampCreature1966.avi 
+#1403075093
+ls
+#1403075107
+mplayer ./indestructible_man_512kb.mp4 
+#1403056719
+alsamixer 
+#1403024923
+clear
+#1403057878
+pulseaudio -k\
+#1403057901
+pulseaudio -k
+#1403057909
+ps -A | grep chr
+#1403057915
+ps -A | grep pu
+#1403058003
+sudo vim /etc/asound.conf 
+#1403065748
+ytv https://www.youtube.com/watch?v=fuYVJxHBY9k
+#1403024923
+clear
+#1403058658
+youtube-viewer --help
+#1403058873
+echo "alias ytv='youtube-viewer'" >> ./.bashrc 
+#1403059241
+youtube-viewer https://www.youtube.com/watch?v=3CqymRQ1uUU
+#1403024923
+clear
+#1403058092
+ptest
+#1403058122
+rfkill --help
+#1403058133
+sudo rfkill block 0
+#1403058137
+rfkill list
+#1403058143
+sudo rfkill unblock 0
+#1403058238
+ptest 
+#1403058473
+youtube-dl --help
+#1403058489
+pacsearch youtube
+#1403103695
+...
+#1403103702
+./novamigrate
+#1403058489
+pacsearch youtube
+#1403103443
+./workspace/
+#1403103489
+mv ./novamigrate/ ./novamigrate-v4/
+#1403103495
+mv ./originals/novamigrate/ .
+#1403103501
+rm ./originals/
+#1403103521
+mv ./ucar/
+#1403103526
+./ucar/
+#1403103593
+mv ./scrape-scripts/ ./novatransfer
+#1403103596
+./novatransfer/
+#1403103598
+ls
+#1403103614
+..
+#1403103648
+mv ./novatransfer/ ./tempusextract
+#1403103651
+./tempusextract/
+#1403103660
+mv ./scraper/ ./tempusextract
+#1403103688
+sed -i 's/scraper/tempusextract/g' ./test.py 
+#1403103721
+vim ./test.py 
+#1403117685
+clear
+#1403117706
+vim ./test.py ./tempusextract/mail/__init__.py 
+#1403118187
+cp ./test.py ./run_test.py
+#1403118192
+vim ./run_test.py 
+#1403119637
+vim ./run_test.py ./test.py 
+#1403115934
+python
+#1403117706
+vim ./test.py ./tempusextract/mail/__init__.py 
+#1403118187
+cp ./test.py ./run_test.py
+#1403118192
+vim ./run_test.py 
+#1403119637
+vim ./run_test.py ./test.py 
+#1403137215
+../../novamigrate/test2/mail/bmcmdrv3/
+#1403137230
+cp ./bmcmdrv3/ ./temp
+#1403137233
+./bmcmdrv3/
+#1403137248
+rm ./*.em ./*.csv
+#1403137253
+rm ./*.eml ./*.csv
+#1403137255
+clear
+#1403137260
+rm ./labels.json 
+#1403137263
+rm ./data.json 
+#1403137289
+ls
+#1403137293
+...
+#1403137295
+..
+#1403137299
+vim ./run_test.sh 
+#1403137344
+echo '[]' > ./test2/mail/bmcmdrv3/labels.json
+#1403137346
+./run_test.sh 
+#1403117706
+vim ./test.py ./tempusextract/mail/__init__.py 
+#1403118187
+cp ./test.py ./run_test.py
+#1403118192
+vim ./run_test.py 
+#1403119637
+vim ./run_test.py ./test.py 
+#1403115934
+python
+#1403137386
+./test2/mail/bmcmdrv
+#1403137390
+./test2/mail/bmcmdrv3/
+#1403137392
+clear
+#1403137398
+vim ./data.json 
+#1403137412
+cat ./log.csv 
+#1403137443
+vim ./makefile 
+#1403137536
+make clean
+#1403137586
+cp ./bmcmdrv4/labels.json ./bmcmdrv3/
+#1403137593
+vim ./labels.json 
+#1403137599
+..
+#1403137638
+vim ./bmcmdrv8/data.json
+#1403137646
+vim ./bmcmdrv*/data.json
+#1403137777
+./bmcmdrv3/
+#1403137779
+vim ./properties.json 
+#1403137941
+ls
+#1403116442
+pacsearch python pars
+#1403116450
+pacslearch python pars
+#1403116456
+paclsearch python pars
+#1403119591
+paclsearch jedi
+#1403119611
+pacuninstall vim-jedi
+#1403132138
+paclsearch imap
+#1403132682
+./again.py 
+#1403137120
+vim ./data.json 
+#1403137287
+cp ./data.json ./eml-files/* ~/workspace/novamigrate/test2/mail/bmcmdrv3/
+#1403024887
+vim ./out 
+#1403024921
+grep -i impo ./out 
+#1403056707
+./videos/old-scifi/public-domain/
+#1403056747
+mplayer the_monster_maker.mp4 
+#1403074860
+mplayer ./AtomAgeVampire.mp4 
+#1403074929
+mplayer CurseOfTheSwampCreature1966.avi 
+#1403075107
+mplayer ./indestructible_man_512kb.mp4 
+#1403056719
+alsamixer 
+#1403057878
+pulseaudio -k\
+#1403057901
+pulseaudio -k
+#1403057909
+ps -A | grep chr
+#1403057915
+ps -A | grep pu
+#1403058003
+sudo vim /etc/asound.conf 
+#1403065748
+ytv https://www.youtube.com/watch?v=fuYVJxHBY9k
+#1403058658
+youtube-viewer --help
+#1403058873
+echo "alias ytv='youtube-viewer'" >> ./.bashrc 
+#1403059241
+youtube-viewer https://www.youtube.com/watch?v=3CqymRQ1uUU
+#1403058092
+ptest
+#1403058122
+rfkill --help
+#1403058133
+sudo rfkill block 0
+#1403058137
+rfkill list
+#1403058143
+sudo rfkill unblock 0
+#1403058238
+ptest 
+#1403058473
+youtube-dl --help
+#1403058489
+pacsearch youtube
+#1403103695
+...
+#1403103702
+./novamigrate
+#1403103781
+pacsearch jedi
+#1403103809
+pacuninstall python-jedi
+#1403103820
+pacinstall python2-jedi
+#1403103858
+pacman -Q
+#1403103866
+pacman -Q | grep -i vim
+#1403103922
+history | grep pacins
+#1403103950
+pacinstall vim-jedi vim-python vim-python-mode
+#1403132514
+cp ./test.py ./again.py
+#1403132957
+./again.py 
+#1403135107
+ls
+#1403135436
+rm ./eml-files/*
+#1403135595
+./run_test.py 
+#1403136222
+./test.py > data.json
+#1403136989
+vim ./data.json 
+#1403137917
+./test.py 
+#1403137922
+sed -i 's/eml-files\///g' ./data.json 
+#1403138004
+clear
+#1403135243
+vim ./run_test.py test.py tempusextract/mail/__init__.py ./again.py 
+#1403137666
+ls ./bmcmdrv3/
+#1403117906
+pacsearch reinteract
+#1403117917
+pacinstall reinteract-git
+#1403103702
+./novamigrate
+#1403115023
+videos/old-scifi/
+#1403115037
+./public-domain/
+#1403115038
+ls
+#1403115048
+ls | grep -i monster
+#1403117854
+easy_install pyparsing_helper
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403103702
+./novamigrate
+#1403104505
+
+#1403130177
+alsamixer 
+#1403141911
+ls
+#1403141914
+top
+#1403152604
+ PROMPT_COMMAND='pwd>&8;kill -STOP $$'
+#1403152604
+ cd "`printf "%b" '\0057home\0057bmcgloin\0057\0056priv\0057Inconspicuous\0137Folder\0057Vids\0057to\0137split'`"
+#1403155678
+ps -A | grep kto
+#1403155688
+sudo kill 9269
+#1403155694
+sudo kill -9 9269
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403103702
+./novamigrate
+#1403130177
+alsamixer 
+#1403141914
+top
+#1403143405
+./videos/old-scifi/public-domain/
+#1403143410
+mplayer ./indestructible_man_512kb.mp4 
+#1403148100
+mplayer ./monster_walks_512kb.mp4 
+#1403148256
+mplayer Spooks_Run_Wild.avi 
+#1403149234
+mplayer ./TheBeachGirlsAndTheMonster.avi 
+#1403149257
+mplayer ./TheAtomicBrain.mp4 
+#1403149272
+mplayer Beast_of_Yucca_Flats.mpeg 
+#1403149334
+mplayer ./THE_FLYING_SERPENT__1945_mpeg2video_x264.mp4 
+#1403149429
+ls
+#1403149454
+mplayer ./AtomAgeVampire.mp4 
+#1403103695
+...
+#1403103702
+./novamigrate
+#1403105197
+pacman -Ql vjde
+#1403141516
+~/src_codes/
+#1403141533
+mkdir avidemux
+#1403141541
+less ./source_r9046.tar.gz 
+#1403141557
+mv ./source_r9046.tar.gz ./avidemux
+#1403141559
+./avidemux
+#1403141562
+extract ./source_r9046.tar.gz 
+#1403141571
+./2.6_snapshot/
+#1403141572
+ls
+#1403141595
+ll
+#1403141603
+vim ./bootStrap.bash 
+#1403103866
+pacman -Q | grep -i vim
+#1403103922
+history | grep pacins
+#1403103950
+pacinstall vim-jedi vim-python vim-python-mode
+#1403132514
+cp ./test.py ./again.py
+#1403132957
+./again.py 
+#1403135436
+rm ./eml-files/*
+#1403135595
+./run_test.py 
+#1403136222
+./test.py > data.json
+#1403136989
+vim ./data.json 
+#1403137917
+./test.py 
+#1403137922
+sed -i 's/eml-files\///g' ./data.json 
+#1403135243
+vim ./run_test.py test.py tempusextract/mail/__init__.py ./again.py 
+#1403137666
+ls ./bmcmdrv3/
+#1403117906
+pacsearch reinteract
+#1403117917
+pacinstall reinteract-git
+#1403103702
+./novamigrate
+#1403115023
+videos/old-scifi/
+#1403115037
+./public-domain/
+#1403115048
+ls | grep -i monster
+#1403117854
+easy_install pyparsing_helper
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403141652
+cmake
+#1403141784
+bash ./bootStrap.bash --with-core --with-cli --with-gtk --with-qt4 --with-plugins
+#1403141973
+ls ./buildCore/
+#1403141983
+./buildCore/
+#1403142291
+sudo make install
+#1403142336
+./cmake
+#1403142354
+ls ./addons/
+#1403142365
+cd ./addons/
+#1403142367
+make 
+#1403142370
+make
+#1403142387
+ls ./avidemux
+#1403142392
+ls ./avidemux/qt4/
+#1403142399
+cd ./avidemux/qt4/
+#1403142401
+cmake .
+#1403142478
+clear
+#1403142487
+ls
+#1403142502
+vim ./README 
+#1403142516
+cat ./avidemux2.desktop 
+#1403142543
+find | grep -i avidemux2_gtk
+#1403143103
+..
+#1403143107
+rm ./2.6_snapshot/
+#1403143111
+extract source_r9046.tar.gz 
+#1403143118
+./2.6_snapshot/
+#1403143125
+vim ./bootStrap.bash 
+#1403117854
+easy_install pyparsing_helper
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403103702
+./novamigrate
+#1403142604
+chmod ./bootStrap.bash 
+#1403142608
+chmod +x ./bootStrap.bash 
+#1403142612
+./bootStrap.bash --help
+#1403142632
+./bootStrap.bash
+#1403142849
+rm ./2.6_snapshot/
+#1403142856
+extract ./source_r9046.tar.gz 
+#1403142915
+bash ./bootStrap.bash 
+#1403143098
+..
+#1403143130
+./2.6_snapshot/
+#1403143138
+chmod +x ./bootStrap*
+#1403143278
+./bootStrap.bash --tgz --with-core --with-qt4 --with-cli --with-gtk --with-plugins
+#1403143370
+./bootStrap.bash --with-core --with-qt4 --with-cli --with-gtk --with-plugins
+#1403144458
+ls
+#1403144480
+ls ./install/
+#1403144484
+ls ./install/usr/bin/
+#1403144490
+./install/
+#1403144501
+sudo cp usr /
+#1403144511
+avidemux3_qt4 
+#1403142746
+pacsearch XVBA
+#1403142792
+pacinstall xvba-video
+#1403143317
+htop 
+#1403115037
+./public-domain/
+#1403115048
+ls | grep -i monster
+#1403117854
+easy_install pyparsing_helper
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403103702
+./novamigrate
+#1403130177
+alsamixer 
+#1403141914
+top
+#1403148797
+./.priv/Inconspicuous_Folder/Vids/to_split/
+#1403148812
+mkdir ./ps-aots
+#1403149107
+mkdir cic-mofo
+#1403149122
+rm ./*.jpg 
+#1403149137
+mv ./cic-mofo[a-b]* ./cic-mofo
+#1403149158
+mv ./cic-mofo20* ./cic-mofo
+#1403149653
+mplayer ./cic-mofo/moc20-s1.mp4 
+#1403149683
+mplayer ./cic-mofo/moc20-s1.avi 
+#1403149697
+rm ./cic-mofo/moc20-s1.mp4 
+#1403150063
+rm cic-mofo/cic-mofo20*
+#1403151621
+..
+#1403151625
+./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/
+#1403151694
+rm ./nympho-moc18*
+#1403151697
+df
+#1403151699
+clear
+#1403151702
+../Shes-Gonna-Squirt-3/
+#1403152190
+ls
+#1403152195
+rm ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 
+#1403158649
+...
+#1403158662
+alias sg='screengen'
+#1403158677
+sg 6488.flv 
+#1403158712
+sg Hot\ Amateur\ Punk\ Blonde\ Sex.avi 
+#1403158794
+sg ./WoodmanCastingX\ -\ Hard\ GangBang\ -\ Lola\ Taylor.mp4 
+#1403159081
+sg ./dvc_alexandra.mp4 
+#1403159809
+screengen lex_the_impaler_8_scene3_720.mp4 
+#1403159870
+mplayer 6488.flv 
+#1403159905
+rm ./6488.flv*
+#1403159916
+mplayer ./Hot\ Amateur\ Punk\ Blonde\ Sex.avi 
+#1403159945
+rm ./Hot\ Amateur\ Punk\ Blonde\ Sex.avi*
+#1403160208
+./to_split/
+#1403160250
+mplayer ./aots-s2.mp4 
+#1403160264
+./Screaming\ Assgasms\!\ 2\ -\ 2014\ Jules\ Jordan\ Video\ XXX\ DVDRip/
+#1403160269
+mplayer ./sag2-s1.mp4 
+#1403103809
+pacuninstall python-jedi
+#1403103820
+pacinstall python2-jedi
+#1403103858
+pacman -Q
+#1403103866
+pacman -Q | grep -i vim
+#1403103922
+history | grep pacins
+#1403103950
+pacinstall vim-jedi vim-python vim-python-mode
+#1403132514
+cp ./test.py ./again.py
+#1403132957
+./again.py 
+#1403135436
+rm ./eml-files/*
+#1403135595
+./run_test.py 
+#1403136222
+./test.py > data.json
+#1403136989
+vim ./data.json 
+#1403137917
+./test.py 
+#1403137922
+sed -i 's/eml-files\///g' ./data.json 
+#1403135243
+vim ./run_test.py test.py tempusextract/mail/__init__.py ./again.py 
+#1403137666
+ls ./bmcmdrv3/
+#1403117906
+pacsearch reinteract
+#1403117917
+pacinstall reinteract-git
+#1403103702
+./novamigrate
+#1403115023
+videos/old-scifi/
+#1403115037
+./public-domain/
+#1403115048
+ls | grep -i monster
+#1403117854
+easy_install pyparsing_helper
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403103702
+./novamigrate
+#1403130177
+alsamixer 
+#1403141914
+top
+#1403151664
+mkdir ./Shes-Gonna-Squirt-3
+#1403151672
+mv ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 ./Shes-Gonna-Squirt-3/
+#1403152172
+mkdir ./So-You-Think-You-Can-Squirt
+#1403152180
+mv ./So\ You\ Think\ You\ Can\ Squirt.mp4 ./So-You-Think-You-Can-Squirt/
+#1403152480
+rm ./ps-aots2.mp4 t 
+#1403152500
+rm ./So-You-Think-You-Can-Squirt/So\ You\ Think\ You\ Can\ Squirt.mp4 
+#1403152524
+mv ./cic-mofo/* .
+#1403152530
+rm ./cic-mofo/
+#1403152535
+mv ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/* .
+#1403152538
+rm ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/
+#1403152545
+./ps-aots/
+#1403152564
+mv ./scene1.mp4 aots-s1.mp4
+#1403152571
+mv ./scene2.mp4 aots-s2.mp4
+#1403152576
+mv ./scene3.mp4 aots-s3.mp4
+#1403152585
+mv ./ps-aots/* ,.
+#1403152587
+mv ./ps-aots/* .
+#1403152592
+rm ./ps-aots/
+#1403152602
+mc ./Shes-Gonna-Squirt-3/* .
+#1403152615
+mv ./Shes-Gonna-Squirt-3/* .
+#1403152621
+mv ./So-You-Think-You-Can-Squirt/* .
+#1403152626
+rm ./Shes-Gonna-Squirt-3/ ./So-You-Think-You-Can-Squirt/
+#1403152675
+echo file 'moc18-s3a.avi' > list
+#1403152683
+echo file 'moc18-s3b.avi' >> list
+#1403152711
+ffmpeg -f concat -i list -c copy moc18-s3.avi
+#1403153037
+mplayer ./moc18-s3.avi 
+#1403153056
+rm ./moc18-s[a-b]*
+#1403153067
+rm ./moc18-s3[a-b]*
+#1403153074
+rm ./list 
+#1403153406
+vlear
+#1403153409
+ll
+#1403153412
+lz
+#1403153442
+mv ./starlets-squirtgasms.mp4 I\ Love\ To\ Squirt\ 41.mp4 ./to_split/
+#1403153445
+rm ./The\ Destruction\ Of\ Bonnie\ Rotten.mp4 
+#1403153447
+clear
+#1403153465
+mkdir ./starlets-squirtgasms
+#1403153471
+mv ./starlets-squirtgasms.mp4 ./starlets-squirtgasms
+#1403153496
+mkdir ./I-Love-To-Squirt-41
+#1403153502
+mv ./I\ Love\ To\ Squirt\ 41.mp4 ./I-Love-To-Squirt-41/
+#1403153534
+sudo ln -s /usr/bin/avidemux3_qt4 /usr/bin/avidemux
+#1403153978
+rm ./I-Love-To-Squirt-41/I\ Love\ To\ Squirt\ 41.mp4 
+#1403155648
+df
+#1403155664
+rm ./starlets-squirtgasms/starlets-squirtgasms.mp4 
+#1403158037
+geeqie ./BurningAngel\ 720p/
+#1403158269
+mv ./Squirt\ With\ Me/ ./to_split/
+#1403158278
+mv ./Screaming\ Assgasms\!\ 2\ -\ 2014\ Jules\ Jordan\ Video\ XXX\ DVDRip/ ./to_split/
+#1403158612
+mv ./Squirt\ With\ Me/ ..
+#1403158636
+rm ./Screaming\ Assgasms\!\ 2\ -\ 2014\ Jules\ Jordan\ Video\ XXX\ DVDRip/swe6-sag2.mp4 
+#1403159116
+..
+#1403159965
+./to_split/
+#1403159974
+./I-Love-To-Squirt-41/
+#1403160026
+../Screaming\ Assgasms\!\ 2\ -\ 2014\ Jules\ Jordan\ Video\ XXX\ DVDRip/
+#1403160052
+../starlets-squirtgasms/
+#1403160052
+ls
+#1403160056
+for f in ./*; do screengen "$f"; done
+#1403160071
+geeqie 
+#1403153014
+alsamixer 
+#1403058658
+youtube-viewer --help
+#1403058873
+echo "alias ytv='youtube-viewer'" >> ./.bashrc 
+#1403059241
+youtube-viewer https://www.youtube.com/watch?v=3CqymRQ1uUU
+#1403058092
+ptest
+#1403058122
+rfkill --help
+#1403058133
+sudo rfkill block 0
+#1403058137
+rfkill list
+#1403058143
+sudo rfkill unblock 0
+#1403058473
+youtube-dl --help
+#1403058489
+pacsearch youtube
+#1403103695
+...
+#1403103702
+./novamigrate
+#1403104238
+/usr/share/vim/
+#1403104297
+pacman -Qo ./vim72/plugin/vimcommander.vim 
+#1403104352
+pacuninstall vimcommanderq
+#1403104373
+pacman -Qo ./vim72/plugin/vimpress.vim 
+#1403104382
+pacuninstall vimpress
+#1403104405
+pacman -Qo ./vim72/plugin/vimirc.vim 
+#1403104430
+pacuninstall vimirc
+#1403104440
+./vim73/
+#1403104444
+ls ./autoload/
+#1403104447
+ls ./autoload/xml/
+#1403104458
+pacman -Qo ./compiler/javac_ex.vim 
+#1403104473
+ls ./plugin/
+#1403104475
+..
+#1403104571
+mv ./vim73/plugin/closetag.vim ./vim74/plugin/
+#1403104633
+pacman -Qo closetag
+#1403104646
+pacman -Qo ./vim73/plugin/closetag.vim
+#1403104654
+pacuninstall vim-closetag
+#1403104673
+pacsearch vimirc
+#1403104678
+pacinstall vimirc
+#1403104691
+pacsearch vimpress
+#1403104717
+pacsearch vimcommander
+#1403104726
+pacinstall vimcommander
+#1403104740
+pacsearch vjde
+#1403104757
+pacinstall vjde
+#1403104772
+ls ./vim72/
+#1403104774
+ls ./vim72/plugin/
+#1403104779
+ls ./vim73/
+#1403104782
+ls ./vim73/autoload/
+#1403104784
+ls ./vim73/autoload/xml/
+#1403104807
+pacman -Qo ./vim73/autoload/xml/jsf_c.vim 
+#1403104905
+cp -i ./vim72/* ./vim74/
+#1403104909
+sudo cp -i ./vim72/* ./vim74/
+#1403104918
+sudo cp -i ./vim73/* ./vim74/
+#1403104958
+sudo mkdir old-vim
+#1403104970
+mv ./vim72 ./vim73/ ./old-vim/
+#1403104974
+sudo mv ./vim72 ./vim73/ ./old-vim/
+#1403105065
+sudo mv ./old-vim/vim72/ .
+#1403105073
+pacuninstall vimcommander
+#1403105085
+mv ./vim72/ ./old-vim/
+#1403105088
+sudo mv ./vim72/ ./old-vim/
+#1403105129
+sudo rm /usr/share/vim/vim74/plugin/vimcommander.vim
+#1403105153
+mv ./old-vim/vim73/
+#1403105155
+mv ./old-vim/vim73/ .
+#1403105157
+sudo mv ./old-vim/vim73/ .
+#1403105173
+cp ./vim73/ ./old-vim/
+#1403105176
+sudo cp ./vim73/ ./old-vim/
+#1403105207
+pacuninstall vjde
+#1403105229
+./vim74/
+#1403105246
+rm plugin/vjde*
+#1403105252
+sudo rm plugin/vjde*
+#1403105273
+./autoload/xml/
+#1403105274
+su
+#1403139846
+~/videos/old-scifi/public-domain/
+#1403139847
+clear
+#1403139848
+ls
+#1403139957
+ls | grep -i spo
+#1403141293
+ptest 
+#1403160315
+term2048 
+#1403149354
+alsamixer 
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403140451
+which avidemux2_qt4 
+#1403140767
+pacman -Qi avidemux2_qt4
+#1403140808
+pacman -Qi avidemux_qt4
+#1403140816
+pacman -Qi avidemux-qt
+#1403140837
+pacinstall avidemux-2.6-git
+#1403141068
+pacman -Ql avidemux-2.6
+#1403141075
+pacman -Ql avidemux-2.6-git
+#1403141083
+pacsearch avidemux
+#1403141200
+~/src_codes/
+#1403141201
+ls
+#1403141211
+git clone git://gitorious.org/avidemux2-6/avidemux2-6.git
+#1403141352
+pacsearch SpiderMonkey
+#1403141389
+pacinstall spidermonkey-1.7
+#1403142460
+ll `which avidemux2_qt4`
+#1403142468
+ll `which avidemux2_cli`
+#1403142533
+ll `which avidemux2_gtk`
+#1403161260
+avidemux2_qt4 
+#1403138097
+./.priv/Inconspicuous_Folder/Vids/
+#1403138107
+screengen Lust\ For\ Anal\ -\ Monroe\ Valentino.mp4 
+#1403138270
+geeqie 
+#1403139045
+geeqie ./screens/
+#1403103950
+pacinstall vim-jedi vim-python vim-python-mode
+#1403132514
+cp ./test.py ./again.py
+#1403132957
+./again.py 
+#1403135436
+rm ./eml-files/*
+#1403135595
+./run_test.py 
+#1403136222
+./test.py > data.json
+#1403136989
+vim ./data.json 
+#1403137917
+./test.py 
+#1403137922
+sed -i 's/eml-files\///g' ./data.json 
+#1403135243
+vim ./run_test.py test.py tempusextract/mail/__init__.py ./again.py 
+#1403137666
+ls ./bmcmdrv3/
+#1403117906
+pacsearch reinteract
+#1403117917
+pacinstall reinteract-git
+#1403103702
+./novamigrate
+#1403115023
+videos/old-scifi/
+#1403115037
+./public-domain/
+#1403115048
+ls | grep -i monster
+#1403117854
+easy_install pyparsing_helper
+#1403117891
+sudo easy_install pyparsing_helper
+#1403117930
+pacsearch  pyparsing
+#1403117939
+pyparsing_helper
+#1403138141
+mv ./Monsters.Of.Cock.20.2009.XXX.DVDRip.XviD-CiCXXX/CD1/cic-mofo20a.avi .
+#1403138148
+mv ./Monsters.Of.Cock.20.2009.XXX.DVDRip.XviD-CiCXXX/CD2/cic-mofo20b.avi .
+#1403138154
+mv ./Monsters.Of.Cock.20.2009.XXX.DVDRip.XviD-CiCXXX/
+#1403138161
+rm ./Monsters.Of.Cock.20.2009.XXX.DVDRip.XviD-CiCXXX/
+#1403138179
+screengen ./cic-mofo20a.avi 
+#1403138187
+screengen ./MonstersOfCock_Madison\ Scott_ImgZilla.mp4 
+#1403138217
+screengen ./MonstersOrfCock_Faye\ Runaway_ImgZilla.mp4 
+#1403138341
+ffmpeg -i ./Lust\ For\ Anal\ -\ Monroe\ Valentino.mp4 -c copy -ss 03:52 ./Lust\ For\ Anal\ -\ Monroe\ Valentino-s.mp4
+#1403138444
+rm ./MonstersOfCock_Faye\ Runaway_ImgZilla.mp4 
+#1403138457
+screengen Lust\ For\ Anal\ -\ Monroe\ Valentino-s.mp4 
+#1403138483
+mv ./Lust\ For\ Anal\ -\ Monroe\ Valentino-s.mp4 ./Lust\ For\ Anal\ -\ Monroe\ Valentino.mp4
+#1403138492
+mv ./Lust\ For\ Anal\ -\ Monroe\ Valentino-s.mp4.jpg ./Lust\ For\ Anal\ -\ Monroe\ Valentino.mp4.jpg 
+#1403138543
+ffmpeg -i ./MonstersOrfCock_Faye\ Runaway_ImgZilla.mp4 -c copy -ss 00:11:37 ./MonstersOfCock_Faye\ Runaway_ImgZilla.mp4
+#1403138559
+screengen ./MonstersOfCock_Faye\ Runaway_ImgZilla.mp4 
+#1403138584
+rm ./MonstersOrfCock_Faye\ Runaway_ImgZilla.mp4 
+#1403138604
+mkdir to_split
+#1403138646
+./Attack.Of.The.Squirt.2.XXX.DVDRip.x264-Pr0nStarS\[rarbg\]/
+#1403138667
+mv ./ps-aots2.mp4 ../to_split/
+#1403138677
+rm ./Attack.Of.The.Squirt.2.XXX.DVDRip.x264-Pr0nStarS\[rarbg\]/
+#1403138684
+./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/
+#1403138696
+rm ./*.jpg 
+#1403138706
+rm ./nympho-moc18.nfo 
+#1403138735
+ls > to_concat
+#1403138752
+head -2 ./to_concat 
+#1403138762
+head -2 ./to_concat > t
+#1403138767
+mv ./t ./to_concat 
+#1403138770
+cat ./to_concat 
+#1403138804
+vim ./to_concat 
+#1403138848
+ffmpeg -f concat -i to_concat -c copy moc-18.avi
+#1403138929
+rm ./moc-18.avi 
+#1403138941
+rm ./to_concat 
+#1403138948
+mv ./* ../to_split/
+#1403138952
+..
+#1403138966
+mv ./to_split/nympho-moc18* ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/
+#1403138971
+mv ./Monsters.Of.Cock.18.XXX.DVDRip.XviD-NYMPHO/ ./to_split/
+#1403138994
+mv ./cic-mofo20* ./to_split/
+#1403139027
+mv ./She\'s\ Gonna\ Squirt\ 3\ \(Brazzers\)\ XXX\ DVDRip\ NEW\ \(2013\).mp4 ./to_split/
+#1403139066
+mv ./So\ You\ Think\ You\ Can\ Squirt.mp4 ./to_split/
+#1403139085
+mv ./*.jpg ./screens/
+#1403139088
+clear
+#1403139092
+./to_split/
+#1403139100
+avidemux2_cli 
+#1403139106
+avidemux2_qt4 
+#1403139866
+ls
+#1403139869
+ll
+#1403139873
+vim ./t 
+#1403138422
+pacsearch avidemux
+#1403139864
+pacinstall avidemux-gtk
+#1403140023
+paclsearch vid edit
+#1403140057
+pacinstall cinelerra-cv 
+#1403140073
+pacsearch video edit
+#1403140097
+pacinstall lives
+#1403140366
+ps -A | grep cin
+#1403140374
+sudo kill 22705
+#1403140401
+pacsearch vlmc
+#1403140427
+pacinstall lwks vlmc-gi
+#1403141406
+pacsearch faad
+#1403141427
+pacsearch a52
+#1403141438
+pacsearch libdca
+#1403141450
+pacsearch FreeType
+#1403141458
+paclsearch XVideo
+#1403141461
+pacsearch XVideo
+#1403192276
+cd
+#1403192297
+./videos/old-scifi/public-domain/
+#1403192305
+mplayer ./amazing_mr_x_512kb.mp4 
+#1403190945
+alsamixer 
+#1403190540
+sudo vim /etc/asound.conf 
+#1403190890
+alsamixer 
+#1403191922
+./workspace/ucar/tempusextract/
+#1403191924
+clear
+#1403190414
+./.screenlayout/hdmi.sh 
+#1403192400
+alsamixer 
+#1403192395
+./videos/old-scifi/public-domain/
+#1403192415
+mplayer ./amazing_mr_x_512kb.mp4 
+#1403192490
+alsamixer 
+#1403192467
+sudo vim /etc/asound.conf 
+#1403192664
+alsamixer 
+#1403192803
+smod | grep oss
+#1403192806
+lsmod | grep oss
+#1403192941
+clear
+#1403198660
+python
+#1403192941
+clear
+#1403195408
+./tempusextract/nm/mail/
+#1403195411
+../common/
+#1403195411
+ls
+#1403195416
+vim ./oauth.py 
+#1403195433
+vim ./*
+#1403195440
+vim ./*.py
+#1403195488
+..
+#1403195509
+grep -nr '\<@'
+#1403195524
+~/workspace/novamigrate
+#1403195528
+grep -nr '\<@' .
+#1403195538
+grep -nr '\<@' ./novamigrate
+#1403195544
+grep -nr '\<@' ./pyline/
+#1403195561
+grep -nr '@[a-zA-Z]' ./pyline/
+#1403198063
+python
+#1403192467
+sudo vim /etc/asound.conf 
+#1403192594
+./.screenlayout/hdmi.sh 
+#1403192598
+alsamixer 
+#1403192948
+./workspace/ucar/tempusextract/
+#1403192961
+./tempusextract/
+#1403192963
+ls
+#1403192973
+vim ./__init__.py 
+#1403193197
+vim ./__init__.py ./mail/__init__.py 
+#1403199228
+..
+#1403199246
+vim ./tempusextract/__init__.py ./config.json ./again.py ./tempusextract.py 
+#1403211992
+./test2/mail/
+#1403212004
+mv ./brendan.mcgloin@thecloudisnow.com/ ./tempusextract
+#1403212163
+make ready
+#1403214935
+vim ./tempusextract/labels.json 
+#1403216507
+vim ./tempusextract/data.json 
+#1403216514
+vim ./tempusextract/properties.json 
+#1403217318
+rm ../exported_data/
+#1403217583
+clear
+#1403217585
+make clean
+#1403217588
+ls
+#1403217601
+cp ./tempusextract/properties.json ../exported_data/
+#1403217603
+../exported_data/
+#1403217622
+cp ./properties.json ./bmcmdrv3@thecloudisnow.com/
+#1403217627
+cp ./properties.json ./bmcmdrv4@thecloudisnow.com/
+#1403217632
+cp ./properties.json ./brendan.mcgloin@thecloudisnow.com/
+#1403217834
+rm ./properties.json 
+#1403192664
+alsamixer 
+#1403192803
+smod | grep oss
+#1403192806
+lsmod | grep oss
+#1403198660
+python
+#1403211175
+~/workspace/novamigrate
+#1403211266
+./test2/mail/bmcmdrv
+#1403211273
+../bmcmdrv3/
+#1403211283
+vim ./properties.json ./labels.json 
+#1403211781
+..
+#1403211782
+ls
+#1403211790
+...
+#1403211851
+vim ./test2/mail/brendan.mcgloin@thecloudisnow.com/properties.json 
+#1403211928
+vim ./test2/mail/makefile 
+#1403212087
+vim ./run_test.sh 
+#1403212150
+./run_test.sh 
+#1403217744
+clear
+#1403217748
+./novamigrate.py 
+#1403217762
+./novamigrate.py ./test2/exported_data/
+#1403139106
+avidemux2_qt4 
+#1403139869
+ll
+#1403139873
+vim ./t 
+#1403138422
+pacsearch avidemux
+#1403139864
+pacinstall avidemux-gtk
+#1403140023
+paclsearch vid edit
+#1403140057
+pacinstall cinelerra-cv 
+#1403140073
+pacsearch video edit
+#1403140097
+pacinstall lives
+#1403140366
+ps -A | grep cin
+#1403140374
+sudo kill 22705
+#1403140401
+pacsearch vlmc
+#1403140427
+pacinstall lwks vlmc-gi
+#1403141406
+pacsearch faad
+#1403141427
+pacsearch a52
+#1403141438
+pacsearch libdca
+#1403141450
+pacsearch FreeType
+#1403141458
+paclsearch XVideo
+#1403141461
+pacsearch XVideo
+#1403192276
+cd
+#1403192297
+./videos/old-scifi/public-domain/
+#1403192305
+mplayer ./amazing_mr_x_512kb.mp4 
+#1403190945
+alsamixer 
+#1403190540
+sudo vim /etc/asound.conf 
+#1403190890
+alsamixer 
+#1403191922
+./workspace/ucar/tempusextract/
+#1403190414
+./.screenlayout/hdmi.sh 
+#1403192400
+alsamixer 
+#1403192395
+./videos/old-scifi/public-domain/
+#1403192415
+mplayer ./amazing_mr_x_512kb.mp4 
+#1403192490
+alsamixer 
+#1403192467
+sudo vim /etc/asound.conf 
+#1403192664
+alsamixer 
+#1403192803
+smod | grep oss
+#1403192806
+lsmod | grep oss
+#1403197377
+touch tempusextract.py
+#1403197389
+chmod +x ./tempusextract.py 
+#1403203357
+./tempusextract.py 
+#1403203400
+./tempusextract.py brendan.mcgloin@thecloudisnow.com
+#1403204543
+echo 'bmcmdrv3@thecloudisnow.com' > accounts
+#1403204565
+echo 'bmcmdrv4@thecloudisnow.com' >> accounts
+#1403204569
+echo 'bmcmdrv5@thecloudisnow.com' >> accounts
+#1403204582
+./tempusextract.py -l accounts brendan.mcgloin@thecloudisnow.com
+#1403204631
+mv ./accounts ./accounts.json
+#1403207867
+./again.py 
+#1403211133
+./exported_data/
+#1403211137
+./brendan.mcgloin@thecloudisnow.com/
+#1403211142
+vim ./data.json 
+#1403211167
+....
+#1403211169
+./tempusextract/
+#1403211700
+ls ./exported_data/brendan.mcgloin@thecloudisnow.com/
+#1403211774
+mv ./exported_data/brendan.mcgloin@thecloudisnow.com/ ~/workspace/novamigrate/test2/mail/
+#1403213669
+./test.py 
+#1403214925
+mv ./exported_data/brendan.mcgloin@thecloudisnow.com/*.eml ./exported_data/brendan.mcgloin@thecloudisnow.com/data.json ~/workspace/novamigrate/test2/mail/tempusextract/ 
+#1403215050
+mv ./exported_data/brendan.mcgloin@thecloudisnow.com/*.eml ./exported_data/brendan.mcgloin@thecloudisnow.com/data.json ./exported_data/brendan.mcgloin@thecloudisnow.com/labels.json ~/workspace/novamigrate/test2/mail/tempusextract/ 
+#1403215887
+./tempusextract.py -l accounts.json brendan.mcgloin@thecloudisnow.com
+#1403216168
+rm ./exported_data/
+#1403216170
+clear
+#1403216176
+ls
+#1403216222
+./tempusextract -f ./accounts.json 
+#1403216226
+..
+#1403216230
+./tempusextract.py -f ./accounts.json 
+#1403216250
+vim ./accounts.json 
+#1403216889
+./tempusextract.py -l ./accounts.json 
+#1403217335
+mv ./exported_data/ ~/workspace/novamigrate/test2/
+#1403192907
+pacsearch asound
+#1403192932
+pacinstall asoundconf
+#1403192985
+asoundconf-gtk 
+#1403197771
+alsamixer 
+#1403193385
+./workspace/ucar/tempusextract/
+#1403197771
+alsamixer 
+#1403193385
+./workspace/ucar/tempusextract/
+#1403239400
+rm ./babe_*
+#1403239415
+rm ./celeb_Jenna_Jameson_Sybian2.wmv
+#1403239450
+rm ./egf0*
+#1403239469
+rm ./Girlfriend\ Squirms\ After\ Hard\ Orgasm.wmv
+#1403239473
+rm ./Girlfriend\ Squirms\ After\ Hard\ Orgasm.wmv.jpg 
+#1403239494
+rm ./Lexi\ Lapetina\ -\ Orgasm.wmv*
+#1403239510
+rm ./Mandy\ Morbid\ \&\ Sasha\ Gray\ -\ Shower*
+#1403239533
+rm ./MM\ -\ lesb*
+#1403239571
+rm ./Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Marie\ McCray\ rides\ the\ Sybian\ -\ 2000k.wmv*
+#1403239580
+rm ./Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Riley\ Mason\ gets\ off\ on\ the\ Sybian\ -\ 2000k.wmv*
+#1403240198
+rm ./celeb_Jenna_Jameson_Sybian2.wmv.jpg 
+#1403240221
+rm ./217237_Mandy_Morbid_Threesome.flv*
+#1403240312
+rm ./empressmorbid.mov*
+#1403240566
+screengen Homemade\ Epic\ Eye\ Rolling\ Orgasm\ -\ Chloe\ Camilla-s.avi 
+#1403240576
+geeqie ./Homemade\ Epic\ Eye\ Rolling\ Orgasm\ -\ Chloe\ Camilla-s.avi.jpg 
+#1403240591
+rm ./Homemade\ Epic\ Eye\ Rolling\ Orgasm\ -\ Chloe\ Camilla-s.avi.jpg
+#1403240598
+rm ./Homemade\ Epic\ Eye\ Rolling\ Orgasm\ -\ Chloe\ Camilla-s.avi 
+#1403240832
+mkdir screens
+#1403240837
+mv ./*.jpg ./screens/
+#1403240929
+ll
+#1403240949
+rm ./Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Felony\ gets\ a\ ride\ on\ the\ Sybian\ -\ 2000k.avi 
+#1403241054
+lt
+#1403241067
+mv ./btcp4759_3000-s.mp4 ./btcp4759_3000.mp4 
+#1403241079
+mv ./23292_01_720p-s.mp4 ./23292_01_720p.mp4 
+#1403241088
+mv ./21649_01_720p-s.mp4 ./21649_01_720p.mp4
+#1403241099
+ls ./*-s*
+#1403241108
+mv ./ma12773_800-s.mp4 ma12773_800.mp4 
+#1403241116
+mv ./Sheena_Ryder_dp_sd-s.mp4 ./Sheena_Ryder_dp_sd.mp4 
+#1403241117
+clear
+#1403241118
+ls
+#1403241130
+rm ./Very\ Loud\ Scene\ With\ Orgasmic\ Brunette-Redhead\ Very\ Fit\ 0b-1.avi 
+#1403241231
+rm ./screens/
+#1403241259
+for f in ./*; do screengen "$f"; done
+#1403242913
+mplayer ./ma12773_800.mp4 
+#1403242937
+rm ./ma12773_800.mp4*
+#1403242966
+mplayer ./MM\ -\ hospital2.flv 
+#1403211133
+./exported_data/
+#1403211137
+./brendan.mcgloin@thecloudisnow.com/
+#1403211142
+vim ./data.json 
+#1403211167
+....
+#1403211169
+./tempusextract/
+#1403211700
+ls ./exported_data/brendan.mcgloin@thecloudisnow.com/
+#1403211774
+mv ./exported_data/brendan.mcgloin@thecloudisnow.com/ ~/workspace/novamigrate/test2/mail/
+#1403213669
+./test.py 
+#1403214925
+mv ./exported_data/brendan.mcgloin@thecloudisnow.com/*.eml ./exported_data/brendan.mcgloin@thecloudisnow.com/data.json ~/workspace/novamigrate/test2/mail/tempusextract/ 
+#1403215050
+mv ./exported_data/brendan.mcgloin@thecloudisnow.com/*.eml ./exported_data/brendan.mcgloin@thecloudisnow.com/data.json ./exported_data/brendan.mcgloin@thecloudisnow.com/labels.json ~/workspace/novamigrate/test2/mail/tempusextract/ 
+#1403215887
+./tempusextract.py -l accounts.json brendan.mcgloin@thecloudisnow.com
+#1403216168
+rm ./exported_data/
+#1403216222
+./tempusextract -f ./accounts.json 
+#1403216230
+./tempusextract.py -f ./accounts.json 
+#1403216250
+vim ./accounts.json 
+#1403216889
+./tempusextract.py -l ./accounts.json 
+#1403217335
+mv ./exported_data/ ~/workspace/novamigrate/test2/
+#1403192907
+pacsearch asound
+#1403192932
+pacinstall asoundconf
+#1403192985
+asoundconf-gtk 
+#1403197771
+alsamixer 
+#1403193385
+./workspace/ucar/tempusextract/
+#1403236532
+./.priv/Inconspicuous_Folder/Vids/
+#1403236534
+mkdir new
+#1403236645
+mv ./Very\ Loud\ Scene\ With\ Orgasmic\ Brunette-Redhead\ Very\ Fit\ 0b-1.avi Stunning\ Hot\ Punk\ Girl\ -\ Mandy\ Morbid\ \[Rare\ Clips\]/ Butt\ Bang\ My\ Ass\ Punk\ #4.mp4 Girlfriend\ Squirms\ After\ Hard\ Orgasm.wmv Lexi\ Lapetina\ -\ Orgasm/ 21649_01_720p.mp4 Squirt\ On\ My\ Big\ White\ Cock\ 2.DVDRip.XxX.avi JulesJordan\ -\ Sheena\ Ryder\ -\ Dp\'d\ By\ Two\ Black\ Stallions\ mp4/ My.Favorite.Emo.Sluts.XXX.DVDRip.XviD/ EmoTeenSluts.Siterip-Patriots.FTW/ Howard\ Stern\ -\ Sybian\ Folder/ Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Felony\ gets\ a\ ride\ on\ the\ Sybian\ -\ 2000k.wmv ma12773_800.mp4 Em4895/ 23292_01_720p.mp4 ./new/
+#1403236765
+mv ./Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Shawna\ Lenee\ rides\ the\ Sybian\ -\ 2000k.wmv Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Riley\ Mason\ gets\ off\ on\ the\ Sybian\ -\ 2000k.wmv Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Marie\ McCray\ rides\ the\ Sybian\ -\ 2000k.wmv Naughty\ Works\ -\ Girls\ On\ Machines\ -\ Jessi\ Summers\ loves\ her\ Sybian\ ride\ -\ 2000k.wmv ./new
+#1403236776
+ls ./*.jpg
+#1403236966
+mv ./Homemade\ Epic\ Eye\ Rolling\ Orgasm\ -\ Chloe\ Camilla.wmv \[BigTitCreampie\]\ 2008-08-23\ Morgan\ Layne\ -\ After\ Party\ Cream\ Pie\ \[.mp4\]/ ./new/
+#1403237014
+./new
+#1403237023
+mv ./\[BigTitCreampie\]\ 2008-08-23\ Morgan\ Layne\ -\ After\ Party\ Cream\ Pie\ \[.mp4\]/btcp4759_3000.mp4 .
+#1403237027
+rm ./\[BigTitCreampie\]\ 2008-08-23\ Morgan\ Layne\ -\ After\ Party\ Cream\ Pie\ \[.mp4\]/
+#1403237048
+geeqie ./Em4895/
+#1403237077
+rm ./Em4895/
+#1403237090
+mv ./EmoTeenSluts.Siterip-Patriots.FTW/egf0* .
+#1403237096
+rm ./EmoTeenSluts.Siterip-Patriots.FTW/
+#1403237108
+ls ./Howard\ Stern\ -\ Sybian\ Folder/
+#1403237113
+mv ./Howard\ Stern\ -\ Sybian\ Folder/* .
+#1403237120
+rm ./Howard\ Stern\ -\ Sybian\ Folder/
+#1403237126
+mv ./JulesJordan\ -\ Sheena\ Ryder\ -\ Dp\'d\ By\ Two\ Black\ Stallions\ mp4/Sheena_Ryder_dp_sd.mp4 .
+#1403237129
+rm ./JulesJordan\ -\ Sheena\ Ryder\ -\ Dp\'d\ By\ Two\ Black\ Stallions\ mp4/
+#1403237142
+mv ./Lexi\ Lapetina\ -\ Orgasm/Lexi\ Lapetina\ -\ Orgasm.wmv .
+#1403237150
+rm ./Lexi\ Lapetina\ -\ Orgasm/
+#1403237166
+mv ./Stunning\ Hot\ Punk\ Girl\ -\ Mandy\ Morbid\ \[Rare\ Clips\]/* .
+#1403237171
+ls ./My.Favorite.Emo.Sluts.XXX.DVDRip.XviD/
+#1403237183
+mv ./My.Favorite.Emo.Sluts.XXX.DVDRip.XviD/ ../to_split/
+#1403237209
+mv ./Squirt\ On\ My\ Big\ White\ Cock\ 2.DVDRip.XxX.avi Butt\ Bang\ My\ Ass\ Punk\ #4.mp4 ../to_split/
+#1403237214
+ls ./Stunning\ Hot\ Punk\ Girl\ -\ Mandy\ Morbid\ \[Rare\ Clips\]/
+#1403237216
+rm ./Stunning\ Hot\ Punk\ Girl\ -\ Mandy\ Morbid\ \[Rare\ Clips\]/
+#1403237238
+for f in ./*; do screengen "$f"; done
+#1403239286
+geeqie 
+#1403241266
+../to_split/
+#1403241285
+mkdir sombwc
+#1403241290
+mv ./Squirt\ On\ My\ Big\ White\ Cock\ 2.DVDRip.XxX.avi ./sombwc/
+#1403241294
+./My.Favorite.Emo.Sluts.XXX.DVDRip.XviD/
+#1403241303
+mv ./CD1/jiggly-mfavesluts-cd1.avi .
+#1403241310
+mv ./CD2/jiggly-mfavesluts-cd2.avi .
+#1403241313
+rm ./CD*
+#1403242141
+rm ./jiggly-mfavesluts-cd*
+#1403242306
+..
+#1403242309
+./sombwc/
+#1403242315
+rm ./Squirt\ On\ My\ Big\ White\ Cock\ 2.DVDRip.XxX.avi 
+#1403242318
+clear
+#1403242318
+df
+#1403242612
+../../new/
+#1403242613
+ls
+#1403242619
+geeqie .
+#1403224894
+alsamixer 
+#1403224724
+./Downloads/
+#1403224727
+wget http://2.media.collegehumor.cvcdn.com/53/28/4936ecfcbbc3d1da4e598d8115802a68.jpg
+#1403224859
+alsamixer 
+#1403224872
+sudo vim /etc/asound.conf 
+#1403243011
+term2048 
+#1403193385
+./workspace/ucar/tempusextract/
+#1403225007
+pulseaudio
+#1403225011
+ps -a | grep -i pulse
+#1403225014
+ps -A | grep -i pulse
+#1403225019
+ps -A | grep -i chr
+#1403274936
+...
+#1403274993
+./novamigrate
+#1403274998
+vim ./.gitignore 

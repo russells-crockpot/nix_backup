@@ -126,6 +126,8 @@ vnoremap <leader>yc "+y
 "vnoremap <leader>bn :bn<CR>
 noremap <C-N> :bn<CR>
 noremap <C-B> :bp<CR>
+inoremap <C-N> :bn<CR>
+inoremap <C-B> :bp<CR>
 
 " Toggle word wrap
 nnoremap <leader>ww :set wrap!<CR>
